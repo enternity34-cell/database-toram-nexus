@@ -235604,6 +235604,111 @@
       "id": 2299,
       "name": "Sakura Warrior Halberd",
       "link": "https://coryn.club/app/26-Sakura%20Warrior%20Halberd.jpg"
+    },
+    {
+      "id": 2300,
+      "name": "Shovel Lance",
+      "link": "https://coryn.club/app/26-Shovel%20Lance.jpg"
+    },
+    {
+      "id": 2301,
+      "name": "Snow Bear Parasol",
+      "link": "https://coryn.club/app/26-Snow%20Bear%20Parasol.jpg"
+    },
+    {
+      "id": 2302,
+      "name": "Spada Lance",
+      "link": "https://coryn.club/app/26-Spada%20Lance.jpg"
+    },
+    {
+      "id": 2303,
+      "name": "Spear",
+      "link": "https://coryn.club/app/26-Spear.jpg"
+    },
+    {
+      "id": 2304,
+      "name": "Temple Spear",
+      "link": "https://coryn.club/app/26-Temple%20Spear.jpg"
+    },
+    {
+      "id": 2305,
+      "name": "Thunder Spear",
+      "link": "https://coryn.club/app/26-Thunder%20Spear.jpg"
+    },
+    {
+      "id": 2306,
+      "name": "Tolerancia",
+      "link": "https://coryn.club/app/26-Tolerancia.jpg"
+    },
+    {
+      "id": 2307,
+      "name": "Tolerancia (old)",
+      "link": "https://coryn.club/app/26-Tolerancia%20(old).jpg"
+    },
+    {
+      "id": 2308,
+      "name": "Trident",
+      "link": "https://coryn.club/app/26-Trident.jpg"
+    },
+    {
+      "id": 2309,
+      "name": "Wanderer's Spear",
+      "link": "https://coryn.club/app/26-Wanderer's%20Spear.jpg"
+    },
+    {
+      "id": 2310,
+      "name": "Warrior Angel Halberd",
+      "link": "https://coryn.club/app/26-Warrior%20Angel%20Halberd.jpg"
+    },
+    {
+      "id": 2311,
+      "name": "Windblast Cone Spear",
+      "link": "https://coryn.club/app/26-Windblast%20Cone%20Spear.jpg"
+    },
+    {
+      "id": 2312,
+      "name": "Yozakura Naginata",
+      "link": "https://coryn.club/app/26-Yozakura%20Naginata.jpg"
+    },
+    {
+      "id": 2313,
+      "name": "3rd Anniv Katana",
+      "link": "https://coryn.club/app/27-3rd%20Anniv%20Katana.jpg"
+    },
+    {
+      "id": 2314,
+      "name": "4th Anniv Katana",
+      "link": "https://coryn.club/app/27-4th%20Anniv%20Katana.jpg"
+    },
+    {
+      "id": 2315,
+      "name": "5th Anniv Katana",
+      "link": "https://coryn.club/app/27-5th%20Anniv%20Katana.jpg"
+    },
+    {
+      "id": 2316,
+      "name": "6th Anniv Katana",
+      "link": "https://coryn.club/app/27-6th%20Anniv%20Katana.jpg"
+    },
+    {
+      "id": 2317,
+      "name": "7th Anniv Katana",
+      "link": "https://coryn.club/app/27-7th%20Anniv%20Katana.jpg"
+    },
+    {
+      "id": 2318,
+      "name": "8th Anniv Katana",
+      "link": "https://coryn.club/app/27-8th%20Anniv%20Katana.jpg"
+    },
+    {
+      "id": 2319,
+      "name": "Abyss Katana",
+      "link": "https://coryn.club/app/27-Abyss%20Katana.jpg"
+    },
+    {
+      "id": 2320,
+      "name": "Abyssal Katana",
+      "link": "https://coryn.club/app/27-Abyssal%20Katana.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254420,5 +254525,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T22:26:11.179Z"
+  "updatedAt": "2025-11-23T23:27:00.079Z"
 }
