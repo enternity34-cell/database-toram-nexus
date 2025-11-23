@@ -234122,8 +234122,8 @@
     },
     {
       "id": 2005,
-      "name": "Viridian Magic Device",
-      "link": "https://coryn.club/app/15-Viridian%20Magic%20Device.jpg"
+      "name": "Minotaur Knuckles",
+      "link": "https://coryn.club/app/13-Minotaur%20Knuckles.jpg"
     },
     {
       "id": 2006,
@@ -234162,13 +234162,13 @@
     },
     {
       "id": 2015,
-      "name": "Sacred Ice Claws",
-      "link": "https://coryn.club/app/13-Sacred%20Ice%20Claws.jpg"
+      "name": "1st Anniv Wings",
+      "link": "https://coryn.club/app/15-1st%20Anniv%20Wings.jpg"
     },
     {
       "id": 2016,
-      "name": "HATSUNE MIKU Microphone Stick",
-      "link": "https://coryn.club/app/19-HATSUNE%20MIKU%20Microphone%20Stick.jpg"
+      "name": "Sakura Gloves",
+      "link": "https://coryn.club/app/13-Sakura%20Gloves.jpg"
     },
     {
       "id": 2017,
@@ -234177,13 +234177,13 @@
     },
     {
       "id": 2018,
-      "name": "8th Anniv Wings",
-      "link": "https://coryn.club/app/15-8th%20Anniv%20Wings.jpg"
+      "name": "Salmon Jerky Knuckles",
+      "link": "https://coryn.club/app/13-Salmon%20Jerky%20Knuckles.jpg"
     },
     {
       "id": 2019,
-      "name": "Amnis Staff",
-      "link": "https://coryn.club/app/19-Amnis%20Staff.jpg"
+      "name": "Sharp Baghnakhs",
+      "link": "https://coryn.club/app/13-Sharp%20Baghnakhs.jpg"
     },
     {
       "id": 2020,
@@ -234202,8 +234202,8 @@
     },
     {
       "id": 2024,
-      "name": "Toy Gun",
-      "link": "https://coryn.club/app/13-Toy%20Gun.jpg"
+      "name": "Magic Brooch",
+      "link": "https://coryn.club/app/15-Magic%20Brooch.jpg"
     },
     {
       "id": 2025,
@@ -234227,8 +234227,8 @@
     },
     {
       "id": 2029,
-      "name": "Visphalanx (Knuckle)",
-      "link": "https://coryn.club/app/13-Visphalanx%20(Knuckle).jpg"
+      "name": "6th Anniv Wings",
+      "link": "https://coryn.club/app/15-6th%20Anniv%20Wings.jpg"
     },
     {
       "id": 2030,
@@ -234964,6 +234964,21 @@
       "id": 481,
       "name": "Party Costume (Heavy)",
       "link": "https://coryn.club/app/8-Party%20Costume%20%5BHeavy-Male%5D.jpg"
+    },
+    {
+      "id": 2010,
+      "name": "Quasar Arm",
+      "link": "https://coryn.club/app/13-Quasar%20Arm.jpg"
+    },
+    {
+      "id": 2011,
+      "name": "Queen Bee-races",
+      "link": "https://coryn.club/app/13-Queen%20Bee-races.jpg"
+    },
+    {
+      "id": 2022,
+      "name": "Tiger Fists",
+      "link": "https://coryn.club/app/13-Tiger%20Fists.jpg"
     }
   ],
   "monsters_indo": [],
@@ -253780,5 +253795,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T09:25:48.172Z"
+  "updatedAt": "2025-11-23T10:27:23.399Z"
 }
