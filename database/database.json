@@ -234242,8 +234242,8 @@
     },
     {
       "id": 2032,
-      "name": "Wind Slayer Chakram",
-      "link": "https://coryn.club/app/13-Wind%20Slayer%20Chakram.jpg"
+      "name": "Cruel Wings",
+      "link": "https://coryn.club/app/15-Cruel%20Wings.jpg"
     },
     {
       "id": 2033,
@@ -234272,13 +234272,13 @@
     },
     {
       "id": 2039,
-      "name": "5th Anniv Wings",
-      "link": "https://coryn.club/app/15-5th%20Anniv%20Wings.jpg"
+      "name": "Elflame",
+      "link": "https://coryn.club/app/15-Elflame.jpg"
     },
     {
       "id": 2040,
-      "name": "6th Anniv Wings",
-      "link": "https://coryn.club/app/15-6th%20Anniv%20Wings.jpg"
+      "name": "Demon Empress Staff",
+      "link": "https://coryn.club/app/19-Demon%20Empress%20Staff.jpg"
     },
     {
       "id": 2041,
@@ -234292,18 +234292,18 @@
     },
     {
       "id": 2043,
-      "name": "Falburrows Feelers",
-      "link": "https://coryn.club/app/15-Falburrows%20Feelers.jpg"
+      "name": "Alfreon",
+      "link": "https://coryn.club/app/15-Alfreon.jpg"
     },
     {
       "id": 2044,
-      "name": "Aranea Ore",
-      "link": "https://coryn.club/app/15-Aranea%20Ore.jpg"
+      "name": "Angel Halo",
+      "link": "https://coryn.club/app/15-Angel%20Halo.jpg"
     },
     {
       "id": 2045,
-      "name": "7th Anniv Halberd",
-      "link": "https://coryn.club/app/26-7th%20Anniv%20Halberd.jpg"
+      "name": "Aquarator",
+      "link": "https://coryn.club/app/15-Aquarator.jpg"
     },
     {
       "id": 2047,
@@ -234979,6 +234979,11 @@
       "id": 2022,
       "name": "Tiger Fists",
       "link": "https://coryn.club/app/13-Tiger%20Fists.jpg"
+    },
+    {
+      "id": 2050,
+      "name": "Watching Mom",
+      "link": "https://coryn.club/app/15-Watching%20Mom.jpg"
     }
   ],
   "monsters_indo": [],
@@ -253795,5 +253800,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T10:27:23.399Z"
+  "updatedAt": "2025-11-23T11:25:48.976Z"
 }
