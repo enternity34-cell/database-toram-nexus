@@ -234692,8 +234692,8 @@
     },
     {
       "id": 2127,
-      "name": "Exorcism Arrow",
-      "link": "https://coryn.club/app/19-Exorcism%20Arrow.jpg"
+      "name": "8th Anniv Staff V",
+      "link": "https://coryn.club/app/19-8th%20Anniv%20Staff%20V.jpg"
     },
     {
       "id": 2128,
@@ -234742,8 +234742,8 @@
     },
     {
       "id": 2140,
-      "name": "Tatetsuba",
-      "link": "https://coryn.club/app/27-Tatetsuba.jpg"
+      "name": "Demon Empress Staff",
+      "link": "https://coryn.club/app/19-Demon%20Empress%20Staff.jpg"
     },
     {
       "id": 2141,
@@ -234989,6 +234989,36 @@
       "id": 2063,
       "name": "Falburrows Feelers",
       "link": "https://coryn.club/app/15-Falburrows%20Feelers.jpg"
+    },
+    {
+      "id": 2126,
+      "name": "8th Anniv Staff IV",
+      "link": "https://coryn.club/app/19-8th%20Anniv%20Staff%20IV.jpg"
+    },
+    {
+      "id": 2131,
+      "name": "Beastlord Staff",
+      "link": "https://coryn.club/app/19-Beastlord%20Staff.jpg"
+    },
+    {
+      "id": 2134,
+      "name": "Caduceus",
+      "link": "https://coryn.club/app/19-Caduceus.jpg"
+    },
+    {
+      "id": 2138,
+      "name": "Crystal Rod",
+      "link": "https://coryn.club/app/19-Crystal%20Rod.jpg"
+    },
+    {
+      "id": 2142,
+      "name": "Dia Staff",
+      "link": "https://coryn.club/app/19-Dia%20Staff.jpg"
+    },
+    {
+      "id": 2147,
+      "name": "Exorcism Arrow",
+      "link": "https://coryn.club/app/19-Exorcism%20Arrow.jpg"
     }
   ],
   "monsters_indo": [],
@@ -253805,5 +253835,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T14:26:02.280Z"
+  "updatedAt": "2025-11-23T15:27:28.872Z"
 }
