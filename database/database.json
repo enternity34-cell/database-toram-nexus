@@ -233772,13 +233772,13 @@
     },
     {
       "id": 1935,
-      "name": "Beer Mugs",
-      "link": "https://coryn.club/app/13-Beer%20Mugs.jpg"
+      "name": "Short Musket",
+      "link": "https://coryn.club/app/10-Short%20Musket.jpg"
     },
     {
       "id": 1936,
-      "name": "Katar",
-      "link": "https://coryn.club/app/13-Katar.jpg"
+      "name": "Snow Bear Toy Gun",
+      "link": "https://coryn.club/app/10-Snow%20Bear%20Toy%20Gun.jpg"
     },
     {
       "id": 1937,
@@ -233792,8 +233792,8 @@
     },
     {
       "id": 1939,
-      "name": "Super Costero",
-      "link": "https://coryn.club/app/15-Super%20Costero.jpg"
+      "name": "Triangulum Bowgun",
+      "link": "https://coryn.club/app/10-Triangulum%20Bowgun.jpg"
     },
     {
       "id": 1940,
@@ -233807,8 +233807,8 @@
     },
     {
       "id": 1942,
-      "name": "Chestnut Knuckles",
-      "link": "https://coryn.club/app/13-Chestnut%20Knuckles.jpg"
+      "name": "Yozakura Handgun",
+      "link": "https://coryn.club/app/10-Yozakura%20Handgun.jpg"
     },
     {
       "id": 1943,
@@ -233817,8 +233817,8 @@
     },
     {
       "id": 1944,
-      "name": "1st Anniv Knuckles II",
-      "link": "https://coryn.club/app/13-1st%20Anniv%20Knuckles.jpg"
+      "name": "Master's Tonfa",
+      "link": "https://coryn.club/app/13-Master's%20Tonfa.jpg"
     },
     {
       "id": 1945,
@@ -253780,5 +253780,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T06:26:46.377Z"
+  "updatedAt": "2025-11-23T07:26:07.083Z"
 }
