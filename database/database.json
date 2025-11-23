@@ -235399,6 +235399,106 @@
       "id": 2257,
       "name": "Glaive",
       "link": "https://coryn.club/app/26-Glaive.jpg"
+    },
+    {
+      "id": 2258,
+      "name": "Golden Lance",
+      "link": "https://coryn.club/app/26-Golden%20Lance.jpg"
+    },
+    {
+      "id": 2259,
+      "name": "Graviton Glaive",
+      "link": "https://coryn.club/app/26-Graviton%20Glaive.jpg"
+    },
+    {
+      "id": 2260,
+      "name": "Grilled Squid",
+      "link": "https://coryn.club/app/26-Grilled%20Squid.jpg"
+    },
+    {
+      "id": 2261,
+      "name": "Guard Bone Lance",
+      "link": "https://coryn.club/app/26-Guard%20Bone%20Lance.jpg"
+    },
+    {
+      "id": 2262,
+      "name": "Gwai Reaper",
+      "link": "https://coryn.club/app/26-Gwai%20Reaper.jpg"
+    },
+    {
+      "id": 2263,
+      "name": "Heavy Spear",
+      "link": "https://coryn.club/app/26-Heavy%20Spear.jpg"
+    },
+    {
+      "id": 2264,
+      "name": "Hell Reaper (Halberd)",
+      "link": "https://coryn.club/app/26-Hell%20Reaper%20(Halberd).jpg"
+    },
+    {
+      "id": 2265,
+      "name": "Holy Night Halberd",
+      "link": "https://coryn.club/app/26-Holy%20Night%20Halberd.jpg"
+    },
+    {
+      "id": 2266,
+      "name": "Ice Spear Glaso",
+      "link": "https://coryn.club/app/26-Ice%20Spear%20Glaso.jpg"
+    },
+    {
+      "id": 2267,
+      "name": "Ice Spirit Spear",
+      "link": "https://coryn.club/app/26-Ice%20Spirit%20Spear.jpg"
+    },
+    {
+      "id": 2268,
+      "name": "Ignis Glaive",
+      "link": "https://coryn.club/app/26-Ignis%20Glaive.jpg"
+    },
+    {
+      "id": 2269,
+      "name": "Infini Glaive",
+      "link": "https://coryn.club/app/26-Infini%20Glaive.jpg"
+    },
+    {
+      "id": 2270,
+      "name": "Intruder",
+      "link": "https://coryn.club/app/26-Intruder.jpg"
+    },
+    {
+      "id": 2272,
+      "name": "Knight Lance",
+      "link": "https://coryn.club/app/26-Knight%20Lance.jpg"
+    },
+    {
+      "id": 2273,
+      "name": "Leodom Glaive",
+      "link": "https://coryn.club/app/26-Leodom%20Glaive.jpg"
+    },
+    {
+      "id": 2274,
+      "name": "Light Trident",
+      "link": "https://coryn.club/app/26-Light%20Trident.jpg"
+    },
+    {
+      "id": 2275,
+      "name": "Lightning Bolt Spear",
+      "link": "https://coryn.club/app/26-Lightning%20Bolt%20Spear.jpg"
+    },
+    {
+      "id": 2276,
+      "name": "Lil Devil Lance",
+      "link": "https://coryn.club/app/26-Lil%20Devil%20Lance.jpg"
+    },
+    {
+      "id": 2277,
+      "name": "Lil Empress Halberd",
+      "link": "https://coryn.club/app/26-Lil%20Empress%20Halberd.jpg"
+    },
+    {
+      "id": 2278,
+      "name": "Lolliodd Magic Halberd",
+      "link": "https://coryn.club/app/26-Lolliodd%20Magic%20Halberd.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254215,5 +254315,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T20:26:08.972Z"
+  "updatedAt": "2025-11-23T21:27:03.090Z"
 }
