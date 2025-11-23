@@ -234592,8 +234592,8 @@
     },
     {
       "id": 2106,
-      "name": "Mortal Slate",
-      "link": "https://coryn.club/app/19-Mortal%20Slate.jpg"
+      "name": "Visphalanx (Magic Device)",
+      "link": "https://coryn.club/app/15-Visphalanx%20(Magic%20Device).jpg"
     },
     {
       "id": 2107,
@@ -234607,23 +234607,23 @@
     },
     {
       "id": 2109,
-      "name": "Gemma Anello",
-      "link": "https://coryn.club/app/19-Gemma%20Anello.jpg"
+      "name": "Warrior Angel Armor",
+      "link": "https://coryn.club/app/15-Warrior%20Angel%20Armor.jpg"
     },
     {
       "id": 2110,
-      "name": "Pencil Halberd",
-      "link": "https://coryn.club/app/26-Pencil%20Halberd.jpg"
+      "name": "Watching Mom",
+      "link": "https://coryn.club/app/15-Watching%20Mom.jpg"
     },
     {
       "id": 2111,
-      "name": "Beastlord Staff",
-      "link": "https://coryn.club/app/19-Beastlord%20Staff.jpg"
+      "name": "Einsamkeit",
+      "link": "https://coryn.club/app/26-Einsamkeit.jpg"
     },
     {
       "id": 2112,
-      "name": "Caduceus",
-      "link": "https://coryn.club/app/19-Caduceus.jpg"
+      "name": "Whirlwind",
+      "link": "https://coryn.club/app/15-Whirlwind.jpg"
     },
     {
       "id": 2113,
@@ -234647,13 +234647,13 @@
     },
     {
       "id": 2117,
-      "name": "Gloomy Flower Staff",
-      "link": "https://coryn.club/app/19-Gloomy%20Flower%20Staff.jpg"
+      "name": "2nd Anniv Staff",
+      "link": "https://coryn.club/app/19-2nd%20Anniv%20Staff.jpg"
     },
     {
       "id": 2118,
-      "name": "Crystal Rod",
-      "link": "https://coryn.club/app/19-Crystal%20Rod.jpg"
+      "name": "3rd Anniv Staff",
+      "link": "https://coryn.club/app/19-3rd%20Anniv%20Staff.jpg"
     },
     {
       "id": 2119,
@@ -234677,8 +234677,8 @@
     },
     {
       "id": 2123,
-      "name": "8th Anniv Staff",
-      "link": "https://coryn.club/app/19-8th%20Anniv%20Staff.jpg"
+      "name": "Snow Bear Candy",
+      "link": "https://coryn.club/app/27-Snow%20Bear%20Candy.jpg"
     },
     {
       "id": 2124,
@@ -253805,5 +253805,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T13:27:00.708Z"
+  "updatedAt": "2025-11-23T14:26:02.280Z"
 }
