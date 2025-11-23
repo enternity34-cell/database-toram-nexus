@@ -233062,8 +233062,8 @@
     },
     {
       "id": 1786,
-      "name": "Mortal Katar",
-      "link": "https://coryn.club/app/13-Mortal%20Katar.jpg"
+      "name": "2nd Anniv Bow",
+      "link": "https://coryn.club/app/9-2nd%20Anniv%20Bow.jpg"
     },
     {
       "id": 1787,
@@ -233072,8 +233072,8 @@
     },
     {
       "id": 1788,
-      "name": "Zaif Sadik",
-      "link": "https://coryn.club/app/13-Zaif%20Sadik.jpg"
+      "name": "4th Anniv Bow",
+      "link": "https://coryn.club/app/9-4th%20Anniv%20Bow.jpg"
     },
     {
       "id": 1789,
@@ -233102,8 +233102,8 @@
     },
     {
       "id": 1794,
-      "name": "Guard Bone Bow",
-      "link": "https://coryn.club/app/9-Guard%20Bone%20Bow.jpg"
+      "name": "Alto Ruin Bow",
+      "link": "https://coryn.club/app/9-Alto%20Ruin%20Bow.jpg"
     },
     {
       "id": 1795,
@@ -233212,8 +233212,8 @@
     },
     {
       "id": 1816,
-      "name": "Vermio Bow",
-      "link": "https://coryn.club/app/9-Vermio%20Bow.jpg"
+      "name": "Hell Stellar Bow",
+      "link": "https://coryn.club/app/9-Hell%20Stellar%20Bow.jpg"
     },
     {
       "id": 1817,
@@ -253780,5 +253780,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T02:26:57.181Z"
+  "updatedAt": "2025-11-23T03:26:02.879Z"
 }
