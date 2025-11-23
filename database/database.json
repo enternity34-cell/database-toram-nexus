@@ -234492,13 +234492,13 @@
     },
     {
       "id": 2086,
-      "name": "8th Anniv Staff IV",
-      "link": "https://coryn.club/app/19-8th%20Anniv%20Staff%20IV.jpg"
+      "name": "Metal Wings",
+      "link": "https://coryn.club/app/15-Metal%20Wings.jpg"
     },
     {
       "id": 2087,
-      "name": "Priest Mace",
-      "link": "https://coryn.club/app/19-Priest%20Mace.jpg"
+      "name": "Orbital Mystic Spheres",
+      "link": "https://coryn.club/app/15-Orbital%20Mystic%20Spheres.jpg"
     },
     {
       "id": 2088,
@@ -234522,8 +234522,8 @@
     },
     {
       "id": 2092,
-      "name": "Whirlwind",
-      "link": "https://coryn.club/app/15-Whirlwind.jpg"
+      "name": "Prism Ring",
+      "link": "https://coryn.club/app/15-Prism%20Ring.jpg"
     },
     {
       "id": 2093,
@@ -253805,5 +253805,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T12:25:58.074Z"
+  "updatedAt": "2025-11-23T13:27:00.708Z"
 }
