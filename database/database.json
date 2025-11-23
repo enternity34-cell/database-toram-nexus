@@ -234882,8 +234882,8 @@
     },
     {
       "id": 2172,
-      "name": "Lil Devil Lance",
-      "link": "https://coryn.club/app/26-Lil%20Devil%20Lance.jpg"
+      "name": "Mage Rod",
+      "link": "https://coryn.club/app/19-Mage%20Rod.jpg"
     },
     {
       "id": 2174,
@@ -235024,6 +235024,76 @@
       "id": 2154,
       "name": "Gloomy Flower Staff",
       "link": "https://coryn.club/app/19-Gloomy%20Flower%20Staff.jpg"
+    },
+    {
+      "id": 2173,
+      "name": "Mana Cascade Staff",
+      "link": "https://coryn.club/app/19-Mana%20Cascade%20Staff.jpg"
+    },
+    {
+      "id": 2178,
+      "name": "Mortal Slate",
+      "link": "https://coryn.club/app/19-Mortal%20Slate.jpg"
+    },
+    {
+      "id": 2181,
+      "name": "Pearl Sakura Staff",
+      "link": "https://coryn.club/app/19-Pearl%20Sakura%20Staff.jpg"
+    },
+    {
+      "id": 2182,
+      "name": "Phantom Wisp Staff",
+      "link": "https://coryn.club/app/19-Phantom%20Wisp%20Staff.jpg"
+    },
+    {
+      "id": 2183,
+      "name": "Phillip's Microphone",
+      "link": "https://coryn.club/app/19-Phillip's%20Microphone.jpg"
+    },
+    {
+      "id": 2184,
+      "name": "Piton Staff",
+      "link": "https://coryn.club/app/19-Piton%20Staff.jpg"
+    },
+    {
+      "id": 2185,
+      "name": "Pom Pom Staff Mace",
+      "link": "https://coryn.club/app/19-Pom%20Pom%20Staff%20Mace.jpg"
+    },
+    {
+      "id": 2186,
+      "name": "Potum Staff",
+      "link": "https://coryn.club/app/19-Potum%20Staff.jpg"
+    },
+    {
+      "id": 2187,
+      "name": "Priest Mace",
+      "link": "https://coryn.club/app/19-Priest%20Mace.jpg"
+    },
+    {
+      "id": 2188,
+      "name": "Queen of Hearts Staff",
+      "link": "https://coryn.club/app/19-Queen%20of%20Hearts%20Staff.jpg"
+    },
+    {
+      "id": 2190,
+      "name": "Red Steel Staff",
+      "link": "https://coryn.club/app/19-Red%20Steel%20Staff.jpg"
+    },
+    {
+      "id": 2191,
+      "name": "Reticencia",
+      "link": "https://coryn.club/app/19-Reticencia.jpg"
+    },
+    {
+      "id": 2192,
+      "name": "Rock Staff",
+      "link": "https://coryn.club/app/19-Rock%20Staff.jpg"
+    },
+    {
+      "id": 2193,
+      "name": "Rod",
+      "link": "https://coryn.club/app/19-Rod.jpg"
     }
   ],
   "monsters_indo": [],
@@ -253840,5 +253910,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T16:26:37.179Z"
+  "updatedAt": "2025-11-23T17:26:51.989Z"
 }
