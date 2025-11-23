@@ -235094,6 +235094,116 @@
       "id": 2193,
       "name": "Rod",
       "link": "https://coryn.club/app/19-Rod.jpg"
+    },
+    {
+      "id": 2194,
+      "name": "Rolling Pin Staff",
+      "link": "https://coryn.club/app/19-Rolling%20Pin%20Staff.jpg"
+    },
+    {
+      "id": 2195,
+      "name": "Sacred Ice Staff",
+      "link": "https://coryn.club/app/19-Sacred%20Ice%20Staff.jpg"
+    },
+    {
+      "id": 2196,
+      "name": "Sage Staff",
+      "link": "https://coryn.club/app/19-Sage%20Staff.jpg"
+    },
+    {
+      "id": 2197,
+      "name": "Sakura Lantern Staff",
+      "link": "https://coryn.club/app/19-Sakura%20Lantern%20Staff.jpg"
+    },
+    {
+      "id": 2198,
+      "name": "Sakura Staff",
+      "link": "https://coryn.club/app/19-Sakura%20Staff.jpg"
+    },
+    {
+      "id": 2199,
+      "name": "Sakura Warrior Staff",
+      "link": "https://coryn.club/app/19-Sakura%20Warrior%20Staff.jpg"
+    },
+    {
+      "id": 2200,
+      "name": "Scrader Mace",
+      "link": "https://coryn.club/app/19-Scrader%20Mace.jpg"
+    },
+    {
+      "id": 2201,
+      "name": "Seadevil Staff",
+      "link": "https://coryn.club/app/19-Seadevil%20Staff.jpg"
+    },
+    {
+      "id": 2202,
+      "name": "Shaman Staff",
+      "link": "https://coryn.club/app/19-Shaman%20Staff.jpg"
+    },
+    {
+      "id": 2203,
+      "name": "Shovel Staff",
+      "link": "https://coryn.club/app/19-Shovel%20Staff.jpg"
+    },
+    {
+      "id": 2204,
+      "name": "Solar Staff",
+      "link": "https://coryn.club/app/19-Solar%20Staff.jpg"
+    },
+    {
+      "id": 2205,
+      "name": "Sphere Staff",
+      "link": "https://coryn.club/app/19-Sphere%20Staff.jpg"
+    },
+    {
+      "id": 2206,
+      "name": "Spirit Staff",
+      "link": "https://coryn.club/app/19-Spirit%20Staff.jpg"
+    },
+    {
+      "id": 2207,
+      "name": "Spirit's Tear",
+      "link": "https://coryn.club/app/19-Spirit's%20Tear.jpg"
+    },
+    {
+      "id": 2208,
+      "name": "Staff of Cold Serenity",
+      "link": "https://coryn.club/app/19-Staff%20of%20Cold%20Serenity.jpg"
+    },
+    {
+      "id": 2209,
+      "name": "Storm Staff",
+      "link": "https://coryn.club/app/19-Storm%20Staff.jpg"
+    },
+    {
+      "id": 2210,
+      "name": "Sunflower",
+      "link": "https://coryn.club/app/19-Sunflower.jpg"
+    },
+    {
+      "id": 2211,
+      "name": "Sweet Spoon",
+      "link": "https://coryn.club/app/19-Sweet%20Spoon.jpg"
+    },
+    {
+      "id": 2212,
+      "name": "Twisted Staff",
+      "link": "https://coryn.club/app/19-Twisted%20Staff.jpg"
+    },
+    {
+      "id": 2213,
+      "name": "Vine Staff",
+      "link": "https://coryn.club/app/19-Vine%20Staff.jpg"
+    },
+    {
+      "id": 2214,
+      "name": "Vulcan Staff",
+      "link": "https://coryn.club/app/19-Vulcan%20Staff.jpg"
+    },
+    {
+      "id": 2215,
+      "name": "Water Staff",
+      "link": "https://coryn.club/app/19-Water%20Staff.jpg"
     }
   ],
   "monsters_indo": [],
@@ -253910,5 +254020,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T17:26:51.989Z"
+  "updatedAt": "2025-11-23T18:26:17.479Z"
 }
