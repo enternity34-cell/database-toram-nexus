@@ -234427,8 +234427,8 @@
     },
     {
       "id": 2073,
-      "name": "Rod",
-      "link": "https://coryn.club/app/19-Rod.jpg"
+      "name": "Humida Wings",
+      "link": "https://coryn.club/app/15-Humida%20Wings.jpg"
     },
     {
       "id": 2074,
@@ -234442,8 +234442,8 @@
     },
     {
       "id": 2076,
-      "name": "Dia Staff",
-      "link": "https://coryn.club/app/19-Dia%20Staff.jpg"
+      "name": "Irogeon",
+      "link": "https://coryn.club/app/15-Irogeon.jpg"
     },
     {
       "id": 2077,
@@ -234457,8 +234457,8 @@
     },
     {
       "id": 2079,
-      "name": "Layered Magic System",
-      "link": "https://coryn.club/app/15-Layered%20Magic%20System.jpg"
+      "name": "Oculasignio Fan Staff",
+      "link": "https://coryn.club/app/19-Oculasignio%20Fan%20Staff.jpg"
     },
     {
       "id": 2080,
@@ -234984,6 +234984,11 @@
       "id": 2050,
       "name": "Watching Mom",
       "link": "https://coryn.club/app/15-Watching%20Mom.jpg"
+    },
+    {
+      "id": 2063,
+      "name": "Falburrows Feelers",
+      "link": "https://coryn.club/app/15-Falburrows%20Feelers.jpg"
     }
   ],
   "monsters_indo": [],
@@ -253800,5 +253805,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T11:25:48.976Z"
+  "updatedAt": "2025-11-23T12:25:58.074Z"
 }
