@@ -235499,6 +235499,111 @@
       "id": 2278,
       "name": "Lolliodd Magic Halberd",
       "link": "https://coryn.club/app/26-Lolliodd%20Magic%20Halberd.jpg"
+    },
+    {
+      "id": 2279,
+      "name": "Macaron Tower Lance",
+      "link": "https://coryn.club/app/26-Macaron%20Tower%20Lance.jpg"
+    },
+    {
+      "id": 2280,
+      "name": "Magic Crystal Spear",
+      "link": "https://coryn.club/app/26-Magic%20Crystal%20Spear.jpg"
+    },
+    {
+      "id": 2281,
+      "name": "Mauez's Pole",
+      "link": "https://coryn.club/app/26-Mauez's%20Pole.jpg"
+    },
+    {
+      "id": 2282,
+      "name": "Mezraq",
+      "link": "https://coryn.club/app/26-Mezraq.jpg"
+    },
+    {
+      "id": 2283,
+      "name": "Mop",
+      "link": "https://coryn.club/app/26-Mop.jpg"
+    },
+    {
+      "id": 2284,
+      "name": "Mystic Star Spear",
+      "link": "https://coryn.club/app/26-Mystic%20Star%20Spear.jpg"
+    },
+    {
+      "id": 2285,
+      "name": "New Moon Naginata",
+      "link": "https://coryn.club/app/26-New%20Moon%20Naginata.jpg"
+    },
+    {
+      "id": 2286,
+      "name": "Noble Glaive",
+      "link": "https://coryn.club/app/26-Noble%20Glaive.jpg"
+    },
+    {
+      "id": 2287,
+      "name": "Paladin Spear",
+      "link": "https://coryn.club/app/26-Paladin%20Spear.jpg"
+    },
+    {
+      "id": 2288,
+      "name": "Parasol Choco Lance",
+      "link": "https://coryn.club/app/26-Parasol%20Choco%20Lance.jpg"
+    },
+    {
+      "id": 2289,
+      "name": "Pearl Sakura Halberd",
+      "link": "https://coryn.club/app/26-Pearl%20Sakura%20Halberd.jpg"
+    },
+    {
+      "id": 2290,
+      "name": "Pencil Halberd",
+      "link": "https://coryn.club/app/26-Pencil%20Halberd.jpg"
+    },
+    {
+      "id": 2291,
+      "name": "Poison Flame Dragon Halberd",
+      "link": "https://coryn.club/app/26-Poison%20Flame%20Dragon%20Halberd.jpg"
+    },
+    {
+      "id": 2292,
+      "name": "Pollaxe",
+      "link": "https://coryn.club/app/26-Pollaxe.jpg"
+    },
+    {
+      "id": 2293,
+      "name": "Queen of Hearts",
+      "link": "https://coryn.club/app/26-Queen%20of%20Hearts.jpg"
+    },
+    {
+      "id": 2294,
+      "name": "Raven Lance",
+      "link": "https://coryn.club/app/26-Raven%20Lance.jpg"
+    },
+    {
+      "id": 2295,
+      "name": "Reverdie Halberd",
+      "link": "https://coryn.club/app/26-Reverdie%20Halberd.jpg"
+    },
+    {
+      "id": 2296,
+      "name": "Sacred Ice Spear",
+      "link": "https://coryn.club/app/26-Sacred%20Ice%20Spear.jpg"
+    },
+    {
+      "id": 2297,
+      "name": "Sakura Lantern Lance",
+      "link": "https://coryn.club/app/26-Sakura%20Lantern%20Lance.jpg"
+    },
+    {
+      "id": 2298,
+      "name": "Sakura Naginata",
+      "link": "https://coryn.club/app/26-Sakura%20Naginata.jpg"
+    },
+    {
+      "id": 2299,
+      "name": "Sakura Warrior Halberd",
+      "link": "https://coryn.club/app/26-Sakura%20Warrior%20Halberd.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254315,5 +254420,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T21:27:03.090Z"
+  "updatedAt": "2025-11-23T22:26:11.179Z"
 }
