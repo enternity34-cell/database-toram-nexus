@@ -235204,6 +235204,116 @@
       "id": 2215,
       "name": "Water Staff",
       "link": "https://coryn.club/app/19-Water%20Staff.jpg"
+    },
+    {
+      "id": 2216,
+      "name": "Wind Staff",
+      "link": "https://coryn.club/app/19-Wind%20Staff.jpg"
+    },
+    {
+      "id": 2217,
+      "name": "Windchanter Staff",
+      "link": "https://coryn.club/app/19-Windchanter%20Staff.jpg"
+    },
+    {
+      "id": 2218,
+      "name": "Xellos' Staff",
+      "link": "https://coryn.club/app/19-Xellos'%20Staff.jpg"
+    },
+    {
+      "id": 2219,
+      "name": "Yozakura Crescent Staff",
+      "link": "https://coryn.club/app/19-Yozakura%20Crescent%20Staff.jpg"
+    },
+    {
+      "id": 2220,
+      "name": "2nd Anniv Halberd",
+      "link": "https://coryn.club/app/26-2nd%20Anniv%20Halberd.jpg"
+    },
+    {
+      "id": 2221,
+      "name": "3rd Anniv Halberd",
+      "link": "https://coryn.club/app/26-3rd%20Anniv%20Halberd.jpg"
+    },
+    {
+      "id": 2222,
+      "name": "4th Anniv Halberd",
+      "link": "https://coryn.club/app/26-4th%20Anniv%20Halberd.jpg"
+    },
+    {
+      "id": 2223,
+      "name": "5th Anniv Halberd",
+      "link": "https://coryn.club/app/26-5th%20Anniv%20Halberd.jpg"
+    },
+    {
+      "id": 2224,
+      "name": "6th Anniv Halberd",
+      "link": "https://coryn.club/app/26-6th%20Anniv%20Halberd.jpg"
+    },
+    {
+      "id": 2225,
+      "name": "7th Anniv Halberd",
+      "link": "https://coryn.club/app/26-7th%20Anniv%20Halberd.jpg"
+    },
+    {
+      "id": 2226,
+      "name": "8th Anniv Halberd",
+      "link": "https://coryn.club/app/26-8th%20Anniv%20Halberd.jpg"
+    },
+    {
+      "id": 2227,
+      "name": "8th Anniv Halberd II",
+      "link": "https://coryn.club/app/26-8th%20Anniv%20Halberd%20II.jpg"
+    },
+    {
+      "id": 2228,
+      "name": "8th Anniv Halberd III",
+      "link": "https://coryn.club/app/26-8th%20Anniv%20Halberd%20III.jpg"
+    },
+    {
+      "id": 2229,
+      "name": "8th Anniv Halberd IV",
+      "link": "https://coryn.club/app/26-8th%20Anniv%20Halberd%20IV.jpg"
+    },
+    {
+      "id": 2230,
+      "name": "8th Anniv Halberd V",
+      "link": "https://coryn.club/app/26-8th%20Anniv%20Halberd%20V.jpg"
+    },
+    {
+      "id": 2231,
+      "name": "8th Anniv Halberd VI",
+      "link": "https://coryn.club/app/26-8th%20Anniv%20Halberd%20VI.jpg"
+    },
+    {
+      "id": 2232,
+      "name": "Amcrie",
+      "link": "https://coryn.club/app/26-Amcrie.jpg"
+    },
+    {
+      "id": 2233,
+      "name": "Antler Glaive",
+      "link": "https://coryn.club/app/26-Antler%20Glaive.jpg"
+    },
+    {
+      "id": 2234,
+      "name": "Aquila Glaive",
+      "link": "https://coryn.club/app/26-Aquila%20Glaive.jpg"
+    },
+    {
+      "id": 2235,
+      "name": "Avid Glaive",
+      "link": "https://coryn.club/app/26-Avid%20Glaive.jpg"
+    },
+    {
+      "id": 2236,
+      "name": "Azure Rose",
+      "link": "https://coryn.club/app/26-Azure%20Rose.jpg"
+    },
+    {
+      "id": 2237,
+      "name": "Azure Spear",
+      "link": "https://coryn.club/app/26-Azure%20Spear.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254020,5 +254130,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T18:26:17.479Z"
+  "updatedAt": "2025-11-23T19:27:12.985Z"
 }
