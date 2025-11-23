@@ -234857,18 +234857,18 @@
     },
     {
       "id": 2167,
-      "name": "Lollipop Staff",
-      "link": "https://coryn.club/app/19-Lollipop%20Staff.jpg"
+      "name": "Demon Empress Spear",
+      "link": "https://coryn.club/app/26-Demon%20Empress%20Spear.jpg"
     },
     {
       "id": 2168,
-      "name": "Lovely Wand",
-      "link": "https://coryn.club/app/19-Lovely%20Wand.jpg"
+      "name": "Dia Spear",
+      "link": "https://coryn.club/app/26-Dia%20Spear.jpg"
     },
     {
       "id": 2169,
-      "name": "Luminous Mushroom Staff",
-      "link": "https://coryn.club/app/19-Luminous%20Mushroom%20Staff.jpg"
+      "name": "Queen Staff (Potum)",
+      "link": "https://coryn.club/app/19-Queen%20Staff%20(Potum).jpg"
     },
     {
       "id": 2170,
@@ -235019,6 +235019,11 @@
       "id": 2147,
       "name": "Exorcism Arrow",
       "link": "https://coryn.club/app/19-Exorcism%20Arrow.jpg"
+    },
+    {
+      "id": 2154,
+      "name": "Gloomy Flower Staff",
+      "link": "https://coryn.club/app/19-Gloomy%20Flower%20Staff.jpg"
     }
   ],
   "monsters_indo": [],
@@ -253835,5 +253840,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T15:27:28.872Z"
+  "updatedAt": "2025-11-23T16:26:37.179Z"
 }
