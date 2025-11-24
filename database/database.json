@@ -235999,6 +235999,61 @@
       "id": 2378,
       "name": "Seadevil Katana",
       "link": "https://coryn.club/app/27-Seadevil%20Katana.jpg"
+    },
+    {
+      "id": 2379,
+      "name": "Seiun",
+      "link": "https://coryn.club/app/27-Seiun.jpg"
+    },
+    {
+      "id": 2380,
+      "name": "Shirasaya",
+      "link": "https://coryn.club/app/27-Shirasaya.jpg"
+    },
+    {
+      "id": 2381,
+      "name": "Shirogane",
+      "link": "https://coryn.club/app/27-Shirogane.jpg"
+    },
+    {
+      "id": 2382,
+      "name": "Shura Koshirae",
+      "link": "https://coryn.club/app/27-Shura%20Koshirae.jpg"
+    },
+    {
+      "id": 2384,
+      "name": "Sumire Renkyoku",
+      "link": "https://coryn.club/app/27-Sumire%20Renkyoku.jpg"
+    },
+    {
+      "id": 2385,
+      "name": "Sword of Light (Katana)",
+      "link": "https://coryn.club/app/27-Sword%20of%20Light%20(Katana).jpg"
+    },
+    {
+      "id": 2386,
+      "name": "Tatetsuba",
+      "link": "https://coryn.club/app/27-Tatetsuba.jpg"
+    },
+    {
+      "id": 2387,
+      "name": "Tsukikage-Sakuya",
+      "link": "https://coryn.club/app/27-Tsukikage-Sakuya.jpg"
+    },
+    {
+      "id": 2388,
+      "name": "White Viper",
+      "link": "https://coryn.club/app/27-White%20Viper.jpg"
+    },
+    {
+      "id": 2389,
+      "name": "Yatagarasu",
+      "link": "https://coryn.club/app/27-Yatagarasu.jpg"
+    },
+    {
+      "id": 2390,
+      "name": "Yozakura Katana",
+      "link": "https://coryn.club/app/27-Yozakura%20Katana.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254815,5 +254870,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-24T02:25:39.780Z"
+  "updatedAt": "2025-11-24T02:59:59.576Z"
 }
