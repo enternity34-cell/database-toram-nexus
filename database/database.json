@@ -243183,8 +243183,8 @@
       "exp": "4600",
       "map": "Anniversary Arena: 3rd Venue",
       "drops": [
-        "[Usable] Revita V",
         "[Usable] Vita Plus V",
+        "[Usable] Revita V",
         "[Additional] Berserker Mask \n                                            \n                                                            A\n                                                            71\n                                                            53",
         "[Material] Silpom 3rd Anniv Medal"
       ]
@@ -243280,11 +243280,11 @@
         "[Bowgun] Lil Empress Bowgun",
         "[Dagger] Lil Empress Dagger",
         "[Knuckles] Lil Empress Knuckle",
+        "[Material] Cracked Throne",
+        "[Material] Lil Empress Cloth Piece",
         "[Material] Lil Accessory Chip",
         "[Material] Lil Empress Horn",
         "[Material] Lil Empress Crystal",
-        "[Material] Cracked Throne",
-        "[Material] Lil Empress Cloth Piece",
         "[Magic Device] Lil Empress Magic Device",
         "[Shield] Lil Empress Shield",
         "[Staff] Lil Empress Staff",
@@ -243310,11 +243310,11 @@
         "[Bowgun] Lil Empress Bowgun",
         "[Dagger] Lil Empress Dagger",
         "[Knuckles] Lil Empress Knuckle",
+        "[Material] Cracked Throne",
+        "[Material] Lil Empress Cloth Piece",
         "[Material] Lil Accessory Chip",
         "[Material] Lil Empress Horn",
         "[Material] Lil Empress Crystal",
-        "[Material] Cracked Throne",
-        "[Material] Lil Empress Cloth Piece",
         "[Magic Device] Lil Empress Magic Device",
         "[Shield] Lil Empress Shield",
         "[Staff] Lil Empress Staff",
@@ -243332,9 +243332,9 @@
       "exp": "150",
       "map": "Saltau's Beach: Beach House",
       "drops": [
+        "[Usable] Soda Water",
         "[Usable] Apple",
         "[Usable] Iced Revita",
-        "[Usable] Soda Water",
         "[Material] Potum Nail"
       ]
     },
@@ -243348,11 +243348,11 @@
       "map": "Event",
       "drops": [
         "[Usable] Revita VI",
-        "[Refinement Support] Refinement Powder",
         "[Refinement Support] Anti-Degradation",
+        "[Refinement Support] Refinement Powder",
         "[Armor] Ritual Dress",
-        "[Ore] Orichalcum",
         "[Ore] Orichalcum Ore",
+        "[Ore] Orichalcum",
         "[Special Crysta] Titeres"
       ]
     },
@@ -243365,8 +243365,8 @@
       "exp": "86000",
       "map": "Anniversary Arena: 3rd Venue",
       "drops": [
-        "[Usable] 3rd Anniv Champion Holder",
         "[Usable] Revita VI",
+        "[Usable] 3rd Anniv Champion Holder",
         "[Armor] Gladiator Armor",
         "[Ore] Orichalcum Ore",
         "[Weapon Crysta] Megiston The Champion"
@@ -243382,9 +243382,9 @@
       "map": "Ultimea Sewer: Southeast",
       "drops": [
         "[Knuckles] Master's Tonfa",
-        "[Material] Mysterious Cube",
         "[Material] Soft Swollen Nail",
         "[Material] Crooked Nucleic Acid",
+        "[Material] Mysterious Cube",
         "[Enhancer Crysta (Blue)] Amoeba Machina"
       ]
     },
@@ -243398,9 +243398,9 @@
       "map": "Buried Tower: Collapsed Top",
       "drops": [
         "[Dagger] Guardian Dagger",
-        "[Material] Tough Jaw",
         "[Material] Huge Carapace",
-        "[Material] Turtle Meat"
+        "[Material] Turtle Meat",
+        "[Material] Tough Jaw"
       ]
     },
     {
@@ -243413,9 +243413,9 @@
       "map": "Buried Tower: Collapsed Top",
       "drops": [
         "[Bow] Thunderbolt Bow",
-        "[Material] Hard Tree Bark",
         "[Material] Twisting Vine",
-        "[Material] Wilted Vegetable"
+        "[Material] Wilted Vegetable",
+        "[Material] Hard Tree Bark"
       ]
     },
     {
@@ -243445,11 +243445,11 @@
       "drops": [
         "[1 Handed Sword] Maton Saber",
         "[Bowgun] Maton Railgun",
+        "[Material] Broken Booster",
+        "[Material] Old Type Blade Material",
         "[Material] Cracked Old Type Armor",
         "[Material] Chrome",
         "[Material] Slebinian Magic Torch",
-        "[Material] Broken Booster",
-        "[Material] Old Type Blade Material",
         "[Shield] Maton Shield"
       ]
     },
@@ -243476,6 +243476,14 @@
         "[Armor] Adventurer's Garb \n                                            \n                                                            38\n                                                            B\n                                                            C",
         "[Armor] Adventurer's Garb \n                                            \n                                                            A\n                                                            38\n                                                            C",
         "[Armor] Adventurer's Garb \n                                            \n                                                            A\n                                                            B\n                                                            36",
+        "[Material] Potum Silver Coin",
+        "[Material] Medicine Pack (S)",
+        "[Material] Medicine Pack (L)",
+        "[Material] Fabric Pack (M)",
+        "[Material] Wood Pack (S)",
+        "[Material] Wood Pack (L)",
+        "[Material] Metal Pack (M)",
+        "[Material] Beast Pack (M)",
         "[Material] Potum Bronze Coin",
         "[Material] Potum Gold Coin",
         "[Material] Medicine Pack (M)",
@@ -243485,15 +243493,7 @@
         "[Material] Metal Pack (S)",
         "[Material] Metal Pack (L)",
         "[Material] Beast Pack (S)",
-        "[Material] Beast Pack (L)",
-        "[Material] Potum Silver Coin",
-        "[Material] Medicine Pack (S)",
-        "[Material] Medicine Pack (L)",
-        "[Material] Fabric Pack (M)",
-        "[Material] Wood Pack (S)",
-        "[Material] Wood Pack (L)",
-        "[Material] Metal Pack (M)",
-        "[Material] Beast Pack (M)"
+        "[Material] Beast Pack (L)"
       ]
     },
     {
@@ -243521,9 +243521,9 @@
       "exp": "140",
       "map": "Tolbas GrassLand",
       "drops": [
+        "[Material] Mole Whisker",
         "[Material] Crushed Helmet",
         "[Material] Light-Emitting Stone",
-        "[Material] Mole Whisker",
         "[Shield] Elfin Shield"
       ]
     },
@@ -243597,9 +243597,9 @@
       "map": "Turnus Mine: Area 2",
       "drops": [
         "[Additional] Stingy Shoulder Pads",
+        "[Material] Small Claw",
         "[Material] Sharp Scale",
-        "[Material] Golden Sting",
-        "[Material] Small Claw"
+        "[Material] Golden Sting"
       ]
     },
     {
@@ -243627,9 +243627,9 @@
       "exp": "211",
       "map": "Turnus Mine: Hall",
       "drops": [
+        "[Material] Broken Mushroom Staff",
         "[Material] Tweed Fabric",
         "[Material] Tasty Mushroom",
-        "[Material] Broken Mushroom Staff",
         "[Magic Device] Plant Arm"
       ]
     },
@@ -243643,8 +243643,8 @@
       "map": "Turnus Mine: Hall",
       "drops": [
         "[Usable] Medicinal Mushroom",
-        "[Material] Shampy's Fluffy Hair",
         "[Material] Broken Mushroom Hammer",
+        "[Material] Shampy's Fluffy Hair",
         "[Shield] Shampy Doll",
         "[Staff] Luminous Mushroom Staff"
       ]
@@ -243772,8 +243772,8 @@
       "drops": [
         "[Usable] Strange Nut",
         "[Additional] Loincloth",
-        "[Material] Stingy Whisker",
-        "[Material] Sharp Foretooth"
+        "[Material] Sharp Foretooth",
+        "[Material] Stingy Whisker"
       ]
     },
     {
@@ -243787,8 +243787,8 @@
       "drops": [
         "[Usable] Pompoko Meat",
         "[Additional] Fur Vest",
-        "[Material] Light Red Hair",
-        "[Material] Vertical Stripe Fur"
+        "[Material] Vertical Stripe Fur",
+        "[Material] Light Red Hair"
       ]
     },
     {
@@ -243816,9 +243816,9 @@
       "map": "Curonne Forest: North Area 1",
       "drops": [
         "[Additional] Mysterious Hood",
+        "[Material] White Wood",
         "[Material] White Tree Branch",
-        "[Material] Forest Spirit Powder",
-        "[Material] White Wood"
+        "[Material] Forest Spirit Powder"
       ]
     },
     {
@@ -243931,6 +243931,7 @@
         "[Material] Wood Pack (L)",
         "[Material] Metal Pack (M)",
         "[Material] Beast Pack (M)",
+        "[Material] Potum Bronze Coin",
         "[Material] Potum Gold Coin",
         "[Material] Medicine Pack (M)",
         "[Material] Fabric Pack (S)",
@@ -243939,8 +243940,7 @@
         "[Material] Metal Pack (S)",
         "[Material] Metal Pack (L)",
         "[Material] Beast Pack (S)",
-        "[Material] Beast Pack (L)",
-        "[Material] Potum Bronze Coin"
+        "[Material] Beast Pack (L)"
       ]
     },
     {
@@ -244011,8 +244011,8 @@
       "drops": [
         "[Usable] Revita VI",
         "[Refinement Support] Hyper Anti-Degradation",
-        "[Material] Dark Page",
         "[Material] Plastic Fragment",
+        "[Material] Dark Page",
         "[Normal Crysta] Yashiro Azuki"
       ]
     },
@@ -244038,9 +244038,9 @@
       "exp": "183",
       "map": "Mt. Mithurna: Entrance",
       "drops": [
+        "[Material] Vocal Sac",
         "[Material] Cushy Fur",
         "[Material] Cracked Hunting Horn",
-        "[Material] Vocal Sac",
         "[Normal Crysta] HP+500"
       ]
     },
@@ -244053,9 +244053,9 @@
       "exp": "137",
       "map": "Mt. Mithurna: Entrance",
       "drops": [
+        "[Material] Mithurna Wood",
         "[Material] Blue Feather",
         "[Material] Small Egg",
-        "[Material] Mithurna Wood",
         "[Special] Happiness Talisman"
       ]
     },
@@ -244070,8 +244070,8 @@
       "drops": [
         "[Usable] Ripe Nut",
         "[Additional] Colon Earrings",
-        "[Material] Colon Inner Skin",
-        "[Material] Colon Big Leaf"
+        "[Material] Colon Big Leaf",
+        "[Material] Colon Inner Skin"
       ]
     },
     {
@@ -244100,8 +244100,8 @@
       "drops": [
         "[Usable] Rokoko Grape",
         "[Additional] Fresh Scarf",
-        "[Material] Grape Plantlet",
-        "[Material] Grape Seed"
+        "[Material] Grape Seed",
+        "[Material] Grape Plantlet"
       ]
     },
     {
@@ -244114,8 +244114,8 @@
       "map": "Forgotten Cave",
       "drops": [
         "[Usable] Green Fizzwater",
-        "[Material] Potum Top Fin",
         "[Material] Mud Water",
+        "[Material] Potum Top Fin",
         "[Halberd] Spada Lance"
       ]
     },
@@ -244145,11 +244145,11 @@
       "drops": [
         "[1 Handed Sword] Fluck Sword",
         "[Bowgun] Fluck Bowgun",
-        "[Material] Mom Fluck Web",
-        "[Material] Vivid Crest",
         "[Material] Mom Fluck Skin",
         "[Material] Blue Rock Fragment",
-        "[Material] Fluck Egg"
+        "[Material] Fluck Egg",
+        "[Material] Mom Fluck Web",
+        "[Material] Vivid Crest"
       ]
     },
     {
@@ -244227,9 +244227,9 @@
       "exp": "310",
       "map": "Noeliel Castle: Entrance (80-100)",
       "drops": [
-        "[Material] Broken Lantern",
         "[Material] Filthy Cloth",
         "[Material] Frozen Wood",
+        "[Material] Broken Lantern",
         "[Magic Device] Layered Magic System",
         "[Halberd] Pollaxe"
       ]
@@ -244245,9 +244245,9 @@
       "drops": [
         "[Bowgun] Metal Bowgun",
         "[Knuckles] Iron Bear Claw",
-        "[Material] Tubular Part",
         "[Material] Fuel Pipe",
-        "[Material] Frozen Wood"
+        "[Material] Frozen Wood",
+        "[Material] Tubular Part"
       ]
     },
     {
@@ -244298,9 +244298,9 @@
       "map": "Rokoko Plains",
       "drops": [
         "[Bowgun] Double Barrel",
-        "[Material] Cracked Hunting Horn",
         "[Material] Vocal Sac",
         "[Material] Squawker Horn",
+        "[Material] Cracked Hunting Horn",
         "[Additional Crysta] Altoblepas"
       ]
     },
@@ -244375,9 +244375,9 @@
       "map": "Event",
       "drops": [
         "[Usable] Revita Box",
+        "[Ore] Mithril Ore",
         "[Ore] Orichalcum",
         "[Ore] Orichalcum Ore",
-        "[Ore] Mithril Ore",
         "[Enhancer Crysta (Red)] Zega III"
       ]
     },
@@ -244449,9 +244449,9 @@
       "map": "Ruins of Mt. Mithurna: Long Stairs",
       "drops": [
         "[Additional] Cooking Apron",
-        "[Material] Mithurna Green Moss",
         "[Material] Stone Armor Fragment",
-        "[Material] Granite"
+        "[Material] Granite",
+        "[Material] Mithurna Green Moss"
       ]
     },
     {
@@ -244465,10 +244465,10 @@
       "drops": [
         "[2 Handed Sword] Zel Blade",
         "[Bow] Zel Shooter",
-        "[Material] Zelbuse Stone Arm",
-        "[Material] Cracked Celestial Sphere",
         "[Material] Zelbuse Wing of Light",
-        "[Material] Sublime Monolith"
+        "[Material] Sublime Monolith",
+        "[Material] Zelbuse Stone Arm",
+        "[Material] Cracked Celestial Sphere"
       ]
     },
     {
@@ -244481,9 +244481,9 @@
       "map": "Ruins of Mt. Mithurna: Stylobate",
       "drops": [
         "[Additional] White Eyepatch",
-        "[Material] Lucid White Spirit Stone",
         "[Material] Lucid White Fur",
         "[Material] Cat Claw",
+        "[Material] Lucid White Spirit Stone",
         "[Normal Crysta] Mithurna Lynx"
       ]
     },
@@ -244497,8 +244497,8 @@
       "map": "Maia Diela",
       "drops": [
         "[Armor] Adventurer's Garb \n                                            \n                                                            54\n                                                            36\n                                                            3",
-        "[Material] Cacao Crystal",
         "[Material] Prime Chocolate Chip",
+        "[Material] Cacao Crystal",
         "[Ore] Mithril Ore",
         "[Additional Crysta] Eidenliebe"
       ]
@@ -244513,8 +244513,8 @@
       "map": "Maia Diela",
       "drops": [
         "[Armor] Adventurer's Garb \n                                            \n                                                            54\n                                                            36\n                                                            3",
-        "[Material] Love Cacao",
         "[Material] Prime Chocolate Chip",
+        "[Material] Love Cacao",
         "[Ore] Orichalcum Ore",
         "[Additional Crysta] Eidenliebe"
       ]
@@ -244529,8 +244529,8 @@
       "map": "Maia Diela",
       "drops": [
         "[Armor] Adventurer's Garb \n                                            \n                                                            54\n                                                            36\n                                                            3",
-        "[Material] Covenant Cacao",
         "[Material] Love Cacao",
+        "[Material] Covenant Cacao",
         "[Ore] Orichalcum Ore",
         "[Additional Crysta] Eidenliebe"
       ]
@@ -244581,9 +244581,9 @@
       "map": "Shrine of The Gods: Area 3",
       "drops": [
         "[Additional] Small Fairy Wings",
-        "[Material] Purple Fin",
         "[Material] Luminous Purple Liquid",
-        "[Material] Heavenly Sand"
+        "[Material] Heavenly Sand",
+        "[Material] Purple Fin"
       ]
     },
     {
@@ -244596,9 +244596,9 @@
       "map": "Shrine of The Gods: Area 3",
       "drops": [
         "[1 Handed Sword] Calibur",
-        "[Material] Blessings Gods Stone",
         "[Material] Broken Green Shield",
-        "[Material] Green Engine Crystal"
+        "[Material] Green Engine Crystal",
+        "[Material] Blessings Gods Stone"
       ]
     },
     {
@@ -244625,9 +244625,9 @@
       "exp": "352",
       "map": "Shrine of The Gods: Area 2",
       "drops": [
-        "[Material] Luminous Green Wing",
         "[Material] Cracked Cube Stone",
         "[Material] Shining Stone Monument",
+        "[Material] Luminous Green Wing",
         "[Staff] Laurel Staff"
       ]
     },
@@ -244641,8 +244641,8 @@
       "map": "Barbaros Corridor",
       "drops": [
         "[Additional] Belt Eyepatch",
-        "[Material] Corridor Rubble",
         "[Material] Silver Claw",
+        "[Material] Corridor Rubble",
         "[Ore] Mithril Ore"
       ]
     },
@@ -244685,9 +244685,9 @@
       "exp": "356",
       "map": "Shrine of The Gods: Area 3",
       "drops": [
-        "[Material] Cracked Halo",
         "[Material] God Stone",
         "[Material] Mysterious Shiny Cloth",
+        "[Material] Cracked Halo",
         "[Magic Device] Prism Ring (Fire)"
       ]
     },
@@ -244700,9 +244700,9 @@
       "exp": "356",
       "map": "Shrine of The Gods: Area 3",
       "drops": [
+        "[Material] Cracked Halo",
         "[Material] God Stone",
         "[Material] Mysterious Shiny Cloth",
-        "[Material] Cracked Halo",
         "[Magic Device] Prism Ring (Water)"
       ]
     },
@@ -244716,9 +244716,9 @@
       "map": "Barbaros Corridor",
       "drops": [
         "[Dagger] Fallen Angel Dagger",
-        "[Material] Mysterious Shiny Cloth",
         "[Material] Cracked Halo",
         "[Material] Red Fallen Angel Halo",
+        "[Material] Mysterious Shiny Cloth",
         "[Enhancer Crysta (Red)] Bubble Bogey"
       ]
     },
@@ -244732,8 +244732,8 @@
       "map": "El Scaro",
       "drops": [
         "[Armor] Fightwear \n                                            \n                                                            24\n                                                            72\n                                                            9",
-        "[Material] Magic Coarse Sugar",
         "[Material] Quality Flour",
+        "[Material] Magic Coarse Sugar",
         "[Ore] Mithril Ore",
         "[Additional Crysta] Handmade Cookie"
       ]
@@ -244765,8 +244765,8 @@
       "drops": [
         "[Additional] Wrapping Ribbon",
         "[Armor] Fightwear \n                                            \n                                                            24\n                                                            72\n                                                            9",
-        "[Material] Icing Sugar",
         "[Material] Broken Cookie",
+        "[Material] Icing Sugar",
         "[Ore] Orichalcum Ore",
         "[Additional Crysta] Handmade Cookie"
       ]
@@ -244783,8 +244783,8 @@
         "[1 Handed Sword] Jupiter Sword II",
         "[Additional] Wrapping Ribbon",
         "[Bowgun] Delight Gun II",
-        "[Material] Icing Sugar",
         "[Material] Broken Cookie",
+        "[Material] Icing Sugar",
         "[Ore] Orichalcum Ore",
         "[Additional Crysta] Handmade Cookie"
       ]
@@ -244814,8 +244814,8 @@
       "map": "Heresy Corridor",
       "drops": [
         "[Usable] Vaccine I",
-        "[Material] Torn Apron",
         "[Material] Enlightened Wing",
+        "[Material] Torn Apron",
         "[Special] Enlightened Bangle"
       ]
     },
@@ -244828,9 +244828,9 @@
       "exp": "320",
       "map": "Heresy Corridor",
       "drops": [
+        "[Material] God Stone",
         "[Material] Mysterious Shiny Cloth",
         "[Material] Knit Fabric",
-        "[Material] God Stone",
         "[Magic Device] Prism Ring (Light)"
       ]
     },
@@ -244845,8 +244845,8 @@
       "drops": [
         "[Usable] Forbidden Nut",
         "[Additional] Skirt Belt",
-        "[Material] Bag Bear Fur",
-        "[Material] Bag Bear Tail"
+        "[Material] Bag Bear Tail",
+        "[Material] Bag Bear Fur"
       ]
     },
     {
@@ -244858,9 +244858,9 @@
       "exp": "432",
       "map": "Shrine of the Gods: Area 4",
       "drops": [
-        "[Material] Stone of Godly Domain",
         "[Material] Guardian Armor Bit",
         "[Material] Divine Metal",
+        "[Material] Stone of Godly Domain",
         "[Katana] Seiun"
       ]
     },
@@ -244873,9 +244873,9 @@
       "exp": "356",
       "map": "Shrine of the Gods: Area 4",
       "drops": [
-        "[Material] Elemental Stone",
         "[Material] God Stone",
         "[Material] Knit Fabric",
+        "[Material] Elemental Stone",
         "[Magic Device] Prism Ring (Dark)"
       ]
     },
@@ -244888,9 +244888,9 @@
       "exp": "360",
       "map": "Hall of Construction Gods",
       "drops": [
-        "[Material] Elemental Stone",
         "[Material] God Stone",
         "[Material] Knit Fabric",
+        "[Material] Elemental Stone",
         "[Magic Device] Prism Ring (Earth)"
       ]
     },
@@ -244936,10 +244936,10 @@
       "exp": "148",
       "map": "Sakura Castle: Outside",
       "drops": [
-        "[Usable] Toram Liquor",
         "[Usable] Flower Nectar",
-        "[Material] Sakura Cloud Pyroxene",
-        "[Material] Cherry Blossom Crystal"
+        "[Usable] Toram Liquor",
+        "[Material] Cherry Blossom Crystal",
+        "[Material] Sakura Cloud Pyroxene"
       ]
     },
     {
@@ -244970,8 +244970,8 @@
         "[Armor] Adventurer's Garb \n                                            \n                                                            69\n                                                            B\n                                                            C",
         "[Armor] Adventurer's Garb \n                                            \n                                                            A\n                                                            B\n                                                            6",
         "[Dagger] Sakura Princess Dagger",
-        "[Material] Sakura Petal",
         "[Material] Dusky Sakura Branch",
+        "[Material] Sakura Petal",
         "[Enhancer Crysta (Green)] Mimesia"
       ]
     },
@@ -244988,8 +244988,8 @@
         "[Armor] Adventurer's Garb \n                                            \n                                                            69\n                                                            B\n                                                            C",
         "[Armor] Adventurer's Garb \n                                            \n                                                            A\n                                                            B\n                                                            6",
         "[Dagger] Sakura Princess Dagger",
-        "[Material] Sakura Petal",
         "[Material] Dusky Sakura Branch",
+        "[Material] Sakura Petal",
         "[Enhancer Crysta (Green)] Mimesia"
       ]
     },
@@ -245006,8 +245006,8 @@
         "[Armor] Adventurer's Garb \n                                            \n                                                            69\n                                                            B\n                                                            C",
         "[Armor] Adventurer's Garb \n                                            \n                                                            A\n                                                            B\n                                                            6",
         "[Dagger] Sakura Princess Dagger",
-        "[Material] Sakura Petal",
         "[Material] Dusky Sakura Branch",
+        "[Material] Sakura Petal",
         "[Enhancer Crysta (Green)] Mimesia"
       ]
     },
@@ -245092,9 +245092,9 @@
       "map": "Elf Mountains: Area 1",
       "drops": [
         "[Additional] Assassin Waistcloth",
-        "[Material] Ice Wolf Mane",
         "[Material] Broken Long Horn",
-        "[Material] Ice Wolf Fang"
+        "[Material] Ice Wolf Fang",
+        "[Material] Ice Wolf Mane"
       ]
     },
     {
@@ -245170,8 +245170,8 @@
       "drops": [
         "[Usable] Potato",
         "[Arrow] Spiky Arrow",
-        "[Material] Young Thick Branch",
-        "[Material] Ivy Vine"
+        "[Material] Ivy Vine",
+        "[Material] Young Thick Branch"
       ]
     },
     {
@@ -245183,9 +245183,9 @@
       "exp": "427",
       "map": "Dark Dragon Shrine: Middle",
       "drops": [
-        "[Material] Shining Tail",
         "[Material] Baby Fang",
         "[Material] Dark Dragon Shrine Stone",
+        "[Material] Shining Tail",
         "[Normal Crysta] Critical Rate +5"
       ]
     },
@@ -245215,10 +245215,10 @@
       "drops": [
         "[Usable] Suspicious Old Box",
         "[1 Handed Sword] Dark Dragon Fang Sword",
-        "[Material] Finstern Claw",
         "[Material] Finstern Fang",
         "[Material] Finstern Horns",
         "[Material] Dark Gemstone",
+        "[Material] Finstern Claw",
         "[Katana] Dragon Claw Katana"
       ]
     },
@@ -245245,8 +245245,8 @@
       "drops": [
         "[Usable] Revita VI",
         "[Armor] Adventurer's Garb \n                                            \n                                                            A\n                                                            B\n                                                            70",
-        "[Material] Anniversary Silk",
-        "[Material] Silpom 4th Anniv Medal"
+        "[Material] Silpom 4th Anniv Medal",
+        "[Material] Anniversary Silk"
       ]
     },
     {
@@ -245258,8 +245258,8 @@
       "exp": "3800",
       "map": "Anniversary Arena: 4th Venue",
       "drops": [
-        "[Usable] Revita VI",
         "[Usable] Magiadd V",
+        "[Usable] Revita VI",
         "[Material] Silpom 4th Anniv Medal"
       ]
     },
@@ -245272,8 +245272,8 @@
       "exp": "3800",
       "map": "Anniversary Arena: 4th Venue",
       "drops": [
-        "[Usable] Revita VI",
         "[Usable] Vita Plus V",
+        "[Usable] Revita VI",
         "[Material] Silpom 4th Anniv Medal"
       ]
     },
@@ -245301,8 +245301,8 @@
       "exp": "7000",
       "map": "Anniversary Arena: 4th Venue",
       "drops": [
-        "[Usable] Revita VI",
         "[Usable] Vita Plus V",
+        "[Usable] Revita VI",
         "[Material] Golpom 4th Anniv Medal"
       ]
     },
@@ -245348,9 +245348,9 @@
       "map": "Wazeero Street",
       "drops": [
         "[Additional] Gem Earrings",
+        "[Material] Weird Blob",
         "[Material] Green Slime",
-        "[Material] Wazeero Stone",
-        "[Material] Weird Blob"
+        "[Material] Wazeero Stone"
       ]
     },
     {
@@ -245378,8 +245378,8 @@
       "map": "Wazeero Street",
       "drops": [
         "[Knuckles] Mortal Katar",
-        "[Material] Weird Blob",
         "[Material] Wazeero Stone",
+        "[Material] Weird Blob",
         "[Ore] Mithril Ore",
         "[Special Crysta] Grimuckus"
       ]
@@ -245394,9 +245394,9 @@
       "map": "Eryldan Street: Area 1",
       "drops": [
         "[Additional] Explorer Canteen",
-        "[Material] Racket Tail",
         "[Material] Fluffy Soft Fur",
-        "[Material] Cilantro"
+        "[Material] Cilantro",
+        "[Material] Racket Tail"
       ]
     },
     {
@@ -245439,10 +245439,10 @@
       "map": "Eryldan Street: Near the Forest of Ein",
       "drops": [
         "[Bowgun] Porcupine Crossbow",
-        "[Material] Tuscog Claw",
-        "[Material] Heinous Gaze",
         "[Material] Tuscog Fang",
         "[Material] Mottled Quill",
+        "[Material] Tuscog Claw",
+        "[Material] Heinous Gaze",
         "[Shield] Porcupine Quills Shield"
       ]
     },
@@ -245455,8 +245455,8 @@
       "exp": "75000",
       "map": "Anniversary Arena: 4th Venue",
       "drops": [
-        "[Usable] Revita VI",
         "[Usable] 4th Anniv Champion Holder II",
+        "[Usable] Revita VI",
         "[2 Handed Sword] Pestle",
         "[Ore] Orichalcum Ore",
         "[Enhancer Crysta (Red)] Megiston the Champion II"
@@ -245471,9 +245471,9 @@
       "exp": "1520",
       "map": "Otsukimi Event Venue: Crater Zone",
       "drops": [
+        "[Usable] Soft Crabmeat",
         "[Usable] Rich Crab Butter",
         "[Usable] Otsukimi Dango",
-        "[Usable] Soft Crabmeat",
         "[Armor] Adventurer's Garb \n                                            \n                                                            8\n                                                            B\n                                                            74",
         "[Knuckles] Crab Pincers \n                                            \n                                                            73\n                                                            10\n                                                            C",
         "[Ore] Hematite",
@@ -245532,9 +245532,9 @@
       "exp": "90",
       "map": "Forest of Ein",
       "drops": [
-        "[Material] Paralyzing Antenna",
         "[Material] Moss Tree Bark",
         "[Material] Larva Silk",
+        "[Material] Paralyzing Antenna",
         "[Normal Crysta] Dex+6"
       ]
     },
@@ -245562,9 +245562,9 @@
       "exp": "404",
       "map": "Morthell Swell: Area 1",
       "drops": [
+        "[Material] Mysterious Skull",
         "[Material] Carnivorous Plant Tooth",
         "[Material] Temptation Flower",
-        "[Material] Mysterious Skull",
         "[Katana] Kanpuu"
       ]
     },
@@ -245578,11 +245578,11 @@
       "map": "Morthell Swell: Deep Area",
       "drops": [
         "[Bow] Eroded Strahl",
+        "[Material] Gladiate Crystal",
+        "[Material] Corroded Mushroom Cap",
         "[Material] Eroded Pilz Fragment",
         "[Material] Fellow Spore",
         "[Material] Broken Mushroom Nail",
-        "[Material] Gladiate Crystal",
-        "[Material] Corroded Mushroom Cap",
         "[Halberd] Eroded Rebellion"
       ]
     },
@@ -245639,8 +245639,8 @@
       "exp": "221",
       "map": "Zarth's Mansion: Entrance",
       "drops": [
-        "[Usable] Hard Nut",
         "[Usable] Shocking House Choco",
+        "[Usable] Hard Nut",
         "[Material] Soft Tree Bark",
         "[Normal Crysta] HP+300"
       ]
@@ -245760,8 +245760,8 @@
       "drops": [
         "[Usable] Revita VI",
         "[Refinement Support] Hyper Anti-Degradation",
-        "[Material] Kinaco's Photo",
-        "[Material] Dark Note Paper"
+        "[Material] Dark Note Paper",
+        "[Material] Kinaco's Photo"
       ]
     },
     {
@@ -245801,9 +245801,9 @@
       "map": "Fabriska Sector",
       "drops": [
         "[Additional] Neckerchief",
-        "[Material] Processed Iron Plate",
         "[Material] Broken Mainspring",
-        "[Material] Elf Ingot"
+        "[Material] Elf Ingot",
+        "[Material] Processed Iron Plate"
       ]
     },
     {
@@ -245816,9 +245816,9 @@
       "map": "Fabriska Sector",
       "drops": [
         "[Additional] Tail Fur",
+        "[Material] Stoat Fur",
         "[Material] Warning Bell",
-        "[Material] Dirty Leather Shoes",
-        "[Material] Stoat Fur"
+        "[Material] Dirty Leather Shoes"
       ]
     },
     {
@@ -245831,9 +245831,9 @@
       "map": "Fractum Sector: Area 1",
       "drops": [
         "[Additional] Rose Charm",
+        "[Material] Big Molar",
         "[Material] Hard Epidermis",
-        "[Material] Inner Eye",
-        "[Material] Big Molar"
+        "[Material] Inner Eye"
       ]
     },
     {
@@ -245861,9 +245861,9 @@
       "map": "Fractum Sector: Area 1",
       "drops": [
         "[Arrow] Serein Arrow",
-        "[Material] Torn Necklace",
         "[Material] Horn-Like Bud",
-        "[Material] Broken Stem"
+        "[Material] Broken Stem",
+        "[Material] Torn Necklace"
       ]
     },
     {
@@ -245875,9 +245875,9 @@
       "exp": "462",
       "map": "Fractum Sector: Area 1",
       "drops": [
+        "[Material] Mutated Plant Thorn",
         "[Material] Horn-Like Bud",
         "[Material] Corroded Stem",
-        "[Material] Mutated Plant Thorn",
         "[Magic Device] Flugel"
       ]
     },
@@ -245890,9 +245890,9 @@
       "exp": "33330",
       "map": "Fractum Sector: Area 1",
       "drops": [
-        "[Material] Corroded Stem",
         "[Material] Mutated Plant Thorn",
         "[Material] Amethyst Flower",
+        "[Material] Corroded Stem",
         "[Weapon Crysta] Armasite"
       ]
     },
@@ -246089,9 +246089,9 @@
       "map": "Event",
       "drops": [
         "[Usable] Revita Box",
+        "[Ore] Mithril Ore",
         "[Ore] Orichalcum",
         "[Ore] Orichalcum Ore",
-        "[Ore] Mithril Ore",
         "[Enhancer Crysta (Red)] Zega IV"
       ]
     },
@@ -246118,9 +246118,9 @@
       "map": "Altoale Sector",
       "drops": [
         "[Additional] Mysterious Hood",
-        "[Material] Broken Ocarina",
         "[Material] Luminous Robe Scrap",
-        "[Material] Round Insect Cage"
+        "[Material] Round Insect Cage",
+        "[Material] Broken Ocarina"
       ]
     },
     {
@@ -246164,8 +246164,8 @@
       "drops": [
         "[Usable] Elf Berry",
         "[Bow] Elfin Bow",
-        "[Material] Labilans Wood",
-        "[Material] Old Tree Bark"
+        "[Material] Old Tree Bark",
+        "[Material] Labilans Wood"
       ]
     },
     {
@@ -246179,8 +246179,8 @@
       "drops": [
         "[Usable] Lychee",
         "[Knuckles] Katze Gloves",
-        "[Material] Plant Tail",
-        "[Material] Monster Plant Splinter"
+        "[Material] Monster Plant Splinter",
+        "[Material] Plant Tail"
       ]
     },
     {
@@ -246241,8 +246241,8 @@
       "map": "Sweet Hades",
       "drops": [
         "[Additional] Mochelo Hat \n                                            \n                                                            8\n                                                            71\n                                                            C",
-        "[Material] Jeandoux Soft Fur",
         "[Material] Fragrant Choco Piece",
+        "[Material] Jeandoux Soft Fur",
         "[Ore] Orichalcum Ore",
         "[Weapon Crysta] Jeandoux"
       ]
@@ -246290,8 +246290,8 @@
       "drops": [
         "[2 Handed Sword] Chocolate Eater II",
         "[Additional] Wrapping Ribbon II",
-        "[Material] Jeandoux Soft Fur",
         "[Material] Fragrant Choco Piece",
+        "[Material] Jeandoux Soft Fur",
         "[Magic Device] Valentia II",
         "[Ore] Orichalcum Ore",
         "[Weapon Crysta] Jeandoux"
@@ -246366,9 +246366,9 @@
       "exp": "34280",
       "map": "Avant Plastida: Area 1",
       "drops": [
-        "[Material] Blood Red Gemstone",
         "[Material] Perilous Essence",
         "[Material] Blood Crystal",
+        "[Material] Blood Red Gemstone",
         "[Enhancer Crysta (Red)] Blood Smeared Crystal"
       ]
     },
@@ -246382,10 +246382,10 @@
       "map": "Avant Plastida: Deepest Area",
       "drops": [
         "[1 Handed Sword] Sapphire Mace",
-        "[Material] Floating Corroded Crystal Bit",
-        "[Material] Sapphire Roga Horns",
         "[Material] Broken Crystal Stick",
         "[Material] Core of Sapphire Roga",
+        "[Material] Floating Corroded Crystal Bit",
+        "[Material] Sapphire Roga Horns",
         "[Shield] Sapphire Shield"
       ]
     },
@@ -246442,9 +246442,9 @@
       "map": "Rakau Plains",
       "drops": [
         "[Usable] Revita II",
-        "[Refinement Support] Hyper Refinement Powder",
         "[Refinement Support] Refinement Powder",
         "[Refinement Support] Super Refinement Powder",
+        "[Refinement Support] Hyper Refinement Powder",
         "[Additional] Potum Hat \n                                            \n                                                            50\n                                                            51\n                                                            83",
         "[Additional] Potum Hat \n                                            \n                                                            2\n                                                            49\n                                                            48",
         "[Additional] Potum Hat \n                                            \n                                                            19\n                                                            16\n                                                            19",
@@ -246453,18 +246453,18 @@
         "[Armor] Adventurer's Garb \n                                            \n                                                            67\n                                                            6\n                                                            64",
         "[Armor] Adventurer's Garb \n                                            \n                                                            6\n                                                            4\n                                                            84",
         "[Armor] Adventurer's Garb \n                                            \n                                                            54\n                                                            1\n                                                            5",
-        "[Material] Potum Silver Coin",
-        "[Material] Medicine Pack (S)",
-        "[Material] Medicine Pack (L)",
-        "[Material] Wood Pack (M)",
-        "[Material] Metal Pack (S)",
-        "[Material] Metal Pack (L)",
         "[Material] Potum Bronze Coin",
         "[Material] Potum Gold Coin",
         "[Material] Medicine Pack (M)",
         "[Material] Wood Pack (S)",
         "[Material] Wood Pack (L)",
-        "[Material] Metal Pack (M)"
+        "[Material] Metal Pack (M)",
+        "[Material] Potum Silver Coin",
+        "[Material] Medicine Pack (S)",
+        "[Material] Medicine Pack (L)",
+        "[Material] Wood Pack (M)",
+        "[Material] Metal Pack (S)",
+        "[Material] Metal Pack (L)"
       ]
     },
     {
@@ -246512,8 +246512,8 @@
       "drops": [
         "[Additional] Tapir Hood \n                                            \n                                                            26\n                                                            B\n                                                            C",
         "[Armor] Fortuita Vestibus \n                                            \n                                                            A\n                                                            26\n                                                            C",
-        "[Material] Super Sweet Syrup",
         "[Material] Fluffy Marshmallow",
+        "[Material] Super Sweet Syrup",
         "[Ore] Orichalcum Ore",
         "[Additional Crysta] Mercy"
       ]
@@ -246547,9 +246547,9 @@
       "map": "Pupalov Sector",
       "drops": [
         "[Additional] Hexa Glasses",
-        "[Material] Pupalov Stone",
         "[Material] Corroded Bone",
-        "[Material] Homunculus Heart"
+        "[Material] Homunculus Heart",
+        "[Material] Pupalov Stone"
       ]
     },
     {
@@ -246622,9 +246622,9 @@
       "map": "Recetacula Sector: Area 1",
       "drops": [
         "[Additional] Waist Armor",
+        "[Material] Strong Copper Scale",
         "[Material] Shredded Polyp",
-        "[Material] Sharp Fish Fang",
-        "[Material] Strong Copper Scale"
+        "[Material] Sharp Fish Fang"
       ]
     },
     {
@@ -246637,9 +246637,9 @@
       "map": "Recetacula Sector: Area 1",
       "drops": [
         "[Bowgun] Acid Gun",
-        "[Material] Sharp Fish Fang",
         "[Material] Strong Copper Scale",
         "[Material] Crystal Pouch",
+        "[Material] Sharp Fish Fang",
         "[Armor Crysta] Canemofish"
       ]
     },
@@ -246654,8 +246654,8 @@
       "drops": [
         "[Usable] Fish Bone Cracker",
         "[1 Handed Sword] Holy Sword",
-        "[Material] Sharp Twisted Horns",
-        "[Material] Chipped Blade Fin"
+        "[Material] Chipped Blade Fin",
+        "[Material] Sharp Twisted Horns"
       ]
     },
     {
@@ -246783,9 +246783,9 @@
       "exp": "75834",
       "map": "Dea Ruinea",
       "drops": [
-        "[Material] Cursed Evil Eye",
         "[Material] Bizarre Skin",
         "[Material] Demon Serum",
+        "[Material] Cursed Evil Eye",
         "[Enhancer Crysta (Green)] Demonic Eye"
       ]
     },
@@ -246799,8 +246799,8 @@
       "map": "Morga Wasteland: Area 1",
       "drops": [
         "[Usable] Cactus Steak",
-        "[Material] Bloodsmelling Thorn",
         "[Material] Deformed Petal",
+        "[Material] Bloodsmelling Thorn",
         "[Normal Crysta] HP+600"
       ]
     },
@@ -246813,10 +246813,10 @@
       "exp": "1362",
       "map": "Morga Wasteland: Area 1",
       "drops": [
-        "[Material] Cursed Evil Eye",
-        "[Material] Little Fang",
         "[Material] Bizarre Skin",
-        "[Material] Demon Serum"
+        "[Material] Demon Serum",
+        "[Material] Cursed Evil Eye",
+        "[Material] Little Fang"
       ]
     },
     {
@@ -246828,10 +246828,10 @@
       "exp": "1610",
       "map": "Morga Wasteland: Area 1",
       "drops": [
-        "[Material] Morga Stone",
-        "[Material] Old Casket",
         "[Material] Tattered Bandage",
-        "[Material] Mystical Glass Sphere"
+        "[Material] Mystical Glass Sphere",
+        "[Material] Morga Stone",
+        "[Material] Old Casket"
       ]
     },
     {
@@ -246860,10 +246860,10 @@
       "drops": [
         "[Bowgun] Quasar Barrel",
         "[Knuckles] Quasar Arm",
-        "[Material] Otherworld Rubble",
-        "[Material] Demon Mask",
         "[Material] Demon Membrane Fragment",
         "[Material] Deteriorated Chain",
+        "[Material] Otherworld Rubble",
+        "[Material] Demon Mask",
         "[Armor Crysta] Demonic Quasar"
       ]
     },
@@ -246952,9 +246952,9 @@
       "map": "Deltzon Research Zone: Area 1",
       "drops": [
         "[Additional] Librarian Hat",
-        "[Material] Quality Parchment",
         "[Material] Strange Page",
-        "[Material] Illegible Academic Book"
+        "[Material] Illegible Academic Book",
+        "[Material] Quality Parchment"
       ]
     },
     {
@@ -247042,9 +247042,9 @@
       "exp": "195",
       "map": "Inanis Wilderness",
       "drops": [
-        "[Material] Inanis Stone",
         "[Material] Sandstone Tiny Horn",
         "[Material] Sandstone Claw",
+        "[Material] Inanis Stone",
         "[Shield] Holy Shield"
       ]
     },
@@ -247057,9 +247057,9 @@
       "exp": "380",
       "map": "Geist Desert: Area 1",
       "drops": [
-        "[Material] Broken Sand Bandits Mask",
         "[Material] Torn Red Cloth",
         "[Material] Coarse Fur",
+        "[Material] Broken Sand Bandits Mask",
         "[Staff] Spirit Staff"
       ]
     },
@@ -247104,10 +247104,10 @@
       "drops": [
         "[2 Handed Sword] Vulture Blade",
         "[Bow] Vulture Shooter",
-        "[Material] Crystal Goshawk Blade",
-        "[Material] Crystal Goshawk Lash",
         "[Material] Crystal Goshawk Claw",
-        "[Material] Vulture Core"
+        "[Material] Vulture Core",
+        "[Material] Crystal Goshawk Blade",
+        "[Material] Crystal Goshawk Lash"
       ]
     },
     {
@@ -247148,8 +247148,8 @@
       "map": "Anniversary Arena: 5th Venue",
       "drops": [
         "[Usable] Revita VI",
-        "[Material] Anniversary Silk",
-        "[Material] Silpom 5th Anniv Medal"
+        "[Material] Silpom 5th Anniv Medal",
+        "[Material] Anniversary Silk"
       ]
     },
     {
@@ -247302,8 +247302,8 @@
       "drops": [
         "[Usable] Deep Ocean Water",
         "[Additional] Watermelon Slice",
-        "[Material] Sea Crystal",
-        "[Material] Underwater Ruins Pebble"
+        "[Material] Underwater Ruins Pebble",
+        "[Material] Sea Crystal"
       ]
     },
     {
@@ -247331,9 +247331,9 @@
       "map": "Underwater Ruins: Deepest",
       "drops": [
         "[1 Handed Sword] Seadevil Sword",
-        "[Material] Seadevil Coral",
         "[Material] Seadevil Scale",
         "[Material] Sea Current Crystal",
+        "[Material] Seadevil Coral",
         "[Shield] Seadevil Shield",
         "[Staff] Seadevil Staff",
         "[Katana] Seadevil Katana"
@@ -247349,9 +247349,9 @@
       "map": "Underwater Ruins: Deepest",
       "drops": [
         "[1 Handed Sword] Seadevil Sword",
+        "[Material] Seadevil Coral",
         "[Material] Seadevil Scale",
         "[Material] Sea Current Crystal",
-        "[Material] Seadevil Coral",
         "[Shield] Seadevil Shield",
         "[Staff] Seadevil Staff",
         "[Katana] Seadevil Katana",
@@ -247383,9 +247383,9 @@
       "map": "Ruins of Urban Elban",
       "drops": [
         "[Additional] Steampunk Cap",
-        "[Material] Geometric Metal Bit",
         "[Material] Strange Dust",
-        "[Material] Corroded Sphere Core"
+        "[Material] Corroded Sphere Core",
+        "[Material] Geometric Metal Bit"
       ]
     },
     {
@@ -247398,9 +247398,9 @@
       "map": "Ruins of Urban Elban",
       "drops": [
         "[Additional] Cape of Divinity",
-        "[Material] Corroded Leather",
         "[Material] Strange Dust",
-        "[Material] Light Crimson Bead"
+        "[Material] Light Crimson Bead",
+        "[Material] Corroded Leather"
       ]
     },
     {
@@ -247435,11 +247435,11 @@
         "[Bowgun] Demon Empress Bowgun",
         "[Dagger] Demon Empress Dagger",
         "[Knuckles] Demon Empress Knuckles",
-        "[Material] Empress Ogre Accessory Chip",
         "[Material] Empress Ogre Hair",
         "[Material] Empress Ogre Jaws",
         "[Material] Empress Ogre Fang",
         "[Material] Empress Ogre Crystal",
+        "[Material] Empress Ogre Accessory Chip",
         "[Magic Device] Demon Empress Magic Device",
         "[Shield] Demon Empress Shield",
         "[Staff] Demon Empress Staff",
@@ -247457,8 +247457,8 @@
       "map": "Phantom Wisp's Hideout",
       "drops": [
         "[Usable] Sparkly Candy",
-        "[Material] Torn Playing Card",
         "[Material] Shining Mantle",
+        "[Material] Torn Playing Card",
         "[Special] Astral Lamp"
       ]
     },
@@ -247472,8 +247472,8 @@
       "map": "Phantom Wisp's Hideout",
       "drops": [
         "[Usable] Ultra Cheesy Pizza",
-        "[Material] Phantom Secret Tool",
         "[Material] Torn Playing Card",
+        "[Material] Phantom Secret Tool",
         "[Normal Crysta] Critical Rate +5"
       ]
     },
@@ -247517,9 +247517,9 @@
       "map": "Lunagent Cliff Base",
       "drops": [
         "[Dagger] Sashimi Knife",
+        "[Material] Fish Tusk",
         "[Material] Transparent Fin",
-        "[Material] Heinous Soul",
-        "[Material] Fish Tusk"
+        "[Material] Heinous Soul"
       ]
     },
     {
@@ -247546,9 +247546,9 @@
       "exp": "287",
       "map": "Inje Village",
       "drops": [
+        "[Material] Durable Rope",
         "[Material] Climber's Paw Pad",
         "[Material] Village Building Supply",
-        "[Material] Durable Rope",
         "[Special] Sunshine Talisman"
       ]
     },
@@ -247562,9 +247562,9 @@
       "map": "Ducia Coast: Area 1",
       "drops": [
         "[Additional] Magical Stole",
-        "[Material] Pure White Paper",
         "[Material] Tangled Hair",
-        "[Material] Bluish White Wisp"
+        "[Material] Bluish White Wisp",
+        "[Material] Pure White Paper"
       ]
     },
     {
@@ -247592,9 +247592,9 @@
       "map": "Ducia Coast: Area 1",
       "drops": [
         "[Armor] Savage Mail",
-        "[Material] Raging Soul",
         "[Material] Evil Spirit Horns",
         "[Material] Flame of Misfortune",
+        "[Material] Raging Soul",
         "[Enhancer Crysta (Blue)] Ageladanios"
       ]
     },
@@ -247656,8 +247656,8 @@
       "map": "Celarra Plateau",
       "drops": [
         "[Usable] Smoked Mutton",
-        "[Material] Sheep Horn",
         "[Material] Mistletoe Branch",
+        "[Material] Sheep Horn",
         "[Special] Spring Breeze Talisman"
       ]
     },
@@ -247670,9 +247670,9 @@
       "exp": "235",
       "map": "Celarra Plateau",
       "drops": [
-        "[Material] Fat Trunk",
         "[Material] Solid Wood",
         "[Material] Evil Nymph Pollen",
+        "[Material] Fat Trunk",
         "[Normal Crysta] INT +6"
       ]
     },
@@ -247715,9 +247715,9 @@
       "exp": "33600",
       "map": "Arche Valley: Area 1",
       "drops": [
+        "[Material] Skull Mask Fragment",
         "[Material] Metal Shackles",
         "[Material] Vengeful Soul",
-        "[Material] Skull Mask Fragment",
         "[Enhancer Crysta (Purple)] Espectro"
       ]
     },
@@ -247842,10 +247842,10 @@
       "map": "-",
       "drops": [
         "[Armor] Oriental Robe",
-        "[Special] Ankh of Resurrection",
         "[Special] Rosetta Shard",
         "[Special] Sealing Bandage",
-        "[Special] Rosetta Stone"
+        "[Special] Rosetta Stone",
+        "[Special] Ankh of Resurrection"
       ]
     },
     {
@@ -248034,8 +248034,8 @@
       "exp": "300",
       "map": "Event",
       "drops": [
-        "[Usable] Zodiac Ox Box",
         "[Usable] Ox Tongue Bento",
+        "[Usable] Zodiac Ox Box",
         "[Additional Crysta] Bovinio"
       ]
     },
@@ -248066,8 +248066,8 @@
       "exp": "75000",
       "map": "Event",
       "drops": [
-        "[Usable] Revita VII",
         "[Usable] [Book of Unarmed]",
+        "[Usable] Revita VII",
         "[Knuckles] Edgy Nova (Combat)",
         "[Staff] Edgy Nova (Magic)",
         "[Enhancer Crysta (Yellow)] Stellar Ooze"
@@ -248163,9 +248163,9 @@
       "exp": "100",
       "map": "Rokoko City Ruins",
       "drops": [
-        "[Material] Rokoko Stone",
         "[Material] Corroded Insect Wings",
         "[Material] Ancient Scroll",
+        "[Material] Rokoko Stone",
         "[Normal Crysta] CSPD+120"
       ]
     },
@@ -248194,9 +248194,9 @@
       "map": "Rokoko City Ruins",
       "drops": [
         "[Additional] Aching Right Arm",
+        "[Material] Warped Blade",
         "[Material] Weird Snake Skin",
-        "[Material] Dark Red Crystal",
-        "[Material] Warped Blade"
+        "[Material] Dark Red Crystal"
       ]
     },
     {
@@ -248276,8 +248276,8 @@
       "drops": [
         "[Usable] Japanese Caramel Candy",
         "[Additional] Superbia Head Chain",
-        "[Material] Amezaiku Wings",
         "[Material] Cute Ornament String",
+        "[Material] Amezaiku Wings",
         "[Ore] Orichalcum Ore",
         "[Enhancer Crysta (Yellow)] Alfenix"
       ]
@@ -248291,9 +248291,9 @@
       "exp": "518",
       "map": "Witch's Woods Area 1",
       "drops": [
-        "[Material] Crow Feather",
         "[Material] Tattered Old Clothes",
         "[Material] Sturdy Core",
+        "[Material] Crow Feather",
         "[Staff] Mana Cascade Staff"
       ]
     },
@@ -248307,8 +248307,8 @@
       "map": "Cookie Road",
       "drops": [
         "[Usable] Tasty Honey",
-        "[Material] Shiny Shell",
         "[Material] Royal Syrup",
+        "[Material] Shiny Shell",
         "[Special] Buzz Ring"
       ]
     },
@@ -248395,9 +248395,9 @@
       "map": "Nezim Wetlands",
       "drops": [
         "[Additional] Shark Hood",
-        "[Material] Broken Goggles",
         "[Material] Kappa's Plate",
-        "[Material] Cucumber Rice Bowl"
+        "[Material] Cucumber Rice Bowl",
+        "[Material] Broken Goggles"
       ]
     },
     {
@@ -248425,9 +248425,9 @@
       "map": "Nezim Wetlands",
       "drops": [
         "[Additional] Crystal Horns",
+        "[Material] Powerful Jagged Tooth",
         "[Material] Slimy Hide",
         "[Material] Charred Salamander Meat",
-        "[Material] Powerful Jagged Tooth",
         "[Additional Crysta] Lord of Nezim"
       ]
     },
@@ -248442,10 +248442,10 @@
       "drops": [
         "[2 Handed Sword] Inferno Curse Greatsword",
         "[Bow] Inferno Curse Bow",
-        "[Material] Inferno Curse Bone Feather",
-        "[Material] Flame Horn",
         "[Material] Inferno Curse Cloth Scrap",
-        "[Material] Cursed Stake"
+        "[Material] Cursed Stake",
+        "[Material] Inferno Curse Bone Feather",
+        "[Material] Flame Horn"
       ]
     },
     {
@@ -248472,9 +248472,9 @@
       "exp": "Unknown",
       "map": "Event",
       "drops": [
+        "[Additional] Traffic Cone Earmuffs",
         "[Additional] Granny on Shoulder",
         "[Additional] Kinaco Scarf",
-        "[Additional] Traffic Cone Earmuffs",
         "[Armor] †Dark Syndicate† Vilment",
         "[Armor] †Dark Syndicate† Vilment"
       ]
@@ -248520,10 +248520,10 @@
       "exp": "13300",
       "map": "Lush Falls : Upstream",
       "drops": [
-        "[Usable] Broken Yozakura Twig",
-        "[Usable] Sakura Liqueur",
         "[Usable] Scarlet Wicker Box",
         "[Usable] Alcoholic Petal",
+        "[Usable] Broken Yozakura Twig",
+        "[Usable] Sakura Liqueur",
         "[Armor] Adventurer's Garb \n                                            \n                                                            A\n                                                            B\n                                                            C"
       ]
     },
@@ -248641,8 +248641,8 @@
       "map": "Nov Diela Area 1",
       "drops": [
         "[Usable] Energy Bottle EX",
-        "[Material] Glowing Liposome",
         "[Material] Viscous Liquid",
+        "[Material] Glowing Liposome",
         "[Special] Specistida"
       ]
     },
@@ -248715,14 +248715,14 @@
         "[Usable] Wedding Wine",
         "[Usable] Dragon Steak",
         "[Usable] Glow Ray Soup",
-        "[Additional] Engagement Crown",
-        "[Additional] Unity Crown",
-        "[Additional] Interesse Tiara",
         "[Additional] Marriage Crown",
         "[Additional] Caro Crown",
         "[Additional] Jewelry Crown",
         "[Additional] Darling Crown",
         "[Additional] Interesse Crown",
+        "[Additional] Engagement Crown",
+        "[Additional] Unity Crown",
+        "[Additional] Interesse Tiara",
         "[Material] Marriage Gift"
       ]
     },
@@ -248735,15 +248735,15 @@
       "exp": "0",
       "map": "Event",
       "drops": [
-        "[Usable] Wedding Wine",
         "[Usable] Dark Truffle",
         "[Usable] Sauteed Lonogo Shrimp",
-        "[Additional] Cara Tiara",
-        "[Additional] Engagement Tiara",
-        "[Additional] Unity Tiara",
+        "[Usable] Wedding Wine",
         "[Additional] Marriage Tiara",
         "[Additional] Jewelry Tiara",
         "[Additional] Darling Tiara",
+        "[Additional] Cara Tiara",
+        "[Additional] Engagement Tiara",
+        "[Additional] Unity Tiara",
         "[Material] Toss Bouquet"
       ]
     },
@@ -248797,11 +248797,11 @@
       "exp": "72000",
       "map": "Saham Underground Cave - Deepest Part",
       "drops": [
-        "[Usable] Naiata",
         "[Usable] Sorcery Revita",
+        "[Usable] Naiata",
         "[Refinement Support] Super Anti-Degradation",
-        "[Additional] Naiata's Tiara",
         "[Additional] Stardust Shoulder Guard",
+        "[Additional] Naiata's Tiara",
         "[Special Crysta] Star Wizard"
       ]
     },
@@ -248832,9 +248832,9 @@
       "exp": "245",
       "map": "Noisy Woodland",
       "drops": [
-        "[Material] Dark Purple Big Fin",
         "[Material] Glassy Scale",
         "[Material] Black Leather",
+        "[Material] Dark Purple Big Fin",
         "[Shield] Reptilian Shield"
       ]
     },
@@ -248878,9 +248878,9 @@
       "map": "Fugitive Lake Swamp: Area 1",
       "drops": [
         "[Additional] Portable Sake Jug",
-        "[Material] Lake Frog Skin",
         "[Material] Long Tongue",
-        "[Material] Polka Dot Gemstone"
+        "[Material] Polka Dot Gemstone",
+        "[Material] Lake Frog Skin"
       ]
     },
     {
@@ -248892,9 +248892,9 @@
       "exp": "710",
       "map": "Fugitive Lake Swamp: Area 1",
       "drops": [
-        "[Material] Hard Armor Skin",
         "[Material] Broken Horn",
         "[Material] Bold Gaze",
+        "[Material] Hard Armor Skin",
         "[Halberd] Antler Glaive"
       ]
     },
@@ -248908,9 +248908,9 @@
       "map": "Fugitive Lake Swamp: Area 2",
       "drops": [
         "[Arrow] Quartz Arrow",
-        "[Material] Crushed Nut",
         "[Material] Muddy Pebble",
-        "[Material] Quartz Powder"
+        "[Material] Quartz Powder",
+        "[Material] Crushed Nut"
       ]
     },
     {
@@ -248939,10 +248939,10 @@
       "map": "Fugitive Lake Swamp: Depths",
       "drops": [
         "[1 Handed Sword] Gemma Spada",
-        "[Material] Gemma's Big Hoop",
-        "[Material] Gemma's Jewel",
         "[Material] Dully Glowing Metal Bit",
         "[Material] Starlight of Desire",
+        "[Material] Gemma's Big Hoop",
+        "[Material] Gemma's Jewel",
         "[Staff] Gemma Anello"
       ]
     },
@@ -249180,8 +249180,8 @@
       "exp": "254",
       "map": "Movere Specula",
       "drops": [
-        "[Material] Herbivore's Spine",
         "[Material] Herbivore's Horn",
+        "[Material] Herbivore's Spine",
         "[Ore] Hematite",
         "[Normal Crysta] VIT+7"
       ]
@@ -249196,9 +249196,9 @@
       "map": "Movere Specula",
       "drops": [
         "[Additional] Insect Cage",
-        "[Material] Green Feather",
         "[Material] Hard Beak",
-        "[Material] Bird Thigh"
+        "[Material] Bird Thigh",
+        "[Material] Green Feather"
       ]
     },
     {
@@ -249211,9 +249211,9 @@
       "map": "Guardian Forest: Lost Woods",
       "drops": [
         "[Additional] Forester's Hat",
-        "[Material] Green Lizard Skin",
         "[Material] Short Mandibular Fang",
-        "[Material] Speckled Egg"
+        "[Material] Speckled Egg",
+        "[Material] Green Lizard Skin"
       ]
     },
     {
@@ -249241,9 +249241,9 @@
       "map": "Guardian Forest: Lost Woods",
       "drops": [
         "[2 Handed Sword] Desert Blade",
+        "[Material] Thick Leaf",
         "[Material] Elastic Thorn",
-        "[Material] Dangerous Enzyme",
-        "[Material] Thick Leaf"
+        "[Material] Dangerous Enzyme"
       ]
     },
     {
@@ -249291,10 +249291,10 @@
       "exp": "1515",
       "map": "Guardian Forest: Giant Tree",
       "drops": [
-        "[Material] Rock Dragon Armor Skin",
-        "[Material] Terrestrial Tears",
         "[Material] Rock Dragon Pebble",
         "[Material] Blue Rock",
+        "[Material] Rock Dragon Armor Skin",
+        "[Material] Terrestrial Tears",
         "[Ore] Mithril Ore"
       ]
     },
@@ -249323,9 +249323,9 @@
       "map": "Country Road",
       "drops": [
         "[Additional] Furball Earrings",
-        "[Material] Sharp Ear Hair",
         "[Material] Thick Tail",
-        "[Material] Outskirt Stone"
+        "[Material] Outskirt Stone",
+        "[Material] Sharp Ear Hair"
       ]
     },
     {
@@ -249383,9 +249383,9 @@
       "map": "Storage Yard: Area 1",
       "drops": [
         "[Additional] Menpo Mask",
-        "[Material] Sharp Monkey Horn",
         "[Material] Monkey's Bristles",
-        "[Material] Monkey Fang"
+        "[Material] Monkey Fang",
+        "[Material] Sharp Monkey Horn"
       ]
     },
     {
@@ -249399,8 +249399,8 @@
       "drops": [
         "[Usable] Monkey Energy",
         "[Knuckles] Ferocious Beast Claws",
-        "[Material] Monkey Fang",
         "[Material] Sharp Monkey Horn",
+        "[Material] Monkey Fang",
         "[Enhancer Crysta (Blue)] Bullamius"
       ]
     },
@@ -249413,10 +249413,10 @@
       "exp": "1620",
       "map": "Storage Yard: Arena",
       "drops": [
-        "[Material] Zyvimmon",
-        "[Material] Junior Dragon Black Thorn",
         "[Material] Black Patagium",
-        "[Material] Junior Dragon Horn"
+        "[Material] Junior Dragon Horn",
+        "[Material] Zyvimmon",
+        "[Material] Junior Dragon Black Thorn"
       ]
     },
     {
@@ -249430,8 +249430,8 @@
       "drops": [
         "[Usable] Soul Pudding",
         "[Additional] Ghost Candy",
-        "[Material] Damp Cloth",
-        "[Material] Phantom Cloth"
+        "[Material] Phantom Cloth",
+        "[Material] Damp Cloth"
       ]
     },
     {
@@ -249460,8 +249460,8 @@
       "drops": [
         "[Usable] Sugar Cookie",
         "[Dagger] Dewclaw Dagger",
-        "[Material] Werewolf Fang",
-        "[Material] Werewolf Fur"
+        "[Material] Werewolf Fur",
+        "[Material] Werewolf Fang"
       ]
     },
     {
@@ -249475,8 +249475,8 @@
       "drops": [
         "[Usable] Life Essence",
         "[Additional] Santa Skirt",
-        "[Material] Dull Crest",
-        "[Material] Perilous Essence"
+        "[Material] Perilous Essence",
+        "[Material] Dull Crest"
       ]
     },
     {
@@ -249572,8 +249572,8 @@
       "exp": "35640",
       "map": "Noeliel Castle: B4F",
       "drops": [
-        "[Usable] Iced Vita Plus",
         "[Usable] Revita VII",
+        "[Usable] Iced Vita Plus",
         "[1 Handed Sword] Ice Spirit Sword",
         "[Bowgun] Ice Spirit Gun",
         "[Ore] Orichalcum Ore",
@@ -249590,9 +249590,9 @@
       "exp": "271",
       "map": "Eumano Glade",
       "drops": [
-        "[Material] Durable Leather",
         "[Material] Pinecone Trichome",
         "[Material] Gastrolith",
+        "[Material] Durable Leather",
         "[Normal Crysta] Dodge+14"
       ]
     },
@@ -249651,9 +249651,9 @@
       "map": "Prime Ramus: Area 1",
       "drops": [
         "[1 Handed Sword] Laguna Sword",
+        "[Material] Serrated Beak",
         "[Material] Rock-Hard Carapace",
-        "[Material] Tortoise Oil",
-        "[Material] Serrated Beak"
+        "[Material] Tortoise Oil"
       ]
     },
     {
@@ -249771,9 +249771,9 @@
         "[Usable] Revita Box",
         "[Additional] Zega Mask",
         "[Armor] Zega Onesie",
-        "[Ore] Mithril Ore",
         "[Ore] Orichalcum",
         "[Ore] Orichalcum Ore",
+        "[Ore] Mithril Ore",
         "[Shield] Beastlord Shield",
         "[Enhancer Crysta (Red)] Zega VI"
       ]
@@ -249850,9 +249850,9 @@
       "exp": "218",
       "map": "Flumen Plains",
       "drops": [
+        "[Material] Flumen Wood",
         "[Material] Wooden Wing",
         "[Material] Wisdom Charm",
-        "[Material] Flumen Wood",
         "[Normal Crysta] Accuracy+14"
       ]
     },
@@ -249866,9 +249866,9 @@
       "map": "Flumen Plains",
       "drops": [
         "[Additional] Crystal Ear Cuffs",
+        "[Material] Cat Wing",
         "[Material] Tiny Cat Claw",
-        "[Material] Lost Cat Mana",
-        "[Material] Cat Wing"
+        "[Material] Lost Cat Mana"
       ]
     },
     {
@@ -249925,8 +249925,8 @@
       "exp": "554",
       "map": "Divido Valley: Area 1",
       "drops": [
-        "[Material] Elongated Insect Wings",
         "[Material] Sickle-Like Front Leg",
+        "[Material] Elongated Insect Wings",
         "[Ore] Hematite",
         "[Halberd] Temple Spear"
       ]
@@ -249941,9 +249941,9 @@
       "map": "Divido Valley: Area 3",
       "drops": [
         "[Additional] Fire Bandana",
+        "[Material] Blazing Mane",
         "[Material] Red Claw",
         "[Material] Bloody Stone",
-        "[Material] Blazing Mane",
         "[Enhancer Crysta (Blue)] Blazingur"
       ]
     },
@@ -250049,9 +250049,9 @@
       "map": "Vulcani Foothills",
       "drops": [
         "[Dagger] Beak Knife",
+        "[Material] Hornlike Beak",
         "[Material] Broken Naruko",
-        "[Material] Armorlike Feather",
-        "[Material] Hornlike Beak"
+        "[Material] Armorlike Feather"
       ]
     },
     {
@@ -250079,9 +250079,9 @@
       "map": "Vulcani Foothills",
       "drops": [
         "[Additional] Traveler's Waistcloth",
-        "[Material] Grass Scarf",
         "[Material] Bamboo Leaf",
-        "[Material] Jabot Pattern"
+        "[Material] Jabot Pattern",
+        "[Material] Grass Scarf"
       ]
     },
     {
@@ -250093,9 +250093,9 @@
       "exp": "523",
       "map": "Arstida: Area 1",
       "drops": [
+        "[Material] Geometric Arm",
         "[Material] Strange Wing",
         "[Material] Mutated Floating Body",
-        "[Material] Geometric Arm",
         "[Staff] Windchanter Staff"
       ]
     },
@@ -250123,9 +250123,9 @@
       "exp": "678",
       "map": "Arstida: Area 1",
       "drops": [
+        "[Material] Geometric Armor Bit",
         "[Material] Corroded Tentacle",
         "[Material] Mutated Rock",
-        "[Material] Geometric Armor Bit",
         "[Katana] Shirogane"
       ]
     },
@@ -250200,8 +250200,8 @@
       "exp": "22700",
       "map": "Creme Cliff (Valentine's Day Event)",
       "drops": [
-        "[Usable] Whipped Cream",
         "[Usable] Berry Scaly Horn",
+        "[Usable] Whipped Cream",
         "[Additional] Strawberry Beret",
         "[Material] Cute Wrapping Paper",
         "[Ore] Orichalcum Ore",
@@ -250217,8 +250217,8 @@
       "exp": "40000",
       "map": "Creme Cliff (Valentine's Day Event)",
       "drops": [
-        "[Usable] Berry Scaly Horn",
         "[Usable] Whipped Cream",
+        "[Usable] Berry Scaly Horn",
         "[Additional] Strawberry Beret",
         "[Material] Cute Wrapping Paper",
         "[Ore] Orichalcum Ore",
@@ -250251,8 +250251,8 @@
       "map": "El Scaro",
       "drops": [
         "[2 Handed Sword] Lolliodd Magic Sword",
-        "[Material] Torn Wrapping Paper",
         "[Material] Troublesome Cookie Crumb",
+        "[Material] Torn Wrapping Paper",
         "[Ore] Damascus Ore",
         "[Additional Crysta] Evil Lefina",
         "[Halberd] Lolliodd Magic Halberd"
@@ -250287,9 +250287,9 @@
       "drops": [
         "[2 Handed Sword] Lolliodd Magic Sword",
         "[Additional] Evil Tiara",
-        "[Material] Torn Wrapping Paper",
         "[Material] Troublesome Cookie Crumb",
         "[Material] Ritzy Ribbon",
+        "[Material] Torn Wrapping Paper",
         "[Ore] Orichalcum Ore",
         "[Additional Crysta] Evil Lefina",
         "[Halberd] Lolliodd Magic Halberd"
@@ -250324,8 +250324,8 @@
       "exp": "572",
       "map": "Mt. Vulcani: Area 1",
       "drops": [
-        "[Material] Magma Skin",
         "[Material] Molten Rock",
+        "[Material] Magma Skin",
         "[Magic Device] Sunlight Wings",
         "[Ore] Damascus Ore"
       ]
@@ -250340,9 +250340,9 @@
       "map": "Mt. Vulcani: Area 1",
       "drops": [
         "[Additional] Clement Headband",
-        "[Material] Fine Coal",
         "[Material] Burnt-Out Pebble",
-        "[Material] Ardent Eye"
+        "[Material] Ardent Eye",
+        "[Material] Fine Coal"
       ]
     },
     {
@@ -250386,9 +250386,9 @@
       "exp": "202",
       "map": "Vulcani Crater Base",
       "drops": [
+        "[Material] Short Red Claw",
         "[Material] Heatproof Shell",
         "[Material] Magma Fruit",
-        "[Material] Short Red Claw",
         "[Special] Valley Guardian Stone"
       ]
     },
@@ -250402,9 +250402,9 @@
       "map": "Vulcani Crater Base",
       "drops": [
         "[Additional] Heavy Knight Helmet",
-        "[Material] Vulcani Stone",
         "[Material] Scorching Rock Fragment",
-        "[Material] Rhyolite"
+        "[Material] Rhyolite",
+        "[Material] Vulcani Stone"
       ]
     },
     {
@@ -250431,9 +250431,9 @@
       "exp": "49022",
       "map": "Vulcani Crater Base",
       "drops": [
+        "[Material] Rhyolite",
         "[Material] Vulcani Stone",
         "[Material] Burning Desire",
-        "[Material] Rhyolite",
         "[Special Crysta] Ignitrus",
         "[Katana] Combat Knife"
       ]
@@ -250495,9 +250495,9 @@
       "map": "Vulcani Underground Passage",
       "drops": [
         "[Arrow] Devil's Arrow",
-        "[Material] Bone Scissors",
         "[Material] Strong Carapace",
-        "[Material] Poison Crystal Tail"
+        "[Material] Poison Crystal Tail",
+        "[Material] Bone Scissors"
       ]
     },
     {
@@ -250510,9 +250510,9 @@
       "map": "Vulcani Underground Passage",
       "drops": [
         "[Additional] Scoop Eyepatch",
-        "[Material] Conch Crown",
         "[Material] Flexible Tentacle",
-        "[Material] Octo Bubble"
+        "[Material] Octo Bubble",
+        "[Material] Conch Crown"
       ]
     },
     {
@@ -250540,8 +250540,8 @@
       "map": "Milcaska Falls: Waterfall",
       "drops": [
         "[Usable] Poisonous Root Veggie",
-        "[Material] Geometric Membrane",
         "[Material] Mutated Outer Shell",
+        "[Material] Geometric Membrane",
         "[Halberd] Berg Spear"
       ]
     },
@@ -250569,9 +250569,9 @@
       "exp": "45540",
       "map": "Milcaska Falls: Army Base",
       "drops": [
+        "[Material] Poison Crystal Tail",
         "[Material] Bone Scissors",
         "[Material] Devil's Skull",
-        "[Material] Poison Crystal Tail",
         "[Normal Crysta] Rampion"
       ]
     },
@@ -250632,9 +250632,9 @@
       "map": "Weredragon's Throat",
       "drops": [
         "[Additional] Furball Accessories",
+        "[Material] Cloud Cat Horn",
         "[Material] Cloud Cat Hairball",
-        "[Material] Fleecy Cloud",
-        "[Material] Cloud Cat Horn"
+        "[Material] Fleecy Cloud"
       ]
     },
     {
@@ -250695,10 +250695,10 @@
       "exp": "Unknown",
       "map": "Anniversary Arena: 7th Venue",
       "drops": [
-        "[Usable] Revita VII",
         "[Usable] Regera V",
-        "[Material] Golpom 7th Anniv Medal",
-        "[Material] Memorial Cloth"
+        "[Usable] Revita VII",
+        "[Material] Memorial Cloth",
+        "[Material] Golpom 7th Anniv Medal"
       ]
     },
     {
@@ -250710,10 +250710,10 @@
       "exp": "Unknown",
       "map": "Anniversary Arena: 7th Venue",
       "drops": [
-        "[Usable] Regera VI",
         "[Usable] Revita VIII",
-        "[Material] Golpom 7th Anniv Medal",
-        "[Material] Memorial Cloth"
+        "[Usable] Regera VI",
+        "[Material] Memorial Cloth",
+        "[Material] Golpom 7th Anniv Medal"
       ]
     },
     {
@@ -250866,12 +250866,12 @@
       "exp": "8888",
       "map": "Saltau's Beach: Beach House",
       "drops": [
-        "[Usable] Big Takoyaki (Sauce)",
-        "[Usable] Big Takoyaki (Scallion)",
-        "[Usable] Big Takoyaki (Salt)",
         "[Usable] Big Takoyaki (Dashi)",
         "[Usable] Big Takoyaki (Soy Sauce)",
         "[Usable] Big Takoyaki (Ponzu)",
+        "[Usable] Big Takoyaki (Sauce)",
+        "[Usable] Big Takoyaki (Scallion)",
+        "[Usable] Big Takoyaki (Salt)",
         "[Additional] Hachimaki Baby Octopus",
         "[Armor] Palanquin Carrier Garment",
         "[Material] Octopus Tentacle",
@@ -250888,9 +250888,9 @@
       "map": "Nebula Plain",
       "drops": [
         "[Additional] Tanuki Hat",
-        "[Material] Broken Boomerang",
         "[Material] Red & White Feather",
-        "[Material] Carved Wood Ornament"
+        "[Material] Carved Wood Ornament",
+        "[Material] Broken Boomerang"
       ]
     },
     {
@@ -250902,9 +250902,9 @@
       "exp": "344",
       "map": "Nebula Plain",
       "drops": [
+        "[Material] Stump",
         "[Material] Swirling Tail",
         "[Material] Joyful Rhythm",
-        "[Material] Stump",
         "[Special] Stump Drum"
       ]
     },
@@ -250917,9 +250917,9 @@
       "exp": "283",
       "map": "Nebula Plain",
       "drops": [
-        "[Material] Mist Droplet",
         "[Material] Mystical Wing",
         "[Material] Shining Flower",
+        "[Material] Mist Droplet",
         "[Normal Crysta] CSPD+140"
       ]
     },
@@ -250933,9 +250933,9 @@
       "map": "Boma Moja: Area 1",
       "drops": [
         "[Additional] Holy Hood",
+        "[Material] Pure White Feather",
         "[Material] Simple Accessory Piece",
-        "[Material] Observant Eye",
-        "[Material] Pure White Feather"
+        "[Material] Observant Eye"
       ]
     },
     {
@@ -250948,9 +250948,9 @@
       "map": "Boma Moja: Area 1",
       "drops": [
         "[Bowgun] Klug Bowgun",
-        "[Material] Flying Dragon Wing",
         "[Material] Flying Dragon Tail",
-        "[Material] Flying Dragon Heart"
+        "[Material] Flying Dragon Heart",
+        "[Material] Flying Dragon Wing"
       ]
     },
     {
@@ -250977,9 +250977,9 @@
       "exp": "739",
       "map": "Boma Moja: Area 2",
       "drops": [
+        "[Material] Dragon Hardstone",
         "[Material] Rugged Scute",
         "[Material] Quake Sound",
-        "[Material] Dragon Hardstone",
         "[Normal Crysta] STR+7"
       ]
     },
@@ -250992,9 +250992,9 @@
       "exp": "42627",
       "map": "Boma Moja: Area 3",
       "drops": [
+        "[Material] Flying Dragon Heart",
         "[Material] Flying Dragon Wing",
         "[Material] Endless Storm",
-        "[Material] Flying Dragon Heart",
         "[Enhancer Crysta (Green)] Galegon"
       ]
     },
@@ -251008,10 +251008,10 @@
       "map": "Boma Moja: Village Center",
       "drops": [
         "[Bowgun] Burning Ember Gun",
-        "[Material] Burning Dragon Tail",
-        "[Material] Burning Dragon Claw",
         "[Material] Burning Dragon Scale",
         "[Material] Flowing Fiery Blood",
+        "[Material] Burning Dragon Tail",
+        "[Material] Burning Dragon Claw",
         "[Katana] Burning Ember Sword"
       ]
     },
@@ -251024,14 +251024,14 @@
       "exp": "46200",
       "map": "Manor of Surprises",
       "drops": [
-        "[Usable] Pumpkin Cookie",
-        "[Usable] Jack Pudding",
-        "[Usable] Pumpkin Candy",
-        "[Usable] Pumpkin Soup",
         "[Usable] Flower Nectar (Bouquet)",
         "[Usable] Ginger Cake",
         "[Usable] Barmbrack",
         "[Usable] Zombie Cake",
+        "[Usable] Pumpkin Cookie",
+        "[Usable] Jack Pudding",
+        "[Usable] Pumpkin Candy",
+        "[Usable] Pumpkin Soup",
         "[Additional] Potum Ghost Behind U",
         "[Enhancer Crysta (Purple)] Teertocrit"
       ]
@@ -251117,8 +251117,8 @@
       "drops": [
         "[Usable] Melting Candy",
         "[Additional] Floating Pumpkin Lanterns",
-        "[Material] Protruding Tongue",
-        "[Material] Pumpkin Waistband"
+        "[Material] Pumpkin Waistband",
+        "[Material] Protruding Tongue"
       ]
     },
     {
@@ -251147,8 +251147,8 @@
       "drops": [
         "[Usable] Tomato Chips",
         "[Dagger] Kitchen Knife",
-        "[Material] Salad Dressing",
-        "[Material] Tomato Seed"
+        "[Material] Tomato Seed",
+        "[Material] Salad Dressing"
       ]
     },
     {
@@ -251304,9 +251304,9 @@
       "map": "Operation Zone: Power Control Area",
       "drops": [
         "[2 Handed Sword] Dragon Slayer",
-        "[Material] Elongated Tongue",
         "[Material] Dented Chestplate",
-        "[Material] Nimble Tail"
+        "[Material] Nimble Tail",
+        "[Material] Elongated Tongue"
       ]
     },
     {
@@ -251318,9 +251318,9 @@
       "exp": "550",
       "map": "Operation Zone: Residential Area",
       "drops": [
+        "[Material] Iron Pipe",
         "[Material] Greasy Oil",
         "[Material] Concentrated Tar",
-        "[Material] Iron Pipe",
         "[Staff] Luster Staff"
       ]
     },
@@ -251381,9 +251381,9 @@
       "exp": "298",
       "map": "Stairway to Vital Point",
       "drops": [
+        "[Material] Solid Vertebra",
         "[Material] Mutated Dragon Leg",
         "[Material] Stairway Pebble",
-        "[Material] Solid Vertebra",
         "[Special] Dragon Ring"
       ]
     },
@@ -251442,9 +251442,9 @@
       "map": "Weredragon's Vital Point: Area 1",
       "drops": [
         "[1 Handed Sword] Aeria Spada",
-        "[Material] Swirling Membrane",
         "[Material] Strange Thin Wing",
-        "[Material] Crooked Horn"
+        "[Material] Crooked Horn",
+        "[Material] Swirling Membrane"
       ]
     },
     {
@@ -251473,10 +251473,10 @@
       "drops": [
         "[1 Handed Sword] Filrocas Sword",
         "[Knuckles] Filrocas Arms",
-        "[Material] Strange Crystal Fang",
-        "[Material] Filrocas Core",
         "[Material] Strange Rubber Fiber",
-        "[Material] Filrocas' Blue Eye"
+        "[Material] Filrocas' Blue Eye",
+        "[Material] Strange Crystal Fang",
+        "[Material] Filrocas Core"
       ]
     },
     {
@@ -251488,26 +251488,26 @@
       "exp": "2640",
       "map": "Archfiend's Throne",
       "drops": [
-        "[Usable] Pom Biscuit",
-        "[Usable] Heroic Butter Cake",
-        "[Usable] Potum Beans",
         "[Usable] Heroic Revita",
-        "[1 Handed Sword] Hero Sword (Pom)",
+        "[Usable] Potum Beans",
+        "[Usable] Heroic Butter Cake",
+        "[Usable] Pom Biscuit",
         "[1 Handed Sword] Pom Pom Sword Mace",
+        "[1 Handed Sword] Hero Sword (Pom)",
         "[Additional] Potum Backpack",
         "[Bowgun] Potum Popper",
         "[Knuckles] Twin Eagles",
         "[Ore] Orichalcum Ore",
         "[Shield] Hero Shield (Pom)",
-        "[Staff] Pom Pom Staff Mace",
-        "[Staff] Potum Staff",
         "[Staff] Lightning Flame",
+        "[Staff] Potum Staff",
+        "[Staff] Pom Pom Staff Mace",
         "[Weapon Crysta] Pomie Chan",
         "[Armor Crysta] Doctor Pom Pom",
         "[Special Crysta] Potumotter",
+        "[Enhancer Crysta (Red)] Pomie Chan II",
         "[Enhancer Crysta (Red)] Hero Potum II",
-        "[Enhancer Crysta (Red)] Hero Potum III",
-        "[Enhancer Crysta (Red)] Pomie Chan II"
+        "[Enhancer Crysta (Red)] Hero Potum III"
       ]
     },
     {
@@ -251520,9 +251520,9 @@
       "map": "Illuminare City: Route 1 (170-190)",
       "drops": [
         "[Additional] Xmas Lights Hair Ornament",
+        "[Material] Gray Crystal Ore",
         "[Material] Mansion Cornerstone",
-        "[Material] Stolen Box (Green)",
-        "[Material] Gray Crystal Ore"
+        "[Material] Stolen Box (Green)"
       ]
     },
     {
@@ -251535,9 +251535,9 @@
       "map": "Illuminare City: Route 1 (170-190)",
       "drops": [
         "[2 Handed Sword] Escudo Blade",
+        "[Material] Distinct Pebble",
         "[Material] Rubbery Skin",
-        "[Material] Stolen Box (Blue)",
-        "[Material] Distinct Pebble"
+        "[Material] Stolen Box (Blue)"
       ]
     },
     {
@@ -251581,10 +251581,10 @@
       "exp": "31000",
       "map": "Illuminare City: Central Square",
       "drops": [
-        "[Usable] Iced Vita Plus",
         "[Usable] Revita VI",
-        "[Additional] Holy Night Scarf",
+        "[Usable] Iced Vita Plus",
         "[Additional] Holy Night Muffler",
+        "[Additional] Holy Night Scarf",
         "[Ore] Damascus Ore",
         "[Enhancer Crysta (Green)] Black Velly"
       ]
@@ -251615,8 +251615,8 @@
       "exp": "41000",
       "map": "Illuminare City: Central Square",
       "drops": [
-        "[Usable] Revita VIII",
         "[Usable] Iced Vita Plus",
+        "[Usable] Revita VIII",
         "[Bowgun] Holy Night Rifle",
         "[Ore] Orichalcum Ore",
         "[Weapon Crysta] Xmas Princess in Black",
@@ -251632,8 +251632,8 @@
       "exp": "45300",
       "map": "Illuminare City: Route 1 (210-230)",
       "drops": [
-        "[Material] Silver Star Ornament",
         "[Material] Cold Scrap",
+        "[Material] Silver Star Ornament",
         "[Ore] Mithril Ore",
         "[Normal Crysta] Illuminitor"
       ]
@@ -251663,9 +251663,9 @@
       "map": "Tunnel of Trials",
       "drops": [
         "[Additional] Shady Hoodie",
+        "[Material] Beautiful Mineral",
         "[Material] Burglar's Cloth",
-        "[Material] Dim Eyeball",
-        "[Material] Beautiful Mineral"
+        "[Material] Dim Eyeball"
       ]
     },
     {
@@ -251812,13 +251812,13 @@
       "exp": "1",
       "map": "Event",
       "drops": [
-        "[Usable] Lizard Liquor",
-        "[Usable] Salt Potato",
-        "[Usable] Ox Tongue Bento",
         "[Usable] Champagne",
         "[Usable] Energy Package",
         "[Usable] Golden Pom Liquor",
         "[Usable] Super Delicious Yakitori",
+        "[Usable] Lizard Liquor",
+        "[Usable] Salt Potato",
+        "[Usable] Ox Tongue Bento",
         "[Additional] Unicorn Helm \n                                            \n                                                            1\n                                                            1\n                                                            54",
         "[Armor] Empress Mail \n                                            \n                                                            1\n                                                            54\n                                                            22",
         "[Material] Silver Armor Bit",
@@ -251853,9 +251853,9 @@
       "drops": [
         "[1 Handed Sword] Rolling Pin Sword",
         "[Additional] Cookie Horns",
-        "[Material] Biscuit Horns",
         "[Material] Star-Shaped Cookie",
         "[Material] Heart-Shaped Spit Piece",
+        "[Material] Biscuit Horns",
         "[Staff] Rolling Pin Staff",
         "[Additional Crysta] Mage Filecia"
       ]
@@ -251871,9 +251871,9 @@
       "drops": [
         "[1 Handed Sword] Rolling Pin Sword",
         "[Additional] Crust Plate",
-        "[Material] Biscuit Horns",
         "[Material] Star-Shaped Cookie",
         "[Material] Heart-Shaped Spit Piece",
+        "[Material] Biscuit Horns",
         "[Staff] Rolling Pin Staff",
         "[Additional Crysta] Mage Filecia"
       ]
@@ -251936,9 +251936,9 @@
       "exp": "303",
       "map": "Mt. Sakuraten",
       "drops": [
-        "[Usable] Onigiri",
         "[Usable] Flower Nectar",
         "[Usable] Toram Liquor",
+        "[Usable] Onigiri",
         "[Material] Sakura Warrior Emblem"
       ]
     },
@@ -251951,9 +251951,9 @@
       "exp": "275",
       "map": "Mt. Sakuraten",
       "drops": [
-        "[Usable] Sakuramochi",
         "[Usable] Flower Nectar",
         "[Usable] Yellow Apple",
+        "[Usable] Sakuramochi",
         "[Material] Sakura Warrior Emblem"
       ]
     },
@@ -251966,11 +251966,11 @@
       "exp": "23100",
       "map": "Mt. Sakuraten: Summit",
       "drops": [
-        "[Usable] Swordsbear Treasured Sake",
         "[Usable] Pink Orange Wicker Box",
+        "[Usable] Swordsbear Treasured Sake",
         "[Additional] Baavgai Hat",
-        "[Material] Mount Sakuraten Pebble",
         "[Material] Swordsbear Fluffy Beard",
+        "[Material] Mount Sakuraten Pebble",
         "[Staff] Sakura Warrior Staff",
         "[Halberd] Sakura Warrior Halberd",
         "[Enhancer Crysta (Green)] Baavgai"
@@ -252043,9 +252043,9 @@
       "map": "Propulsion System Zone: Power Converter",
       "drops": [
         "[Bow] Reaper Bow",
+        "[Material] Round Tail",
         "[Material] Chiroptera Wing",
-        "[Material] Lantern Ember",
-        "[Material] Round Tail"
+        "[Material] Lantern Ember"
       ]
     },
     {
@@ -252087,9 +252087,9 @@
       "exp": "98000",
       "map": "Propulsion System Zone: Power Tank",
       "drops": [
-        "[Material] Hot Glass",
         "[Material] Small Wing",
         "[Material] Scorching Core",
+        "[Material] Hot Glass",
         "[Special Crysta] Trus"
       ]
     },
@@ -252121,8 +252121,8 @@
       "drops": [
         "[Usable] Heavy Chocolate",
         "[Dagger] Hefty Knife",
-        "[Material] Cacao Paste",
-        "[Material] Cat Fur"
+        "[Material] Cat Fur",
+        "[Material] Cacao Paste"
       ]
     },
     {
@@ -252175,14 +252175,14 @@
       "map": "El Scaro: Back Alley",
       "drops": [
         "[Usable] Emotion Ticket R",
-        "[Additional] Broker Mask",
         "[Additional] Broker Hat",
-        "[Material] Bad Liquor",
+        "[Additional] Broker Mask",
         "[Material] Filthy Bag",
         "[Material] Suspicious Order Form",
+        "[Material] Bad Liquor",
         "[Special Crysta] Broker Goblin",
-        "[Enhancer Crysta (Yellow)] Soldner",
-        "[Enhancer Crysta (Yellow)] Amargon"
+        "[Enhancer Crysta (Yellow)] Amargon",
+        "[Enhancer Crysta (Yellow)] Soldner"
       ]
     },
     {
@@ -252198,12 +252198,12 @@
         "[Additional] Broker Mask",
         "[Additional] Broker Hat",
         "[Bowgun] Goblin Rifle",
-        "[Material] Bad Liquor",
         "[Material] Filthy Bag",
         "[Material] Suspicious Order Form",
+        "[Material] Bad Liquor",
         "[Special Crysta] Broker Goblin",
-        "[Enhancer Crysta (Yellow)] Soldner",
-        "[Enhancer Crysta (Yellow)] Amargon"
+        "[Enhancer Crysta (Yellow)] Amargon",
+        "[Enhancer Crysta (Yellow)] Soldner"
       ]
     },
     {
@@ -252216,9 +252216,9 @@
       "map": "Kabla Jabali",
       "drops": [
         "[Additional] Tomtits Gathering Spot",
-        "[Material] Bleached Branch",
         "[Material] Bitter Leaf",
-        "[Material] Dark Brown Seed"
+        "[Material] Dark Brown Seed",
+        "[Material] Bleached Branch"
       ]
     },
     {
@@ -252230,9 +252230,9 @@
       "exp": "310",
       "map": "Kabla Jabali",
       "drops": [
-        "[Material] Growing Ore",
         "[Material] Stone Carapace",
         "[Material] Deadly Claw",
+        "[Material] Growing Ore",
         "[Special] Rock Horn Beast Bangle"
       ]
     },
@@ -252246,9 +252246,9 @@
       "map": "Kabla Jabali",
       "drops": [
         "[Additional] Sheep Hood",
-        "[Material] Jabali Stone",
         "[Material] Sleek Horse Hair",
-        "[Material] Pupil Gem"
+        "[Material] Pupil Gem",
+        "[Material] Jabali Stone"
       ]
     },
     {
@@ -252290,8 +252290,8 @@
       "exp": "736",
       "map": "Jabali Kubwa: Area 1",
       "drops": [
-        "[Material] Solid Ear",
         "[Material] Dry Pelt",
+        "[Material] Solid Ear",
         "[Ore] Mithril Ore",
         "[Normal Crysta] ASPD+160"
       ]
@@ -252306,8 +252306,8 @@
       "map": "Jabali Kubwa: Area 1",
       "drops": [
         "[Usable] Kiton's Meat",
-        "[Material] Kiton's Wing",
         "[Material] Kiton's Horn Fragment",
+        "[Material] Kiton's Wing",
         "[Halberd] Azure Spear"
       ]
     },
@@ -252322,10 +252322,10 @@
       "drops": [
         "[2 Handed Sword] Savon Spada",
         "[Bow] Savon Bow",
-        "[Material] Walican Feather",
-        "[Material] Walican Horn",
         "[Material] Tough Pelt Sack",
-        "[Material] Mysterious Soap Liquid"
+        "[Material] Mysterious Soap Liquid",
+        "[Material] Walican Feather",
+        "[Material] Walican Horn"
       ]
     },
     {
@@ -252337,9 +252337,9 @@
       "exp": "314",
       "map": "Boma Konda: Entrance",
       "drops": [
-        "[Material] Gorgeous Plumicorn",
         "[Material] Jagged Feather",
         "[Material] Owl's Pupil",
+        "[Material] Gorgeous Plumicorn",
         "[Shield] Aeria Shield"
       ]
     },
@@ -252353,9 +252353,9 @@
       "map": "Boma Konda: Entrance",
       "drops": [
         "[Additional] Schmet Hairpin",
-        "[Material] Spiral Tail",
         "[Material] Head Leaf",
-        "[Material] Saponin Tears"
+        "[Material] Saponin Tears",
+        "[Material] Spiral Tail"
       ]
     },
     {
@@ -252413,9 +252413,9 @@
       "map": "Boma Konda: Underground Area",
       "drops": [
         "[Bowgun] Anchor Bowgun",
-        "[Material] Half-Eaten Mushroom",
         "[Material] Dirty Weed",
-        "[Material] Big Neck Frill"
+        "[Material] Big Neck Frill",
+        "[Material] Half-Eaten Mushroom"
       ]
     },
     {
@@ -252428,9 +252428,9 @@
       "map": "Boma Konda: Underground Area",
       "drops": [
         "[2 Handed Sword] Dragon Slasher",
-        "[Material] Burnt Wood Board",
         "[Material] Hot Dragon Scale",
         "[Material] Inferno Sac",
+        "[Material] Burnt Wood Board",
         "[Enhancer Crysta (Blue)] Charugon"
       ]
     },
@@ -252597,14 +252597,14 @@
       "exp": "93000",
       "map": "Eagle Talon Collab Venue",
       "drops": [
-        "[Usable] Revita VI",
         "[Usable] Revita VII",
+        "[Usable] Revita VI",
         "[Refinement Support] Super Anti-Degradation",
-        "[Material] Vanquisher Mecha Wreck",
         "[Material] Hero's Rag",
+        "[Material] Vanquisher Mecha Wreck",
         "[Ore] Orichalcum Ore",
-        "[Enhancer Crysta (Green)] Dr. Leonardo II",
-        "[Enhancer Crysta (Green)] DX Fighter II"
+        "[Enhancer Crysta (Green)] DX Fighter II",
+        "[Enhancer Crysta (Green)] Dr. Leonardo II"
       ]
     },
     {
@@ -254885,5 +254885,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-24T05:27:29.150Z"
+  "updatedAt": "2025-11-24T06:27:28.638Z"
 }
