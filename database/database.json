@@ -228797,8 +228797,8 @@
     },
     {
       "id": 933,
-      "name": "Eggshell Hat",
-      "link": "https://coryn.club/app/6-Eggshell%20Hat.jpg"
+      "name": "Devil Hood",
+      "link": "https://coryn.club/app/6-Devil%20Hood.jpg"
     },
     {
       "id": 934,
@@ -228847,8 +228847,8 @@
     },
     {
       "id": 943,
-      "name": "Dragoon Helm",
-      "link": "https://coryn.club/app/6-Dragoon%20Helm.jpg"
+      "name": "Floating Pumpkin Lanterns",
+      "link": "https://coryn.club/app/6-Floating%20Pumpkin%20Lanterns.jpg"
     },
     {
       "id": 944,
@@ -254895,5 +254895,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-24T12:27:22.480Z"
+  "updatedAt": "2025-11-24T13:27:08.514Z"
 }
