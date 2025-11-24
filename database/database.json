@@ -235904,6 +235904,101 @@
       "id": 2359,
       "name": "Modestia",
       "link": "https://coryn.club/app/27-Modestia.jpg"
+    },
+    {
+      "id": 2360,
+      "name": "Modestia (old)",
+      "link": "https://coryn.club/app/27-Modestia%20(old).jpg"
+    },
+    {
+      "id": 2361,
+      "name": "Mortal Lamina",
+      "link": "https://coryn.club/app/27-Mortal%20Lamina.jpg"
+    },
+    {
+      "id": 2362,
+      "name": "Mukuro Koshirae",
+      "link": "https://coryn.club/app/27-Mukuro%20Koshirae.jpg"
+    },
+    {
+      "id": 2363,
+      "name": "Murasame",
+      "link": "https://coryn.club/app/27-Murasame.jpg"
+    },
+    {
+      "id": 2364,
+      "name": "Nameless Uchigatana",
+      "link": "https://coryn.club/app/27-Nameless%20Uchigatana.jpg"
+    },
+    {
+      "id": 2365,
+      "name": "Ooze Lamina",
+      "link": "https://coryn.club/app/27-Ooze%20Lamina.jpg"
+    },
+    {
+      "id": 2366,
+      "name": "Orion's Sword",
+      "link": "https://coryn.club/app/27-Orion's%20Sword.jpg"
+    },
+    {
+      "id": 2367,
+      "name": "Pacific Saury",
+      "link": "https://coryn.club/app/27-Pacific%20Saury.jpg"
+    },
+    {
+      "id": 2368,
+      "name": "Patriot Edge",
+      "link": "https://coryn.club/app/27-Patriot%20Edge.jpg"
+    },
+    {
+      "id": 2369,
+      "name": "Pearl Sakura Mystic Sword",
+      "link": "https://coryn.club/app/27-Pearl%20Sakura%20Mystic%20Sword.jpg"
+    },
+    {
+      "id": 2370,
+      "name": "Pseudopumpkin Katana",
+      "link": "https://coryn.club/app/27-Pseudopumpkin%20Katana.jpg"
+    },
+    {
+      "id": 2371,
+      "name": "Purple Lightning Sword",
+      "link": "https://coryn.club/app/27-Purple%20Lightning%20Sword.jpg"
+    },
+    {
+      "id": 2372,
+      "name": "Raiden",
+      "link": "https://coryn.club/app/27-Raiden.jpg"
+    },
+    {
+      "id": 2373,
+      "name": "Red Spider Lily",
+      "link": "https://coryn.club/app/27-Red%20Spider%20Lily.jpg"
+    },
+    {
+      "id": 2374,
+      "name": "Sacred Ice Katana",
+      "link": "https://coryn.club/app/27-Sacred%20Ice%20Katana.jpg"
+    },
+    {
+      "id": 2375,
+      "name": "Sakura Katana",
+      "link": "https://coryn.club/app/27-Sakura%20Katana.jpg"
+    },
+    {
+      "id": 2376,
+      "name": "Sakura Lantern Katana",
+      "link": "https://coryn.club/app/27-Sakura%20Lantern%20Katana.jpg"
+    },
+    {
+      "id": 2377,
+      "name": "Scarlet Sakura Fairy Sword",
+      "link": "https://coryn.club/app/27-Scarlet%20Sakura%20Fairy%20Sword.jpg"
+    },
+    {
+      "id": 2378,
+      "name": "Seadevil Katana",
+      "link": "https://coryn.club/app/27-Seadevil%20Katana.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254720,5 +254815,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-24T01:26:02.279Z"
+  "updatedAt": "2025-11-24T02:25:39.780Z"
 }
