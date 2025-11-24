@@ -235709,6 +235709,101 @@
       "id": 2320,
       "name": "Abyssal Katana",
       "link": "https://coryn.club/app/27-Abyssal%20Katana.jpg"
+    },
+    {
+      "id": 2321,
+      "name": "Adamantine Katana",
+      "link": "https://coryn.club/app/27-Adamantine%20Katana.jpg"
+    },
+    {
+      "id": 2322,
+      "name": "Aobato",
+      "link": "https://coryn.club/app/27-Aobato.jpg"
+    },
+    {
+      "id": 2323,
+      "name": "Assassin Blade",
+      "link": "https://coryn.club/app/27-Assasin%20Blade.jpg"
+    },
+    {
+      "id": 2324,
+      "name": "Beastlord Katana",
+      "link": "https://coryn.club/app/27-Beastlord%20Katana.jpg"
+    },
+    {
+      "id": 2325,
+      "name": "Black Shadow Nodachi",
+      "link": "https://coryn.club/app/27-Black%20Shadow%20Nodachi.jpg"
+    },
+    {
+      "id": 2326,
+      "name": "Blue Spinel Sword",
+      "link": "https://coryn.club/app/27-Blue%20Spinel%20Sword.jpg"
+    },
+    {
+      "id": 2327,
+      "name": "Bokuto",
+      "link": "https://coryn.club/app/27-Bokuto.jpg"
+    },
+    {
+      "id": 2328,
+      "name": "Brass Dragon Sword",
+      "link": "https://coryn.club/app/27-Brass%20Dragon%20Sword.jpg"
+    },
+    {
+      "id": 2329,
+      "name": "Burning Ember Sword",
+      "link": "https://coryn.club/app/27-Burning%20Ember%20Sword.jpg"
+    },
+    {
+      "id": 2330,
+      "name": "Caro Tesla",
+      "link": "https://coryn.club/app/27-Caro%20Tesla.jpg"
+    },
+    {
+      "id": 2331,
+      "name": "Chocolate Katana",
+      "link": "https://coryn.club/app/27-Chocolate%20Katana.jpg"
+    },
+    {
+      "id": 2332,
+      "name": "Combat Knife",
+      "link": "https://coryn.club/app/27-Combat%20Knife.jpg"
+    },
+    {
+      "id": 2333,
+      "name": "Cruel Lamina",
+      "link": "https://coryn.club/app/27-Cruel%20Lamina.jpg"
+    },
+    {
+      "id": 2334,
+      "name": "Crystal Lamina",
+      "link": "https://coryn.club/app/27-Crystal%20Lamina.jpg"
+    },
+    {
+      "id": 2335,
+      "name": "Death Samurai Sword",
+      "link": "https://coryn.club/app/27-Death%20Samurai%20Sword.jpg"
+    },
+    {
+      "id": 2336,
+      "name": "Demon Empress Katana",
+      "link": "https://coryn.club/app/27-Demon%20Empress%20Katana.jpg"
+    },
+    {
+      "id": 2337,
+      "name": "Dia Lamina",
+      "link": "https://coryn.club/app/27-Dia%20Lamina.jpg"
+    },
+    {
+      "id": 2338,
+      "name": "Dragon Claw Katana",
+      "link": "https://coryn.club/app/27-Dragon%20Claw%20Katana.jpg"
+    },
+    {
+      "id": 2339,
+      "name": "Faldios",
+      "link": "https://coryn.club/app/27-Faldios.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254525,5 +254620,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-23T23:27:00.079Z"
+  "updatedAt": "2025-11-24T00:25:52.980Z"
 }
