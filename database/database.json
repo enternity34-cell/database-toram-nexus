@@ -235804,6 +235804,106 @@
       "id": 2339,
       "name": "Faldios",
       "link": "https://coryn.club/app/27-Faldios.jpg"
+    },
+    {
+      "id": 2340,
+      "name": "Glacial Ice Katana",
+      "link": "https://coryn.club/app/27-Glacial%20Ice%20Katana.jpg"
+    },
+    {
+      "id": 2341,
+      "name": "Golden Katana",
+      "link": "https://coryn.club/app/27-Golden%20Katana.jpg"
+    },
+    {
+      "id": 2342,
+      "name": "Hakuro Katana",
+      "link": "https://coryn.club/app/27-Hakuro%20Katana.jpg"
+    },
+    {
+      "id": 2343,
+      "name": "Homura",
+      "link": "https://coryn.club/app/27-Homura.jpg"
+    },
+    {
+      "id": 2344,
+      "name": "Ice Katana Ace",
+      "link": "https://coryn.club/app/27-Ice%20Katana%20Ace.jpg"
+    },
+    {
+      "id": 2345,
+      "name": "Iradium",
+      "link": "https://coryn.club/app/27-Iradium.jpg"
+    },
+    {
+      "id": 2346,
+      "name": "Iron Fang",
+      "link": "https://coryn.club/app/27-Iron%20Fang.jpg"
+    },
+    {
+      "id": 2347,
+      "name": "Kanpuu",
+      "link": "https://coryn.club/app/27-Kanpuu.jpg"
+    },
+    {
+      "id": 2348,
+      "name": "Kasakiri",
+      "link": "https://coryn.club/app/27-Kasakiri.jpg"
+    },
+    {
+      "id": 2349,
+      "name": "Kiraboshi",
+      "link": "https://coryn.club/app/27-Kiraboshi.jpg"
+    },
+    {
+      "id": 2350,
+      "name": "Koga Koshirae",
+      "link": "https://coryn.club/app/27-Koga%20Koshirae.jpg"
+    },
+    {
+      "id": 2351,
+      "name": "Korakiri",
+      "link": "https://coryn.club/app/27-Korakiri.jpg"
+    },
+    {
+      "id": 2352,
+      "name": "Kuro Momiji",
+      "link": "https://coryn.club/app/27-Kuro%20Momiji.jpg"
+    },
+    {
+      "id": 2353,
+      "name": "Kuro Tsurubami",
+      "link": "https://coryn.club/app/27-Kuro%20Tsurubami.jpg"
+    },
+    {
+      "id": 2354,
+      "name": "Kuwagumo",
+      "link": "https://coryn.club/app/27-Kuwagumo.jpg"
+    },
+    {
+      "id": 2355,
+      "name": "Lil Empress Katana",
+      "link": "https://coryn.club/app/27-Lil%20Empress%20Katana.jpg"
+    },
+    {
+      "id": 2356,
+      "name": "Mafu Swordstick",
+      "link": "https://coryn.club/app/27-Mafu%20Swordstick.jpg"
+    },
+    {
+      "id": 2357,
+      "name": "Milk Chocolate Churro",
+      "link": "https://coryn.club/app/27-Milk%20Chocolate%20Churro.jpg"
+    },
+    {
+      "id": 2358,
+      "name": "Minotaur's Katana",
+      "link": "https://coryn.club/app/27-Minotaur's%20Katana.jpg"
+    },
+    {
+      "id": 2359,
+      "name": "Modestia",
+      "link": "https://coryn.club/app/27-Modestia.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254620,5 +254720,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-24T00:25:52.980Z"
+  "updatedAt": "2025-11-24T01:26:02.279Z"
 }
