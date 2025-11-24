@@ -226467,8 +226467,8 @@
     },
     {
       "id": 176,
-      "name": "Evil Garb of Death (Normal)",
-      "link": "https://coryn.club/app/8-Evil%20Garb%20of%20Death%20%5BNormal-Female%5D.jpg"
+      "name": "Finpen Wet Suit (Heavy)",
+      "link": "https://coryn.club/app/8-Finpen%20Wet%20Suit%20%5BHeavy-Female%5D.jpg"
     },
     {
       "id": 177,
@@ -227132,8 +227132,8 @@
     },
     {
       "id": 441,
-      "name": "Sakura Kimono V (Light)",
-      "link": "https://coryn.club/app/8-Sakura%20Kimono%20V%20%5BLight-Female%5D.jpg"
+      "name": "Oracle Robe (Light)",
+      "link": "https://coryn.club/app/8-Oracle%20Robe%20%5BLight-Female%5D.jpg"
     },
     {
       "id": 442,
@@ -227222,13 +227222,13 @@
     },
     {
       "id": 477,
-      "name": "Sakura Kimono IV (Normal)",
-      "link": "https://coryn.club/app/8-Sakura%20Kimono%20IV%20%5BNormal-Male%5D.jpg"
+      "name": "Party Costume (Light)",
+      "link": "https://coryn.club/app/8-Party%20Costume%20%5BLight-Female%5D.jpg"
     },
     {
       "id": 478,
-      "name": "Santa Suit V (Heavy)",
-      "link": "https://coryn.club/app/8-Santa%20Suit%20V%20%5BHeavy-Male%5D.jpg"
+      "name": "Party Costume (Heavy)",
+      "link": "https://coryn.club/app/8-Party%20Costume%20%5BHeavy-Female%5D.jpg"
     },
     {
       "id": 482,
@@ -227812,8 +227812,8 @@
     },
     {
       "id": 709,
-      "name": "Twilight Dress (Heavy)",
-      "link": "https://coryn.club/app/8-Twilight%20Dress%20%5BHeavy-Female%5D.jpg"
+      "name": "Warrior Mail (Light)",
+      "link": "https://coryn.club/app/8-Warrior%20Mail%20%5BLight-Male%5D.jpg"
     },
     {
       "id": 713,
@@ -236054,6 +236054,16 @@
       "id": 2390,
       "name": "Yozakura Katana",
       "link": "https://coryn.club/app/27-Yozakura%20Katana.jpg"
+    },
+    {
+      "id": 179,
+      "name": "Evil Garb of Death (Normal)",
+      "link": "https://coryn.club/app/8-Evil%20Garb%20of%20Death%20%5BNormal-Male%5D.jpg"
+    },
+    {
+      "id": 712,
+      "name": "Twilight Dress (Heavy)",
+      "link": "https://coryn.club/app/8-Twilight%20Dress%20%5BHeavy-Male%5D.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254885,5 +254895,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-24T10:20:43.854Z"
+  "updatedAt": "2025-11-24T11:27:24.482Z"
 }
