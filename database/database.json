@@ -230872,8 +230872,8 @@
     },
     {
       "id": 1348,
-      "name": "Seaweed Hat",
-      "link": "https://coryn.club/app/6-Seaweed%20Hat.jpg"
+      "name": "Wing Cape",
+      "link": "https://coryn.club/app/6-Wing%20Cape.jpg"
     },
     {
       "id": 1349,
@@ -231097,8 +231097,8 @@
     },
     {
       "id": 1393,
-      "name": "Stardust Earrings",
-      "link": "https://coryn.club/app/6-Stardust%20Earrings.jpg"
+      "name": "Wing Eyemask",
+      "link": "https://coryn.club/app/6-Wing%20Eyemask.jpg"
     },
     {
       "id": 1394,
@@ -231107,8 +231107,8 @@
     },
     {
       "id": 1395,
-      "name": "Harmony Shield",
-      "link": "https://coryn.club/app/17-Harmony%20Shield.jpg"
+      "name": "Steampunk Cap",
+      "link": "https://coryn.club/app/6-Steampunk%20Cap.jpg"
     },
     {
       "id": 1396,
@@ -231222,8 +231222,8 @@
     },
     {
       "id": 1418,
-      "name": "Technista Armband",
-      "link": "https://coryn.club/app/6-Technista%20Armband.jpg"
+      "name": "Crimson Moon Mystic Bow",
+      "link": "https://coryn.club/app/9-Crimson%20Moon%20Mystic%20Bow.jpg"
     },
     {
       "id": 1419,
@@ -231287,8 +231287,8 @@
     },
     {
       "id": 1431,
-      "name": "Gemma Anello",
-      "link": "https://coryn.club/app/19-Gemma%20Anello.jpg"
+      "name": "Trench Cape",
+      "link": "https://coryn.club/app/6-Trench%20Cape.jpg"
     },
     {
       "id": 1432,
@@ -254895,5 +254895,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-24T15:27:12.076Z"
+  "updatedAt": "2025-11-24T16:27:04.574Z"
 }
