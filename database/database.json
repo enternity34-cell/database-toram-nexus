@@ -234982,8 +234982,8 @@
     },
     {
       "id": 2050,
-      "name": "Watching Mom",
-      "link": "https://coryn.club/app/15-Watching%20Mom.jpg"
+      "name": "Beastlord Wings",
+      "link": "https://coryn.club/app/15-Beastlord%20Wings.jpg"
     },
     {
       "id": 2063,
@@ -236069,6 +236069,11 @@
       "id": 2037,
       "name": "3rd Anniv Wings",
       "link": "https://coryn.club/app/15-3rd%20Anniv%20Wings.jpg"
+    },
+    {
+      "id": 2046,
+      "name": "Aranea Ore",
+      "link": "https://coryn.club/app/15-Aranea%20Ore.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254900,5 +254905,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-25T05:27:00.185Z"
+  "updatedAt": "2025-11-25T06:25:33.298Z"
 }
