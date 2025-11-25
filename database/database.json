@@ -234162,8 +234162,8 @@
     },
     {
       "id": 2015,
-      "name": "1st Anniv Wings",
-      "link": "https://coryn.club/app/15-1st%20Anniv%20Wings.jpg"
+      "name": "Sacred Ice Claws",
+      "link": "https://coryn.club/app/13-Sacred%20Ice%20Claws.jpg"
     },
     {
       "id": 2016,
@@ -234202,8 +234202,8 @@
     },
     {
       "id": 2024,
-      "name": "Magic Brooch",
-      "link": "https://coryn.club/app/15-Magic%20Brooch.jpg"
+      "name": "Toy Gun",
+      "link": "https://coryn.club/app/13-Toy%20Gun.jpg"
     },
     {
       "id": 2025,
@@ -234227,8 +234227,8 @@
     },
     {
       "id": 2029,
-      "name": "6th Anniv Wings",
-      "link": "https://coryn.club/app/15-6th%20Anniv%20Wings.jpg"
+      "name": "Visphalanx (Knuckle)",
+      "link": "https://coryn.club/app/13-Visphalanx%20(Knuckle).jpg"
     },
     {
       "id": 2030,
@@ -234242,8 +234242,8 @@
     },
     {
       "id": 2032,
-      "name": "Cruel Wings",
-      "link": "https://coryn.club/app/15-Cruel%20Wings.jpg"
+      "name": "Wind Slayer Chakram",
+      "link": "https://coryn.club/app/13-Wind%20Slayer%20Chakram.jpg"
     },
     {
       "id": 2033,
@@ -234272,13 +234272,13 @@
     },
     {
       "id": 2039,
-      "name": "Elflame",
-      "link": "https://coryn.club/app/15-Elflame.jpg"
+      "name": "5th Anniv Wings",
+      "link": "https://coryn.club/app/15-5th%20Anniv%20Wings.jpg"
     },
     {
       "id": 2040,
-      "name": "Demon Empress Staff",
-      "link": "https://coryn.club/app/19-Demon%20Empress%20Staff.jpg"
+      "name": "6th Anniv Wings",
+      "link": "https://coryn.club/app/15-6th%20Anniv%20Wings.jpg"
     },
     {
       "id": 2041,
@@ -236064,6 +236064,11 @@
       "id": 712,
       "name": "Twilight Dress (Heavy)",
       "link": "https://coryn.club/app/8-Twilight%20Dress%20%5BHeavy-Male%5D.jpg"
+    },
+    {
+      "id": 2037,
+      "name": "3rd Anniv Wings",
+      "link": "https://coryn.club/app/15-3rd%20Anniv%20Wings.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254895,5 +254900,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-25T04:26:33.286Z"
+  "updatedAt": "2025-11-25T05:27:00.185Z"
 }
