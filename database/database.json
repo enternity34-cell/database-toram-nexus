@@ -226439,8 +226439,8 @@
     },
     {
       "id": 176,
-      "name": "Finpen Wet Suit (Heavy)",
-      "link": "https://coryn.club/app/8-Finpen%20Wet%20Suit%20%5BHeavy-Female%5D.jpg"
+      "name": "Evil Garb of Death (Normal)",
+      "link": "https://coryn.club/app/8-Evil%20Garb%20of%20Death%20%5BNormal-Female%5D.jpg"
     },
     {
       "id": 177,
@@ -227784,8 +227784,8 @@
     },
     {
       "id": 709,
-      "name": "Warrior Mail (Light)",
-      "link": "https://coryn.club/app/8-Warrior%20Mail%20%5BLight-Male%5D.jpg"
+      "name": "Twilight Dress (Heavy)",
+      "link": "https://coryn.club/app/8-Twilight%20Dress%20%5BHeavy-Female%5D.jpg"
     },
     {
       "id": 713,
@@ -227879,13 +227879,13 @@
     },
     {
       "id": 749,
-      "name": "Breeta Mask",
-      "link": "https://coryn.club/app/6-Breeta%20Mask.jpg"
+      "name": "Winter Outfit II (Normal)",
+      "link": "https://coryn.club/app/8-Winter%20Outfit%20II%20%5BNormal-Female%5D.jpg"
     },
     {
       "id": 750,
-      "name": "Cherries In Mouth",
-      "link": "https://coryn.club/app/6-Cherries%20In%20Mouth.jpg"
+      "name": "Winter Outfit II (Light)",
+      "link": "https://coryn.club/app/8-Winter%20Outfit%20II%20%5BLight-Female%5D.jpg"
     },
     {
       "id": 751,
@@ -227929,8 +227929,8 @@
     },
     {
       "id": 765,
-      "name": "Cake Head",
-      "link": "https://coryn.club/app/6-Cake%20Head.jpg"
+      "name": "1st Anniv Ribbon",
+      "link": "https://coryn.club/app/6-1st%20Anniv%20Ribbon.jpg"
     },
     {
       "id": 766,
@@ -254877,5 +254877,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-28T08:23:18.311Z"
+  "updatedAt": "2025-11-28T09:27:27.987Z"
 }
