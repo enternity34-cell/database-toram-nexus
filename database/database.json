@@ -231194,8 +231194,8 @@
     },
     {
       "id": 1418,
-      "name": "Crimson Moon Mystic Bow",
-      "link": "https://coryn.club/app/9-Crimson%20Moon%20Mystic%20Bow.jpg"
+      "name": "Technista Armband",
+      "link": "https://coryn.club/app/6-Technista%20Armband.jpg"
     },
     {
       "id": 1419,
@@ -231689,13 +231689,13 @@
     },
     {
       "id": 1517,
-      "name": "8th Anniv Shield",
-      "link": "https://coryn.club/app/17-8th%20Anniv%20Shield.jpg"
+      "name": "Marble Shield",
+      "link": "https://coryn.club/app/17-Marble%20Shield.jpg"
     },
     {
       "id": 1518,
-      "name": "Albero Shield",
-      "link": "https://coryn.club/app/17-Albero%20Shield.jpg"
+      "name": "Maton Shield",
+      "link": "https://coryn.club/app/17-Maton%20Shield.jpg"
     },
     {
       "id": 1519,
@@ -254877,5 +254877,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-28T13:27:16.487Z"
+  "updatedAt": "2025-11-28T14:27:02.183Z"
 }
