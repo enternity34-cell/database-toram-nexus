@@ -231704,8 +231704,8 @@
     },
     {
       "id": 1520,
-      "name": "Eradicator Bayonet",
-      "link": "https://coryn.club/app/4-Eradicator%20Bayonet.jpg"
+      "name": "Black Shield of Delusion",
+      "link": "https://coryn.club/app/17-Black%20Shield%20of%20Delusion.jpg"
     },
     {
       "id": 1521,
@@ -231724,13 +231724,13 @@
     },
     {
       "id": 1524,
-      "name": "Catafnia Shield",
-      "link": "https://coryn.club/app/17-Catafnia%20Shield.jpg"
+      "name": "Holy Shield",
+      "link": "https://coryn.club/app/17-Holy%20Shield.jpg"
     },
     {
       "id": 1525,
-      "name": "Coffin Shield",
-      "link": "https://coryn.club/app/17-Coffin%20Shield.jpg"
+      "name": "Porcupine Quills Shield",
+      "link": "https://coryn.club/app/17-Porcupine%20Quills%20Shield.jpg"
     },
     {
       "id": 1526,
@@ -231939,8 +231939,8 @@
     },
     {
       "id": 1567,
-      "name": "Red Steel Buckler",
-      "link": "https://coryn.club/app/17-Red%20Steel%20Buckler.jpg"
+      "name": "Zahhak Shield",
+      "link": "https://coryn.club/app/17-Zahhak%20Shield.jpg"
     },
     {
       "id": 1568,
@@ -231954,8 +231954,8 @@
     },
     {
       "id": 1570,
-      "name": "Reptilian Shield",
-      "link": "https://coryn.club/app/17-Reptilian%20Shield.jpg"
+      "name": "2nd Anniv Sword",
+      "link": "https://coryn.club/app/4-2nd%20Anniv%20Sword.jpg"
     },
     {
       "id": 1571,
@@ -232089,13 +232089,13 @@
     },
     {
       "id": 1597,
-      "name": "Shotel",
-      "link": "https://coryn.club/app/4-Shotel.jpg"
+      "name": "Accordion-fold Sword",
+      "link": "https://coryn.club/app/4-Accordion-fold%20Sword.jpg"
     },
     {
       "id": 1598,
-      "name": "Dia Edge",
-      "link": "https://coryn.club/app/5-Dia%20Edge.jpg"
+      "name": "Adel Sword",
+      "link": "https://coryn.club/app/4-Adel%20Sword.jpg"
     },
     {
       "id": 1599,
@@ -254877,5 +254877,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-28T14:27:02.183Z"
+  "updatedAt": "2025-11-28T15:26:35.884Z"
 }
