@@ -90813,18 +90813,46 @@
     },
     {
       "id": 15,
-      "name": "Broken Farm Tool [Material]",
-      "sell": "6 Spina",
-      "process": "6 Metal",
+      "name": "Bird Wing [Material]",
+      "sell": "1 Spina",
+      "process": "2 Beast",
       "stats": [],
       "obtainedFrom": [
         {
-          "monster": "Crow Killer",
-          "map": "Douce Hamlet"
+          "monster": "Pico",
+          "map": "Rakau Plains"
         },
         {
-          "monster": "Crow Killer",
-          "map": "Douce Hamlet"
+          "monster": "Beak",
+          "map": "Ruined Temple Town"
+        },
+        {
+          "monster": "Beak",
+          "map": "Ruined Temple Town"
+        },
+        {
+          "monster": "Beak",
+          "map": "Ruined Temple: Area 1"
+        },
+        {
+          "monster": "Beak",
+          "map": "Ruined Temple: Area 1"
+        },
+        {
+          "monster": "Pico",
+          "map": "Marbaro Forest"
+        },
+        {
+          "monster": "Pico",
+          "map": "Rinom Plains"
+        },
+        {
+          "monster": "Arcoiris",
+          "map": "Yorl Highlands"
+        },
+        {
+          "monster": "Pico",
+          "map": "Creme Cliff (Valentine's Day Event)"
         }
       ]
     },
@@ -254911,6 +254939,6 @@
       ]
     }
   ],
-  "scriptRunning": false,
-  "updatedAt": "2025-11-29T20:05:35.077Z"
+  "scriptRunning": true,
+  "updatedAt": "2025-11-29T21:27:32.633Z"
 }
