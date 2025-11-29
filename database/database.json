@@ -236056,6 +236056,21 @@
       "id": 2189,
       "name": "Queen Staff (Potum)",
       "link": "https://coryn.club/app/19-Queen%20Staff%20(Potum).jpg"
+    },
+    {
+      "id": 2247,
+      "name": "Demon Empress Spear",
+      "link": "https://coryn.club/app/26-Demon%20Empress%20Spear.jpg"
+    },
+    {
+      "id": 2248,
+      "name": "Dia Spear",
+      "link": "https://coryn.club/app/26-Dia%20Spear.jpg"
+    },
+    {
+      "id": 2251,
+      "name": "Einsamkeit",
+      "link": "https://coryn.club/app/26-Einsamkeit.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254887,5 +254902,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-29T09:25:46.676Z"
+  "updatedAt": "2025-11-29T10:25:58.782Z"
 }
