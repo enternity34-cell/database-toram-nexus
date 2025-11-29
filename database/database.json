@@ -236076,6 +236076,11 @@
       "id": 2271,
       "name": "Jade Lance",
       "link": "https://coryn.club/app/26-Jade%20Lance.jpg"
+    },
+    {
+      "id": 2383,
+      "name": "Snow Bear Candy",
+      "link": "https://coryn.club/app/27-Snow%20Bear%20Candy.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254907,5 +254912,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-29T16:27:08.384Z"
+  "updatedAt": "2025-11-29T16:49:57.877Z"
 }
