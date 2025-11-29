@@ -236051,6 +236051,11 @@
       "id": 2151,
       "name": "Gemma Anello",
       "link": "https://coryn.club/app/19-Gemma%20Anello.jpg"
+    },
+    {
+      "id": 2189,
+      "name": "Queen Staff (Potum)",
+      "link": "https://coryn.club/app/19-Queen%20Staff%20(Potum).jpg"
     }
   ],
   "monsters_indo": [],
@@ -254882,5 +254887,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-29T07:26:23.390Z"
+  "updatedAt": "2025-11-29T08:25:28.575Z"
 }
