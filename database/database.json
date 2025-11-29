@@ -236046,6 +236046,11 @@
       "id": 2046,
       "name": "Aranea Ore",
       "link": "https://coryn.club/app/15-Aranea%20Ore.jpg"
+    },
+    {
+      "id": 2151,
+      "name": "Gemma Anello",
+      "link": "https://coryn.club/app/19-Gemma%20Anello.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254877,5 +254882,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-29T05:27:17.086Z"
+  "updatedAt": "2025-11-29T06:25:47.272Z"
 }
