@@ -231717,13 +231717,13 @@
     },
     {
       "id": 1517,
-      "name": "Marble Shield",
-      "link": "https://coryn.club/app/17-Marble%20Shield.jpg"
+      "name": "8th Anniv Shield",
+      "link": "https://coryn.club/app/17-8th%20Anniv%20Shield.jpg"
     },
     {
       "id": 1518,
-      "name": "Maton Shield",
-      "link": "https://coryn.club/app/17-Maton%20Shield.jpg"
+      "name": "Albero Shield",
+      "link": "https://coryn.club/app/17-Albero%20Shield.jpg"
     },
     {
       "id": 1519,
@@ -231752,13 +231752,13 @@
     },
     {
       "id": 1524,
-      "name": "Holy Shield",
-      "link": "https://coryn.club/app/17-Holy%20Shield.jpg"
+      "name": "Catafnia Shield",
+      "link": "https://coryn.club/app/17-Catafnia%20Shield.jpg"
     },
     {
       "id": 1525,
-      "name": "Porcupine Quills Shield",
-      "link": "https://coryn.club/app/17-Porcupine%20Quills%20Shield.jpg"
+      "name": "Coffin Shield",
+      "link": "https://coryn.club/app/17-Coffin%20Shield.jpg"
     },
     {
       "id": 1526,
@@ -254945,5 +254945,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-30T04:27:24.082Z"
+  "updatedAt": "2025-11-30T05:27:23.682Z"
 }
