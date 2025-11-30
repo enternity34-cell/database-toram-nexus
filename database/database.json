@@ -227517,8 +227517,8 @@
     },
     {
       "id": 593,
-      "name": "Santa Suit V (Normal)",
-      "link": "https://coryn.club/app/8-Santa%20Suit%20V%20%5BNormal-Female%5D.jpg"
+      "name": "Soldier Armor (Normal)",
+      "link": "https://coryn.club/app/8-Soldier%20Armor%20%5BNormal-Female%5D.jpg"
     },
     {
       "id": 594,
@@ -236109,6 +236109,11 @@
       "id": 2383,
       "name": "Snow Bear Candy",
       "link": "https://coryn.club/app/27-Snow%20Bear%20Candy.jpg"
+    },
+    {
+      "id": 596,
+      "name": "Santa Suit V (Normal)",
+      "link": "https://coryn.club/app/8-Santa%20Suit%20V%20%5BNormal-Male%5D.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254940,5 +254945,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-11-29T23:27:33.478Z"
+  "updatedAt": "2025-11-30T00:27:16.172Z"
 }
