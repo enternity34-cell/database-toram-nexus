@@ -227197,8 +227197,8 @@
     },
     {
       "id": 466,
-      "name": "Palanquin Carrier Garment (Heavy)",
-      "link": "https://coryn.club/app/8-Palanquin%20Carrier%20Garment%20%5BHeavy-Female%5D.jpg"
+      "name": "Phalanx (Armor) (Light)",
+      "link": "https://coryn.club/app/8-Phalanx%20(Armor)%20%5BLight-Male%5D.jpg"
     },
     {
       "id": 470,
@@ -227517,8 +227517,8 @@
     },
     {
       "id": 593,
-      "name": "Soldier Armor (Normal)",
-      "link": "https://coryn.club/app/8-Soldier%20Armor%20%5BNormal-Female%5D.jpg"
+      "name": "Santa Suit V (Normal)",
+      "link": "https://coryn.club/app/8-Santa%20Suit%20V%20%5BNormal-Female%5D.jpg"
     },
     {
       "id": 594,
@@ -236114,6 +236114,11 @@
       "id": 596,
       "name": "Santa Suit V (Normal)",
       "link": "https://coryn.club/app/8-Santa%20Suit%20V%20%5BNormal-Male%5D.jpg"
+    },
+    {
+      "id": 469,
+      "name": "Palanquin Carrier Garment (Heavy)",
+      "link": "https://coryn.club/app/8-Palanquin%20Carrier%20Garment%20%5BHeavy-Male%5D.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254945,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-01T16:27:37.372Z"
+  "updatedAt": "2025-12-01T17:27:37.281Z"
 }
