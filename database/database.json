@@ -235552,8 +235552,8 @@
     },
     {
       "id": 2289,
-      "name": "Pearl Sakura Halberd",
-      "link": "https://coryn.club/app/26-Pearl%20Sakura%20Halberd.jpg"
+      "name": "Wanderer's Spear",
+      "link": "https://coryn.club/app/26-Wanderer's%20Spear.jpg"
     },
     {
       "id": 2290,
@@ -235607,8 +235607,8 @@
     },
     {
       "id": 2300,
-      "name": "Abyssal Katana",
-      "link": "https://coryn.club/app/27-Abyssal%20Katana.jpg"
+      "name": "Shovel Lance",
+      "link": "https://coryn.club/app/26-Shovel%20Lance.jpg"
     },
     {
       "id": 2301,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-04T18:26:27.482Z"
+  "updatedAt": "2025-12-04T19:27:40.786Z"
 }
