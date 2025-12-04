@@ -235112,38 +235112,38 @@
     },
     {
       "id": 2197,
-      "name": "Sakura Lantern Staff",
-      "link": "https://coryn.club/app/19-Sakura%20Lantern%20Staff.jpg"
+      "name": "Pearl Sakura Halberd",
+      "link": "https://coryn.club/app/26-Pearl%20Sakura%20Halberd.jpg"
     },
     {
       "id": 2198,
-      "name": "Sakura Staff",
-      "link": "https://coryn.club/app/19-Sakura%20Staff.jpg"
+      "name": "Bardiche",
+      "link": "https://coryn.club/app/26-Bardiche.jpg"
     },
     {
       "id": 2199,
-      "name": "Sakura Warrior Staff",
-      "link": "https://coryn.club/app/19-Sakura%20Warrior%20Staff.jpg"
+      "name": "Sakura Warrior Halberd",
+      "link": "https://coryn.club/app/26-Sakura%20Warrior%20Halberd.jpg"
     },
     {
       "id": 2200,
-      "name": "Scrader Mace",
-      "link": "https://coryn.club/app/19-Scrader%20Mace.jpg"
+      "name": "Grilled Squid",
+      "link": "https://coryn.club/app/26-Grilled%20Squid.jpg"
     },
     {
       "id": 2201,
-      "name": "Seadevil Staff",
-      "link": "https://coryn.club/app/19-Seadevil%20Staff.jpg"
+      "name": "Leodom Glaive",
+      "link": "https://coryn.club/app/26-Leodom%20Glaive.jpg"
     },
     {
       "id": 2202,
-      "name": "Shaman Staff",
-      "link": "https://coryn.club/app/19-Shaman%20Staff.jpg"
+      "name": "Berg Spear",
+      "link": "https://coryn.club/app/26-Berg%20Spear.jpg"
     },
     {
       "id": 2203,
-      "name": "Shovel Staff",
-      "link": "https://coryn.club/app/19-Shovel%20Staff.jpg"
+      "name": "Heavy Spear",
+      "link": "https://coryn.club/app/26-Heavy%20Spear.jpg"
     },
     {
       "id": 2204,
@@ -235152,18 +235152,18 @@
     },
     {
       "id": 2205,
-      "name": "Sphere Staff",
-      "link": "https://coryn.club/app/19-Sphere%20Staff.jpg"
+      "name": "Kiraboshi",
+      "link": "https://coryn.club/app/27-Kiraboshi.jpg"
     },
     {
       "id": 2206,
-      "name": "Spirit Staff",
-      "link": "https://coryn.club/app/19-Spirit%20Staff.jpg"
+      "name": "Tolerancia",
+      "link": "https://coryn.club/app/26-Tolerancia.jpg"
     },
     {
       "id": 2207,
-      "name": "Spirit's Tear",
-      "link": "https://coryn.club/app/19-Spirit's%20Tear.jpg"
+      "name": "Paladin Spear",
+      "link": "https://coryn.club/app/26-Paladin%20Spear.jpg"
     },
     {
       "id": 2208,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-04T13:25:55.372Z"
+  "updatedAt": "2025-12-04T14:26:26.390Z"
 }
