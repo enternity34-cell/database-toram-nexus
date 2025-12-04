@@ -235067,13 +235067,13 @@
     },
     {
       "id": 2187,
-      "name": "Priest Mace",
-      "link": "https://coryn.club/app/19-Priest%20Mace.jpg"
+      "name": "Spirit's Tear",
+      "link": "https://coryn.club/app/19-Spirit's%20Tear.jpg"
     },
     {
       "id": 2188,
-      "name": "Queen of Hearts Staff",
-      "link": "https://coryn.club/app/19-Queen%20of%20Hearts%20Staff.jpg"
+      "name": "Staff of Cold Serenity",
+      "link": "https://coryn.club/app/19-Staff%20of%20Cold%20Serenity.jpg"
     },
     {
       "id": 2190,
@@ -235082,13 +235082,13 @@
     },
     {
       "id": 2191,
-      "name": "Reticencia",
-      "link": "https://coryn.club/app/19-Reticencia.jpg"
+      "name": "Sweet Spoon",
+      "link": "https://coryn.club/app/19-Sweet%20Spoon.jpg"
     },
     {
       "id": 2192,
-      "name": "Rock Staff",
-      "link": "https://coryn.club/app/19-Rock%20Staff.jpg"
+      "name": "Death Samurai Sword",
+      "link": "https://coryn.club/app/27-Death%20Samurai%20Sword.jpg"
     },
     {
       "id": 2193,
@@ -235097,18 +235097,18 @@
     },
     {
       "id": 2194,
-      "name": "Rolling Pin Staff",
-      "link": "https://coryn.club/app/19-Rolling%20Pin%20Staff.jpg"
+      "name": "Firefighter Flag",
+      "link": "https://coryn.club/app/26-Firefighter%20Flag.jpg"
     },
     {
       "id": 2195,
-      "name": "Sacred Ice Staff",
-      "link": "https://coryn.club/app/19-Sacred%20Ice%20Staff.jpg"
+      "name": "Battle Spear",
+      "link": "https://coryn.club/app/26-Battle%20Spear.jpg"
     },
     {
       "id": 2196,
-      "name": "Sage Staff",
-      "link": "https://coryn.club/app/19-Sage%20Staff.jpg"
+      "name": "Lightning Bolt Spear",
+      "link": "https://coryn.club/app/26-Lightning%20Bolt%20Spear.jpg"
     },
     {
       "id": 2197,
@@ -236082,8 +236082,8 @@
     },
     {
       "id": 2189,
-      "name": "Queen Staff (Potum)",
-      "link": "https://coryn.club/app/19-Queen%20Staff%20(Potum).jpg"
+      "name": "Brass Dragon Sword",
+      "link": "https://coryn.club/app/27-Brass%20Dragon%20Sword.jpg"
     },
     {
       "id": 2247,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-04T12:22:56.281Z"
+  "updatedAt": "2025-12-04T13:25:55.372Z"
 }
