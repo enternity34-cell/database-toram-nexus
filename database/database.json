@@ -234757,8 +234757,8 @@
     },
     {
       "id": 2144,
-      "name": "Drill Shaft",
-      "link": "https://coryn.club/app/26-Drill%20Shaft.jpg"
+      "name": "Elegia Staff",
+      "link": "https://coryn.club/app/19-Elegia%20Staff.jpg"
     },
     {
       "id": 2145,
@@ -234767,8 +234767,8 @@
     },
     {
       "id": 2146,
-      "name": "Potum Staff",
-      "link": "https://coryn.club/app/19-Potum%20Staff.jpg"
+      "name": "Evil Aristo Staff",
+      "link": "https://coryn.club/app/19-Evil%20Aristo%20Staff.jpg"
     },
     {
       "id": 2148,
@@ -234797,8 +234797,8 @@
     },
     {
       "id": 2155,
-      "name": "Minotaur Staff",
-      "link": "https://coryn.club/app/19-Minotaur%20Staff.jpg"
+      "name": "Golden Rod",
+      "link": "https://coryn.club/app/19-Golden%20Rod.jpg"
     },
     {
       "id": 2156,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-04T10:25:43.489Z"
+  "updatedAt": "2025-12-04T11:27:11.677Z"
 }
