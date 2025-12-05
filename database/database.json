@@ -229562,8 +229562,8 @@
     },
     {
       "id": 1086,
-      "name": "Kilt",
-      "link": "https://coryn.club/app/6-Kilt.jpg"
+      "name": "Holy Earrings",
+      "link": "https://coryn.club/app/6-Holy%20Earrings.jpg"
     },
     {
       "id": 1087,
@@ -229577,13 +229577,13 @@
     },
     {
       "id": 1089,
-      "name": "Honeybee Antennae",
-      "link": "https://coryn.club/app/6-Honeybee%20Antennae.jpg"
+      "name": "Holy Knight Vest",
+      "link": "https://coryn.club/app/6-Holy%20Knight%20Vest.jpg"
     },
     {
       "id": 1090,
-      "name": "Mole Eyes",
-      "link": "https://coryn.club/app/6-Mole%20Eyes.jpg"
+      "name": "Holy Night Muffler",
+      "link": "https://coryn.club/app/6-Holy%20Night%20Muffler.jpg"
     },
     {
       "id": 1091,
@@ -229592,8 +229592,8 @@
     },
     {
       "id": 1092,
-      "name": "Marine Visor",
-      "link": "https://coryn.club/app/6-Marine%20Visor.jpg"
+      "name": "Honeybee Antennae",
+      "link": "https://coryn.club/app/6-Honeybee%20Antennae.jpg"
     },
     {
       "id": 1093,
@@ -229867,8 +229867,8 @@
     },
     {
       "id": 1147,
-      "name": "Magic Swordsman's Coat",
-      "link": "https://coryn.club/app/6-Magic%20Swordsman's%20Coat.jpg"
+      "name": "Leather Cap",
+      "link": "https://coryn.club/app/6-Leather%20Cap.jpg"
     },
     {
       "id": 1148,
@@ -229967,8 +229967,8 @@
     },
     {
       "id": 1167,
-      "name": "Pomu the Witch",
-      "link": "https://coryn.club/app/6-Pomu%20the%20Witch.jpg"
+      "name": "Magic Swordsman's Coat",
+      "link": "https://coryn.club/app/6-Magic%20Swordsman's%20Coat.jpg"
     },
     {
       "id": 1168,
@@ -229977,8 +229977,8 @@
     },
     {
       "id": 1169,
-      "name": "Mohawk Wig",
-      "link": "https://coryn.club/app/6-Mohawk%20Wig.jpg"
+      "name": "Magical Stole",
+      "link": "https://coryn.club/app/6-Magical%20Stole.jpg"
     },
     {
       "id": 1170,
@@ -230012,8 +230012,8 @@
     },
     {
       "id": 1176,
-      "name": "Mummy Headscarf",
-      "link": "https://coryn.club/app/6-Mummy%20Headscarf.jpg"
+      "name": "Masquerade Hat",
+      "link": "https://coryn.club/app/6-Masquerade%20Hat.jpg"
     },
     {
       "id": 1177,
@@ -230022,8 +230022,8 @@
     },
     {
       "id": 1178,
-      "name": "Mushies Fam",
-      "link": "https://coryn.club/app/6-Mushies%20Fam.jpg"
+      "name": "Medic Hat",
+      "link": "https://coryn.club/app/6-Medic%20Hat.jpg"
     },
     {
       "id": 1179,
@@ -230072,8 +230072,8 @@
     },
     {
       "id": 1188,
-      "name": "Ooze Helmet",
-      "link": "https://coryn.club/app/6-Ooze%20Helmet.jpg"
+      "name": "Mochelo Hat",
+      "link": "https://coryn.club/app/6-Mochelo%20Hat.jpg"
     },
     {
       "id": 1189,
@@ -230167,8 +230167,8 @@
     },
     {
       "id": 1207,
-      "name": "Rose in Mouth",
-      "link": "https://coryn.club/app/6-Rose%20in%20Mouth.jpg"
+      "name": "Nekomimi",
+      "link": "https://coryn.club/app/6-Nekomimi.jpg"
     },
     {
       "id": 1208,
@@ -230227,8 +230227,8 @@
     },
     {
       "id": 1219,
-      "name": "Panda Hood",
-      "link": "https://coryn.club/app/6-Panda%20Hood.jpg"
+      "name": "Okame Mask",
+      "link": "https://coryn.club/app/6-Okame%20Mask.jpg"
     },
     {
       "id": 1220,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-05T10:27:41.281Z"
+  "updatedAt": "2025-12-05T11:27:24.774Z"
 }
