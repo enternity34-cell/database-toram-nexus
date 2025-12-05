@@ -232182,8 +232182,8 @@
     },
     {
       "id": 1610,
-      "name": "Cake Knife",
-      "link": "https://coryn.club/app/4-Cake%20Knife.jpg"
+      "name": "Wood Sword",
+      "link": "https://coryn.club/app/4-Wood%20Sword.jpg"
     },
     {
       "id": 1611,
@@ -232192,28 +232192,28 @@
     },
     {
       "id": 1612,
-      "name": "Catafnia Sword",
-      "link": "https://coryn.club/app/4-Catafnia%20Sword.jpg"
+      "name": "Golden Candy Greatsword",
+      "link": "https://coryn.club/app/5-Golden%20Candy%20Greatsword.jpg"
     },
     {
       "id": 1613,
-      "name": "Chicken Sword",
-      "link": "https://coryn.club/app/4-Chicken%20Sword.jpg"
+      "name": "Golden Greatsword",
+      "link": "https://coryn.club/app/5-Golden%20Greatsword.jpg"
     },
     {
       "id": 1614,
-      "name": "Choco Roll Hammer",
-      "link": "https://coryn.club/app/4-Choco%20Roll%20Hammer.jpg"
+      "name": "2nd Anniv Greatsword",
+      "link": "https://coryn.club/app/5-2nd%20Anniv%20Greatsword.jpg"
     },
     {
       "id": 1615,
-      "name": "Clarity Rose",
-      "link": "https://coryn.club/app/4-Clarity%20Rose.jpg"
+      "name": "Dia Edge",
+      "link": "https://coryn.club/app/5-Dia%20Edge.jpg"
     },
     {
       "id": 1616,
-      "name": "Cone Sword",
-      "link": "https://coryn.club/app/4-Cone%20Sword.jpg"
+      "name": "Assault Barrel",
+      "link": "https://coryn.club/app/10-Assault%20Barrel.jpg"
     },
     {
       "id": 1617,
@@ -232242,8 +232242,8 @@
     },
     {
       "id": 1622,
-      "name": "Elfin Sword",
-      "link": "https://coryn.club/app/4-Elfin%20Sword.jpg"
+      "name": "Long Bow",
+      "link": "https://coryn.club/app/9-Long%20Bow.jpg"
     },
     {
       "id": 1623,
@@ -232272,18 +232272,18 @@
     },
     {
       "id": 1628,
-      "name": "Firework Stick",
-      "link": "https://coryn.club/app/4-Firework%20Stick.jpg"
+      "name": "Lil Empress Sword",
+      "link": "https://coryn.club/app/4-Lil%20Empress%20Sword.jpg"
     },
     {
       "id": 1629,
-      "name": "Fluck Sword",
-      "link": "https://coryn.club/app/4-Fluck%20Sword.jpg"
+      "name": "Agradable",
+      "link": "https://coryn.club/app/10-Agradable.jpg"
     },
     {
       "id": 1630,
-      "name": "Fruhschneid",
-      "link": "https://coryn.club/app/4-Fruhschneid.jpg"
+      "name": "Luster Sword",
+      "link": "https://coryn.club/app/4-Luster%20Sword.jpg"
     },
     {
       "id": 1631,
@@ -232302,8 +232302,8 @@
     },
     {
       "id": 1634,
-      "name": "Golden Candy Sword",
-      "link": "https://coryn.club/app/4-Golden%20Candy%20Sword.jpg"
+      "name": "Guard Bone Bow",
+      "link": "https://coryn.club/app/9-Guard%20Bone%20Bow.jpg"
     },
     {
       "id": 1635,
@@ -232312,13 +232312,13 @@
     },
     {
       "id": 1636,
-      "name": "HATSUNE MIKU's Hand Fan",
-      "link": "https://coryn.club/app/4-HATSUNE%20MIKU's%20Hand%20Fan.jpg"
+      "name": "Shortsword",
+      "link": "https://coryn.club/app/4-Shortsword.jpg"
     },
     {
       "id": 1637,
-      "name": "Hero Sword (Pom)",
-      "link": "https://coryn.club/app/4-Hero%20Sword%20(Pom).jpg"
+      "name": "Ocean Phantom Sword",
+      "link": "https://coryn.club/app/4-Ocean%20Phantom%20Sword.jpg"
     },
     {
       "id": 1638,
@@ -232337,8 +232337,8 @@
     },
     {
       "id": 1641,
-      "name": "Ilwoon",
-      "link": "https://coryn.club/app/4-Ilwoon.jpg"
+      "name": "Profound Sword",
+      "link": "https://coryn.club/app/4-Profound%20Sword.jpg"
     },
     {
       "id": 1642,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-05T15:27:21.248Z"
+  "updatedAt": "2025-12-05T16:27:25.873Z"
 }
