@@ -231907,8 +231907,8 @@
     },
     {
       "id": 1555,
-      "name": "Luster Shield",
-      "link": "https://coryn.club/app/17-Luster%20Shield.jpg"
+      "name": "Seashell Shield",
+      "link": "https://coryn.club/app/17-Seashell%20Shield.jpg"
     },
     {
       "id": 1556,
@@ -231917,8 +231917,8 @@
     },
     {
       "id": 1557,
-      "name": "Marble Shield",
-      "link": "https://coryn.club/app/17-Marble%20Shield.jpg"
+      "name": "Shell Buckler",
+      "link": "https://coryn.club/app/17-Shell%20Buckler.jpg"
     },
     {
       "id": 1558,
@@ -231942,13 +231942,13 @@
     },
     {
       "id": 1562,
-      "name": "Ooze Shield",
-      "link": "https://coryn.club/app/17-Ooze%20Shield.jpg"
+      "name": "Sugar Cookie",
+      "link": "https://coryn.club/app/17-Sugar%20Cookie.jpg"
     },
     {
       "id": 1563,
-      "name": "Peismataris",
-      "link": "https://coryn.club/app/17-Peismataris.jpg"
+      "name": "Swirly Whirly Shield",
+      "link": "https://coryn.club/app/17-Swirly%20Whirly%20Shield.jpg"
     },
     {
       "id": 1564,
@@ -231997,18 +231997,18 @@
     },
     {
       "id": 1573,
-      "name": "Scale Shield",
-      "link": "https://coryn.club/app/17-Scale%20Shield.jpg"
+      "name": "Nychterida",
+      "link": "https://coryn.club/app/9-Nychterida.jpg"
     },
     {
       "id": 1574,
-      "name": "Seadevil Shield",
-      "link": "https://coryn.club/app/17-Seadevil%20Shield.jpg"
+      "name": "Sacred Axe",
+      "link": "https://coryn.club/app/5-Sacred%20Axe.jpg"
     },
     {
       "id": 1575,
-      "name": "Seashell Shield",
-      "link": "https://coryn.club/app/17-Seashell%20Shield.jpg"
+      "name": "Sacred Axe",
+      "link": "https://coryn.club/app/5-Sacred%20Axe.jpg"
     },
     {
       "id": 1576,
@@ -232032,8 +232032,8 @@
     },
     {
       "id": 1580,
-      "name": "Spike Shield",
-      "link": "https://coryn.club/app/17-Spike%20Shield.jpg"
+      "name": "8th Anniv Greatsword",
+      "link": "https://coryn.club/app/5-8th%20Anniv%20Greatsword.jpg"
     },
     {
       "id": 1581,
@@ -232112,18 +232112,18 @@
     },
     {
       "id": 1596,
-      "name": "8th Anniv Sword",
-      "link": "https://coryn.club/app/4-8th%20Anniv%20Sword.jpg"
+      "name": "Latria Bow",
+      "link": "https://coryn.club/app/9-Latria%20Bow.jpg"
     },
     {
       "id": 1597,
-      "name": "Accordion-fold Sword",
-      "link": "https://coryn.club/app/4-Accordion-fold%20Sword.jpg"
+      "name": "Ocean Phantom Sword",
+      "link": "https://coryn.club/app/4-Ocean%20Phantom%20Sword.jpg"
     },
     {
       "id": 1598,
-      "name": "Adel Sword",
-      "link": "https://coryn.club/app/4-Adel%20Sword.jpg"
+      "name": "Reaper Bow",
+      "link": "https://coryn.club/app/9-Reaper%20Bow.jpg"
     },
     {
       "id": 1599,
@@ -232177,8 +232177,8 @@
     },
     {
       "id": 1609,
-      "name": "Butcher's Knife",
-      "link": "https://coryn.club/app/4-Butcher's%20Knife.jpg"
+      "name": "5th Anniv Bow",
+      "link": "https://coryn.club/app/9-5th%20Anniv%20Bow.jpg"
     },
     {
       "id": 1610,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-05T14:27:18.790Z"
+  "updatedAt": "2025-12-05T15:27:21.248Z"
 }
