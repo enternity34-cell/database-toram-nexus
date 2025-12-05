@@ -232362,8 +232362,8 @@
     },
     {
       "id": 1646,
-      "name": "Leve Fang",
-      "link": "https://coryn.club/app/4-Leve%20Fang.jpg"
+      "name": "Relic Sword",
+      "link": "https://coryn.club/app/4-Relic%20Sword.jpg"
     },
     {
       "id": 1647,
@@ -232397,8 +232397,8 @@
     },
     {
       "id": 1653,
-      "name": "Maton Saber",
-      "link": "https://coryn.club/app/4-Maton%20Saber.jpg"
+      "name": "5th Anniv Greatsword",
+      "link": "https://coryn.club/app/5-5th%20Anniv%20Greatsword.jpg"
     },
     {
       "id": 1654,
@@ -232437,8 +232437,8 @@
     },
     {
       "id": 1661,
-      "name": "Profound Sword",
-      "link": "https://coryn.club/app/4-Profound%20Sword.jpg"
+      "name": "Abyssal Greatsword",
+      "link": "https://coryn.club/app/5-Abyssal%20Greatsword.jpg"
     },
     {
       "id": 1662,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-05T16:27:25.873Z"
+  "updatedAt": "2025-12-05T17:25:13.039Z"
 }
