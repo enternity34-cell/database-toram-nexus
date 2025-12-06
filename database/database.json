@@ -235062,18 +235062,18 @@
     },
     {
       "id": 2186,
-      "name": "Spirit Staff",
-      "link": "https://coryn.club/app/19-Spirit%20Staff.jpg"
+      "name": "Potum Staff",
+      "link": "https://coryn.club/app/19-Potum%20Staff.jpg"
     },
     {
       "id": 2187,
-      "name": "Spirit's Tear",
-      "link": "https://coryn.club/app/19-Spirit's%20Tear.jpg"
+      "name": "Priest Mace",
+      "link": "https://coryn.club/app/19-Priest%20Mace.jpg"
     },
     {
       "id": 2188,
-      "name": "Staff of Cold Serenity",
-      "link": "https://coryn.club/app/19-Staff%20of%20Cold%20Serenity.jpg"
+      "name": "Queen of Hearts Staff",
+      "link": "https://coryn.club/app/19-Queen%20of%20Hearts%20Staff.jpg"
     },
     {
       "id": 2190,
@@ -235082,13 +235082,13 @@
     },
     {
       "id": 2191,
-      "name": "Sweet Spoon",
-      "link": "https://coryn.club/app/19-Sweet%20Spoon.jpg"
+      "name": "Reticencia",
+      "link": "https://coryn.club/app/19-Reticencia.jpg"
     },
     {
       "id": 2192,
-      "name": "Death Samurai Sword",
-      "link": "https://coryn.club/app/27-Death%20Samurai%20Sword.jpg"
+      "name": "Rock Staff",
+      "link": "https://coryn.club/app/19-Rock%20Staff.jpg"
     },
     {
       "id": 2193,
@@ -235097,43 +235097,43 @@
     },
     {
       "id": 2194,
-      "name": "Firefighter Flag",
-      "link": "https://coryn.club/app/26-Firefighter%20Flag.jpg"
+      "name": "Rolling Pin Staff",
+      "link": "https://coryn.club/app/19-Rolling%20Pin%20Staff.jpg"
     },
     {
       "id": 2195,
-      "name": "Battle Spear",
-      "link": "https://coryn.club/app/26-Battle%20Spear.jpg"
+      "name": "Sacred Ice Staff",
+      "link": "https://coryn.club/app/19-Sacred%20Ice%20Staff.jpg"
     },
     {
       "id": 2196,
-      "name": "Lightning Bolt Spear",
-      "link": "https://coryn.club/app/26-Lightning%20Bolt%20Spear.jpg"
+      "name": "Sage Staff",
+      "link": "https://coryn.club/app/19-Sage%20Staff.jpg"
     },
     {
       "id": 2197,
-      "name": "Pearl Sakura Halberd",
-      "link": "https://coryn.club/app/26-Pearl%20Sakura%20Halberd.jpg"
+      "name": "Sakura Lantern Staff",
+      "link": "https://coryn.club/app/19-Sakura%20Lantern%20Staff.jpg"
     },
     {
       "id": 2198,
-      "name": "Bardiche",
-      "link": "https://coryn.club/app/26-Bardiche.jpg"
+      "name": "Sakura Staff",
+      "link": "https://coryn.club/app/19-Sakura%20Staff.jpg"
     },
     {
       "id": 2199,
-      "name": "Sakura Warrior Halberd",
-      "link": "https://coryn.club/app/26-Sakura%20Warrior%20Halberd.jpg"
+      "name": "Sakura Warrior Staff",
+      "link": "https://coryn.club/app/19-Sakura%20Warrior%20Staff.jpg"
     },
     {
       "id": 2200,
-      "name": "Grilled Squid",
-      "link": "https://coryn.club/app/26-Grilled%20Squid.jpg"
+      "name": "Scrader Mace",
+      "link": "https://coryn.club/app/19-Scrader%20Mace.jpg"
     },
     {
       "id": 2201,
-      "name": "Leodom Glaive",
-      "link": "https://coryn.club/app/26-Leodom%20Glaive.jpg"
+      "name": "Seadevil Staff",
+      "link": "https://coryn.club/app/19-Seadevil%20Staff.jpg"
     },
     {
       "id": 2202,
@@ -236082,8 +236082,8 @@
     },
     {
       "id": 2189,
-      "name": "Brass Dragon Sword",
-      "link": "https://coryn.club/app/27-Brass%20Dragon%20Sword.jpg"
+      "name": "Queen Staff (Potum)",
+      "link": "https://coryn.club/app/19-Queen%20Staff%20(Potum).jpg"
     },
     {
       "id": 2247,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-06T10:26:36.783Z"
+  "updatedAt": "2025-12-06T11:27:28.374Z"
 }
