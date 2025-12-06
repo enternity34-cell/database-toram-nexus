@@ -235392,13 +235392,13 @@
     },
     {
       "id": 2256,
-      "name": "Floral Lance",
-      "link": "https://coryn.club/app/26-Floral%20Lance.jpg"
+      "name": "Lil Devil Lance",
+      "link": "https://coryn.club/app/26-Lil%20Devil%20Lance.jpg"
     },
     {
       "id": 2257,
-      "name": "Glaive",
-      "link": "https://coryn.club/app/26-Glaive.jpg"
+      "name": "Light Trident",
+      "link": "https://coryn.club/app/26-Light%20Trident.jpg"
     },
     {
       "id": 2258,
@@ -235412,8 +235412,8 @@
     },
     {
       "id": 2260,
-      "name": "Grilled Squid",
-      "link": "https://coryn.club/app/26-Grilled%20Squid.jpg"
+      "name": "Abyss Katana",
+      "link": "https://coryn.club/app/27-Abyss%20Katana.jpg"
     },
     {
       "id": 2261,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-06T13:25:21.973Z"
+  "updatedAt": "2025-12-06T14:24:05.973Z"
 }
