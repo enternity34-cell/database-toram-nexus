@@ -235137,13 +235137,13 @@
     },
     {
       "id": 2202,
-      "name": "Berg Spear",
-      "link": "https://coryn.club/app/26-Berg%20Spear.jpg"
+      "name": "Shaman Staff",
+      "link": "https://coryn.club/app/19-Shaman%20Staff.jpg"
     },
     {
       "id": 2203,
-      "name": "Heavy Spear",
-      "link": "https://coryn.club/app/26-Heavy%20Spear.jpg"
+      "name": "Shovel Staff",
+      "link": "https://coryn.club/app/19-Shovel%20Staff.jpg"
     },
     {
       "id": 2204,
@@ -235152,18 +235152,18 @@
     },
     {
       "id": 2205,
-      "name": "Kiraboshi",
-      "link": "https://coryn.club/app/27-Kiraboshi.jpg"
+      "name": "Sphere Staff",
+      "link": "https://coryn.club/app/19-Sphere%20Staff.jpg"
     },
     {
       "id": 2206,
-      "name": "Tolerancia",
-      "link": "https://coryn.club/app/26-Tolerancia.jpg"
+      "name": "Spirit Staff",
+      "link": "https://coryn.club/app/19-Spirit%20Staff.jpg"
     },
     {
       "id": 2207,
-      "name": "Paladin Spear",
-      "link": "https://coryn.club/app/26-Paladin%20Spear.jpg"
+      "name": "Spirit's Tear",
+      "link": "https://coryn.club/app/19-Spirit's%20Tear.jpg"
     },
     {
       "id": 2208,
@@ -235172,8 +235172,8 @@
     },
     {
       "id": 2209,
-      "name": "Dominant Scythespear",
-      "link": "https://coryn.club/app/26-Dominant%20Scythespear.jpg"
+      "name": "Storm Staff",
+      "link": "https://coryn.club/app/19-Storm%20Staff.jpg"
     },
     {
       "id": 2210,
@@ -235182,8 +235182,8 @@
     },
     {
       "id": 2211,
-      "name": "8th Anniv Halberd VI",
-      "link": "https://coryn.club/app/26-8th%20Anniv%20Halberd%20VI.jpg"
+      "name": "Sweet Spoon",
+      "link": "https://coryn.club/app/19-Sweet%20Spoon.jpg"
     },
     {
       "id": 2212,
@@ -235192,8 +235192,8 @@
     },
     {
       "id": 2213,
-      "name": "Sakura Lantern Lance",
-      "link": "https://coryn.club/app/26-Sakura%20Lantern%20Lance.jpg"
+      "name": "Vine Staff",
+      "link": "https://coryn.club/app/19-Vine%20Staff.jpg"
     },
     {
       "id": 2214,
@@ -235237,13 +235237,13 @@
     },
     {
       "id": 2222,
-      "name": "5th Anniv Halberd",
-      "link": "https://coryn.club/app/26-5th%20Anniv%20Halberd.jpg"
+      "name": "4th Anniv Halberd",
+      "link": "https://coryn.club/app/26-4th%20Anniv%20Halberd.jpg"
     },
     {
       "id": 2223,
-      "name": "Blade Lance",
-      "link": "https://coryn.club/app/26-Blade%20Lance.jpg"
+      "name": "5th Anniv Halberd",
+      "link": "https://coryn.club/app/26-5th%20Anniv%20Halberd.jpg"
     },
     {
       "id": 2224,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-06T11:27:28.374Z"
+  "updatedAt": "2025-12-06T12:25:51.282Z"
 }
