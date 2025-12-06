@@ -235562,18 +235562,18 @@
     },
     {
       "id": 2291,
-      "name": "Poison Flame Dragon Halberd",
-      "link": "https://coryn.club/app/26-Poison%20Flame%20Dragon%20Halberd.jpg"
+      "name": "Windblast Cone Spear",
+      "link": "https://coryn.club/app/26-Windblast%20Cone%20Spear.jpg"
     },
     {
       "id": 2292,
-      "name": "Pollaxe",
-      "link": "https://coryn.club/app/26-Pollaxe.jpg"
+      "name": "Yozakura Naginata",
+      "link": "https://coryn.club/app/26-Yozakura%20Naginata.jpg"
     },
     {
       "id": 2293,
-      "name": "Queen of Hearts",
-      "link": "https://coryn.club/app/26-Queen%20of%20Hearts.jpg"
+      "name": "3rd Anniv Katana",
+      "link": "https://coryn.club/app/27-3rd%20Anniv%20Katana.jpg"
     },
     {
       "id": 2294,
@@ -235602,8 +235602,8 @@
     },
     {
       "id": 2299,
-      "name": "Sakura Warrior Halberd",
-      "link": "https://coryn.club/app/26-Sakura%20Warrior%20Halberd.jpg"
+      "name": "Abyss Katana",
+      "link": "https://coryn.club/app/27-Abyss%20Katana.jpg"
     },
     {
       "id": 2300,
@@ -235627,8 +235627,8 @@
     },
     {
       "id": 2304,
-      "name": "Ice Katana Ace",
-      "link": "https://coryn.club/app/27-Ice%20Katana%20Ace.jpg"
+      "name": "Temple Spear",
+      "link": "https://coryn.club/app/26-Temple%20Spear.jpg"
     },
     {
       "id": 2305,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-06T16:24:11.783Z"
+  "updatedAt": "2025-12-06T17:26:28.574Z"
 }
