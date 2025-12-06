@@ -235427,18 +235427,18 @@
     },
     {
       "id": 2263,
-      "name": "Heavy Spear",
-      "link": "https://coryn.club/app/26-Heavy%20Spear.jpg"
+      "name": "Spear",
+      "link": "https://coryn.club/app/26-Spear.jpg"
     },
     {
       "id": 2264,
-      "name": "Hell Reaper (Halberd)",
-      "link": "https://coryn.club/app/26-Hell%20Reaper%20(Halberd).jpg"
+      "name": "Mystic Star Spear",
+      "link": "https://coryn.club/app/26-Mystic%20Star%20Spear.jpg"
     },
     {
       "id": 2265,
-      "name": "Holy Night Halberd",
-      "link": "https://coryn.club/app/26-Holy%20Night%20Halberd.jpg"
+      "name": "New Moon Naginata",
+      "link": "https://coryn.club/app/26-New%20Moon%20Naginata.jpg"
     },
     {
       "id": 2266,
@@ -235457,8 +235457,8 @@
     },
     {
       "id": 2269,
-      "name": "Infini Glaive",
-      "link": "https://coryn.club/app/26-Infini%20Glaive.jpg"
+      "name": "Pearl Sakura Halberd",
+      "link": "https://coryn.club/app/26-Pearl%20Sakura%20Halberd.jpg"
     },
     {
       "id": 2270,
@@ -235467,13 +235467,13 @@
     },
     {
       "id": 2272,
-      "name": "Knight Lance",
-      "link": "https://coryn.club/app/26-Knight%20Lance.jpg"
+      "name": "Sakura Katana",
+      "link": "https://coryn.club/app/27-Sakura%20Katana.jpg"
     },
     {
       "id": 2273,
-      "name": "Leodom Glaive",
-      "link": "https://coryn.club/app/26-Leodom%20Glaive.jpg"
+      "name": "Queen of Hearts",
+      "link": "https://coryn.club/app/26-Queen%20of%20Hearts.jpg"
     },
     {
       "id": 2274,
@@ -236102,8 +236102,8 @@
     },
     {
       "id": 2271,
-      "name": "Jade Lance",
-      "link": "https://coryn.club/app/26-Jade%20Lance.jpg"
+      "name": "Lil Empress Katana",
+      "link": "https://coryn.club/app/27-Lil%20Empress%20Katana.jpg"
     },
     {
       "id": 2383,
@@ -254950,5 +254950,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-06T14:24:05.973Z"
+  "updatedAt": "2025-12-06T15:24:20.709Z"
 }
