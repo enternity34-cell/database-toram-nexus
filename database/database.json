@@ -254571,10 +254571,10 @@
       "exp": "0",
       "map": "-",
       "drops": [
-        "[Armor] Shiny Viridian Garb",
-        "[Armor] Shiny Viridian Garb (Smart)",
         "[Armor] Shiny Viridian Garb (Power)",
-        "[Armor] Shiny Viridian Garb (Robust)"
+        "[Armor] Shiny Viridian Garb (Robust)",
+        "[Armor] Shiny Viridian Garb",
+        "[Armor] Shiny Viridian Garb (Smart)"
       ]
     },
     {
@@ -254602,9 +254602,9 @@
       "map": "Latum Wetlands",
       "drops": [
         "[Arrow] Joyful Arrow",
-        "[Material] Brushy Tail Feather",
         "[Material] Neck Ruff",
-        "[Material] Slicked-Back Crest"
+        "[Material] Slicked-Back Crest",
+        "[Material] Brushy Tail Feather"
       ]
     },
     {
@@ -254617,9 +254617,9 @@
       "map": "Aquastida Entrance",
       "drops": [
         "[2 Handed Sword] Sacred Axe",
+        "[Material] Rough Placoid Scale",
         "[Material] Tangled Kelp",
-        "[Material] Dangerous Shark Skin",
-        "[Material] Rough Placoid Scale"
+        "[Material] Dangerous Shark Skin"
       ]
     },
     {
@@ -254777,9 +254777,9 @@
       "drops": [
         "[2 Handed Sword] Blue Rose Umbrella Sword",
         "[Knuckles] Blue Rose Gloves",
+        "[Material] Fine Liquor",
         "[Material] Ripped Suit",
         "[Material] Beautiful Corsage",
-        "[Material] Fine Liquor",
         "[Enhancer Crysta (Yellow)] Goblin Zucotto"
       ]
     },
@@ -254794,9 +254794,9 @@
       "drops": [
         "[2 Handed Sword] Blue Rose Umbrella Sword",
         "[Knuckles] Blue Rose Gloves",
-        "[Material] Beautiful Corsage",
         "[Material] Ripped Suit",
         "[Material] Caramel Tie",
+        "[Material] Beautiful Corsage",
         "[Enhancer Crysta (Yellow)] Goblin Zucotto"
       ]
     },
@@ -254812,9 +254812,9 @@
         "[2 Handed Sword] Blue Rose Umbrella Sword",
         "[Additional] Big Gob Hat",
         "[Knuckles] Blue Rose Gloves",
-        "[Material] Beautiful Corsage",
         "[Material] Ripped Suit",
         "[Material] Caramel Tie",
+        "[Material] Beautiful Corsage",
         "[Enhancer Crysta (Yellow)] Goblin Zucotto"
       ]
     },
@@ -254828,9 +254828,9 @@
       "map": "Anglaise Forest",
       "drops": [
         "[Additional] Marshmallow Headband",
+        "[Material] Beelittin",
         "[Material] Bee Pollen",
-        "[Material] Worker Bee Stash",
-        "[Material] Beelittin"
+        "[Material] Worker Bee Stash"
       ]
     },
     {
@@ -254872,8 +254872,8 @@
       "exp": "352",
       "map": "Day Sakura Garden: Mountains",
       "drops": [
-        "[Usable] Flower Nectar",
         "[Usable] Tricolor Dango II",
+        "[Usable] Flower Nectar",
         "[Material] Mountain Humus",
         "[Special] Smart Puppy Talisman"
       ]
@@ -254949,6 +254949,6 @@
       ]
     }
   ],
-  "scriptRunning": true,
-  "updatedAt": "2025-12-07T01:27:46.568Z"
+  "scriptRunning": false,
+  "updatedAt": "2025-12-07T01:36:05.784Z"
 }
