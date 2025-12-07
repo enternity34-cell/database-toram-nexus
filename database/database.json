@@ -227097,18 +227097,18 @@
     },
     {
       "id": 428,
-      "name": "Oni Garb (Normal)",
-      "link": "https://coryn.club/app/8-Oni%20Garb%20%5BNormal-Female%5D.jpg"
+      "name": "Santa Suit IV (Light)",
+      "link": "https://coryn.club/app/8-Santa%20Suit%20IV%20%5BLight-Female%5D.jpg"
     },
     {
       "id": 429,
-      "name": "Oni Garb (Light)",
-      "link": "https://coryn.club/app/8-Oni%20Garb%20%5BLight-Female%5D.jpg"
+      "name": "Praetor Suit (Normal)",
+      "link": "https://coryn.club/app/8-Praetor%20Suit%20%5BNormal-Male%5D.jpg"
     },
     {
       "id": 430,
-      "name": "Oni Garb (Heavy)",
-      "link": "https://coryn.club/app/8-Oni%20Garb%20%5BHeavy-Female%5D.jpg"
+      "name": "Santa Suit (Light)",
+      "link": "https://coryn.club/app/8-Santa%20Suit%20%5BLight-Female%5D.jpg"
     },
     {
       "id": 434,
@@ -236119,6 +236119,21 @@
       "id": 469,
       "name": "Palanquin Carrier Garment (Heavy)",
       "link": "https://coryn.club/app/8-Palanquin%20Carrier%20Garment%20%5BHeavy-Male%5D.jpg"
+    },
+    {
+      "id": 431,
+      "name": "Oni Garb (Normal)",
+      "link": "https://coryn.club/app/8-Oni%20Garb%20%5BNormal-Male%5D.jpg"
+    },
+    {
+      "id": 432,
+      "name": "Oni Garb (Light)",
+      "link": "https://coryn.club/app/8-Oni%20Garb%20%5BLight-Male%5D.jpg"
+    },
+    {
+      "id": 433,
+      "name": "Oni Garb (Heavy)",
+      "link": "https://coryn.club/app/8-Oni%20Garb%20%5BHeavy-Male%5D.jpg"
     }
   ],
   "monsters_indo": [],
@@ -254950,5 +254965,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-07T05:27:47.073Z"
+  "updatedAt": "2025-12-07T06:27:45.273Z"
 }
