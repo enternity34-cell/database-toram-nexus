@@ -231907,8 +231907,8 @@
     },
     {
       "id": 1555,
-      "name": "Seashell Shield",
-      "link": "https://coryn.club/app/17-Seashell%20Shield.jpg"
+      "name": "Luster Shield",
+      "link": "https://coryn.club/app/17-Luster%20Shield.jpg"
     },
     {
       "id": 1556,
@@ -231917,8 +231917,8 @@
     },
     {
       "id": 1557,
-      "name": "Shell Buckler",
-      "link": "https://coryn.club/app/17-Shell%20Buckler.jpg"
+      "name": "Marble Shield",
+      "link": "https://coryn.club/app/17-Marble%20Shield.jpg"
     },
     {
       "id": 1558,
@@ -231942,13 +231942,13 @@
     },
     {
       "id": 1562,
-      "name": "Sugar Cookie",
-      "link": "https://coryn.club/app/17-Sugar%20Cookie.jpg"
+      "name": "Ooze Shield",
+      "link": "https://coryn.club/app/17-Ooze%20Shield.jpg"
     },
     {
       "id": 1563,
-      "name": "Swirly Whirly Shield",
-      "link": "https://coryn.club/app/17-Swirly%20Whirly%20Shield.jpg"
+      "name": "Peismataris",
+      "link": "https://coryn.club/app/17-Peismataris.jpg"
     },
     {
       "id": 1564,
@@ -231997,18 +231997,18 @@
     },
     {
       "id": 1573,
-      "name": "Nychterida",
-      "link": "https://coryn.club/app/9-Nychterida.jpg"
+      "name": "Scale Shield",
+      "link": "https://coryn.club/app/17-Scale%20Shield.jpg"
     },
     {
       "id": 1574,
-      "name": "Sacred Axe",
-      "link": "https://coryn.club/app/5-Sacred%20Axe.jpg"
+      "name": "Seadevil Shield",
+      "link": "https://coryn.club/app/17-Seadevil%20Shield.jpg"
     },
     {
       "id": 1575,
-      "name": "Sacred Axe",
-      "link": "https://coryn.club/app/5-Sacred%20Axe.jpg"
+      "name": "Seashell Shield",
+      "link": "https://coryn.club/app/17-Seashell%20Shield.jpg"
     },
     {
       "id": 1576,
@@ -232032,13 +232032,13 @@
     },
     {
       "id": 1580,
-      "name": "8th Anniv Greatsword",
-      "link": "https://coryn.club/app/5-8th%20Anniv%20Greatsword.jpg"
+      "name": "Spike Shield",
+      "link": "https://coryn.club/app/17-Spike%20Shield.jpg"
     },
     {
       "id": 1581,
-      "name": "Spirit Shield Navida",
-      "link": "https://coryn.club/app/17-Spirit%20Shield%20Navida.jpg"
+      "name": "Iron Bow",
+      "link": "https://coryn.club/app/9-Iron%20Bow.jpg"
     },
     {
       "id": 1582,
@@ -232072,8 +232072,8 @@
     },
     {
       "id": 1588,
-      "name": "Zoe's Magic Book",
-      "link": "https://coryn.club/app/17-Zoe's%20Magic%20Book.jpg"
+      "name": "Burning Cross Dagger",
+      "link": "https://coryn.club/app/4-Burning%20Cross%20Dagger.jpg"
     },
     {
       "id": 1589,
@@ -232112,8 +232112,8 @@
     },
     {
       "id": 1596,
-      "name": "Latria Bow",
-      "link": "https://coryn.club/app/9-Latria%20Bow.jpg"
+      "name": "4th Anniv Greatsword",
+      "link": "https://coryn.club/app/5-4th%20Anniv%20Greatsword.jpg"
     },
     {
       "id": 1597,
@@ -232122,13 +232122,13 @@
     },
     {
       "id": 1598,
-      "name": "Reaper Bow",
-      "link": "https://coryn.club/app/9-Reaper%20Bow.jpg"
+      "name": "Adel Sword",
+      "link": "https://coryn.club/app/4-Adel%20Sword.jpg"
     },
     {
       "id": 1599,
-      "name": "Aeria Spada",
-      "link": "https://coryn.club/app/4-Aeria%20Spada.jpg"
+      "name": "Dark General's Sword",
+      "link": "https://coryn.club/app/4-Dark%20General's%20Sword.jpg"
     },
     {
       "id": 1600,
@@ -232142,8 +232142,8 @@
     },
     {
       "id": 1602,
-      "name": "Arachnid Sword",
-      "link": "https://coryn.club/app/4-Arachnid%20Sword.jpg"
+      "name": "Savon Spada",
+      "link": "https://coryn.club/app/5-Savon%20Spada.jpg"
     },
     {
       "id": 1603,
@@ -232177,13 +232177,13 @@
     },
     {
       "id": 1609,
-      "name": "5th Anniv Bow",
-      "link": "https://coryn.club/app/9-5th%20Anniv%20Bow.jpg"
+      "name": "Butcher's Knife",
+      "link": "https://coryn.club/app/4-Butcher's%20Knife.jpg"
     },
     {
       "id": 1610,
-      "name": "Wood Sword",
-      "link": "https://coryn.club/app/4-Wood%20Sword.jpg"
+      "name": "Cake Knife",
+      "link": "https://coryn.club/app/4-Cake%20Knife.jpg"
     },
     {
       "id": 1611,
@@ -254965,5 +254965,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-07T12:27:41.791Z"
+  "updatedAt": "2025-12-07T13:26:59.373Z"
 }
