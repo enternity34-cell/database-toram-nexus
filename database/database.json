@@ -232632,8 +232632,8 @@
     },
     {
       "id": 1700,
-      "name": "8th Anniv Greatsword",
-      "link": "https://coryn.club/app/5-8th%20Anniv%20Greatsword.jpg"
+      "name": "Desert Blade",
+      "link": "https://coryn.club/app/5-Desert%20Blade.jpg"
     },
     {
       "id": 1701,
@@ -232672,8 +232672,8 @@
     },
     {
       "id": 1708,
-      "name": "Berserker Blade",
-      "link": "https://coryn.club/app/5-Beserker%20Blade.jpg"
+      "name": "Death Gun",
+      "link": "https://coryn.club/app/10-Death%20Gun.jpg"
     },
     {
       "id": 1709,
@@ -232797,8 +232797,8 @@
     },
     {
       "id": 1733,
-      "name": "Golden Greatsword",
-      "link": "https://coryn.club/app/5-Golden%20Greatsword.jpg"
+      "name": "Sakura Edge",
+      "link": "https://coryn.club/app/5-Sakura%20Edge.jpg"
     },
     {
       "id": 1734,
@@ -254965,5 +254965,5 @@
     }
   ],
   "scriptRunning": true,
-  "updatedAt": "2025-12-07T15:25:28.736Z"
+  "updatedAt": "2025-12-07T16:27:13.773Z"
 }
